@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../blog/people-and-their-future" />
+<link rel="shortlink" href="148" />
+  <title>People and Their Future | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node\/148":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-148 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="148#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="148" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-4vfYkcWL3Gq2q8BAx1IKTskYUOWAct4tP5W8TsX-z5k" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="../blogs/tim-mack">Tim Mack&#039;s blog</a> › </li><li>People and Their Future</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">People and Their Future</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/people-and-their-future" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/people-and-their-future" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/people-and-their-future" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/people-and-their-future" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/people-and-their-future" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/people-and-their-future" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-148 node node-blog node-promoted view-mode-full clearfix" about="/blog/people-and-their-future" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="People and Their Future" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-10-27T11:22:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-10-27T11:22:47-04:00">Sun, 2019-10-27 11:22</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-field-picture-for-slideshow field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/rectangle-368px-wide/public/personal-3285990_1920_resized.png?itok=spOYDGwq" width="368" height="300" alt="" title="Credit: Gerd Altmann/Pixabay" /><div class="caption-holder" style="width:368px; max-width:100% !important;"><p class="image-caption">Credit: Gerd Altmann/Pixabay</p></div></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The future is a peculiar place, in that it often seen as uninhabited, like a chessboard, where if a series of strategic moves occur, the responses will predictability be this or that. In other words, if people are involved, we all already know how they will react. Perhaps that mindset arises by the enormous amounts of attitude/motivation-related data now being collected—as Edward Snowden reports in his memoir, <i>Permanent Record</i>—with that outcome in mind. But of course Snowden himself is an example of how the actions of a single person can lead to cultural sea changes.</p>
+<p>More interesting is people’s response to change in general, especially those changes they perceive as unsettling or threatening, as a loss and not a gain. One type of change trend is an increase in fear of diversity. Thomas L. Friedman’s soothing vision, in <i>The World Is Flat,</i> of conflict reduction through globalization seems to have been replaced by a claustrophobic sense of being hemmed in by “others.”</p>
+<p>Donald Trump aside, the rise of intolerance could be seen as a catalytic response to cultural shifts that were previously unheeded or even ignored by those most likely to be affected by them until these shifts were pointed out to them. The role of the media is usually mentioned here, but the interlinking of modern life goes beyond that—and not everyone likes it. </p>
+<p>In the arena of technology assessment, the actual changes wrought by new technologies, either immediately or years later, can be quite different from what their developers had anticipated. Part of that difference involves innovative utilizations in the marketplace, part involves unexpected enabling in other arenas not initially seen as related to those innovations, and part results from negatives impacts on economies or previously unconsidered stakeholders.</p>
+<p>Finally, the growing and rather overwhelming accumulation of behavioral and attitudinal data remains limited to its basic historical nature—what was previously done, in what circumstances. In contrast, the evolution of circumstances or shifts in zeitgeist seem to add unpredictable factors. While these can be termed cultural elements, they always involve people and their emotions, including fear, greed, lust, and love. While quite a bit of work is being done on the cognitive mechanics of behavior (brain science), it is still not a reliably predictive science.  </p>
+<p>Certainly, foresight literature is packed with best laid plans gone wrong. The astounding “rebuilding” in 1989 of Douglas Aircraft—a company whose chief failing was its independence from its McDonnell Douglas parent—without input from Douglas Aircraft leadership is a classic example, which led to what the Los Angeles Times called “a sea of red ink.”</p>
+<p>My personal experience includes being asked to speak to an auditorium of Bell Atlantic employees about a brainchild management innovation called the Bell Atlantic Way, which was experiencing major pushback. Ultimately, it was not clear that my words had much impact, as the damage had already been done, with no cross conversation in sight.</p>
+<p>But foresight misunderstandings are not always clear responses to the poor implementation of change initiatives, few of which are actually designed with the input of futurists. In contrast, they can be the result of unexpected cultural currents already in place. I have spoken in the past about addressing a senior management group from across the United States about the future of communication technologies, only to discover in Q&amp;A that their major concern was how to respond to coming economic, social, and political disaster—which now seems quite prescient. </p>
+<p>Even personal styles and messages can produce quite dramatic results. I am reminded of a story <a href="../content/critical-mind-joseph-f-coates-1929-2014" target="_&quot;blank&quot;">Joe Coates</a> told about his experience with a Midwestern corporation, where he was asked to speak at a board meeting. He had dinner the evening before with the board chair and outlined his assessment of where the company was, where it should be going and how it could get there. At the end of the dinner, the board chair said, without explanation, “Don’t bother to come to speak tomorrow, as the board will not want to hear what you have to say.” It was, in other words, a clash of cultures, world views, and personalities.</p>
+<p>In retrospect, it appears that knowing your audience (or its stakeholders) is just as or more important than understanding sector dynamics or the basic mechanics of change. In addition, the manner in which people may affect and influence one another seems essential. Change can be quite terrifying if there seems no place for people (or the individual) in its planning. Understanding both the aspirations and the fears of stakeholders before moving ahead on plotting the future seems essential as we increasingly encounter “troubled times.”</p>
+<p><b>References</b></p>
+<p>Thomas L. Friedman, <i>The World Is Flat.</i> Farrar, Straus and Giroux (2005).</p>
+<p>Edward Snowden, <i>Permanent Record.</i> Metropolitan Books/Henry Holt &amp; Co. (2019).</p>
+<p>Ralph Vartabedian, “<a href="https://www.latimes.com/archives/la-xpm-1989-10-15-fi-305-story.html" target="_&quot;blank&quot;">The Remaking of Douglas by McDonnell</a>,” <i>Los Angeles Times</i> (October 15, 1989). </p>
+<p><b>Timothy C. Mack</b> is managing principal of AAI Foresight Inc. and former president of the World Future Society (2004-2014). He may be reached at <a href="mailto:tcmack333@gmail.com">tcmack333@gmail.com</a>.</p>
+<p><i>Image:</i> <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3285990" target="blank">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3285990" target="_&quot;blank&quot;">Pixabay</a></p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="../blogs/tim-mack" title="Read Tim Mack&#039;s latest blog entries.">Tim Mack&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

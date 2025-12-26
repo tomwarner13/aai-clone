@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="work-and-technology-2050-culture-focus" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/109" />
+  <title>Work and Technology in 2050: Culture Focus | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/work-and-technology-2050-culture-focus":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-109 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="work-and-technology-2050-culture-focus#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="work-and-technology-2050-culture-focus" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-gpLqqt_yaN_3iS8rkDstjnhvcEzggBydFoAHBJSZQy4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="https://www.aaiforesight.com/blogs/lane-jennings">Lane Jennings&#039;s blog</a> › </li><li>Work and Technology in 2050: Culture Focus</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Work and Technology in 2050: Culture Focus</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/work-and-technology-2050-culture-focus" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-109 node node-blog node-promoted view-mode-full clearfix" about="/blog/work-and-technology-2050-culture-focus" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="Work and Technology in 2050: Culture Focus" class="rdf-meta element-hidden"></span>
+                        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-05-28T07:41:51-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/lane-jennings" typeof="sioc:UserAccount" property="foaf:name" datatype="">Lane Jennings</span> on <time pubdate datetime="2018-05-28T07:41:51-04:00">Mon, 2018-05-28 07:41</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><b>AAI Foresight Reports from the Future Work/Tech 2050 Workshop</b></p>
+<p>On April 25, 2018, the Federal Foresight Community of Interest (FFCoI) teamed with The Millennium Project for a workshop in Arlington, Virginia, to assess prospects for global changes in the nature of work between now and 2050. Similar workshops had already been held in 17 countries, and still more are planned. Organizers are assembling recommendations and suggestions that workshop participants have offered and will present them without attribution. The goal is to form a basis for a multinational initiative that will facilitate a new concept of work as human engagement in meaningful activity, with or without direct financial reward.</p>
+<p>While new developments in science and technology are clearly one major source of dramatic change in the workplace, the April Work/Tech 2050 workshop in Arlington also explored potential developments in other areas of society: government, education, business/labor, and culture. After an initial orientation meeting, the five designated subject groups split up to hold independent discussions. An hour or so later, all participants met together once again to report on progress, share findings, and exchange questions. This pattern of alternating small-group and large-group sessions continued throughout the day and concluded with spokespersons from each focus group presenting their key topics and issues.</p>
+<p>As AAI Foresight’s reporter, I spent the day as a member of the group focused on culture, and the comments that follow predominantly reflect the discussions that took place within this group. However, I also include a brief list of topics and issues highlighted in reports from the other four groups.</p>
+<p>The participants in this workshop came from a wide range of backgrounds both within and outside of government. There were business leaders, professional planners, consultants, academics, representatives of military and civilian agencies within the federal government, and a variety of other individuals noted for their interest in futures. But one of the preconditions for all those taking part was that none of the issues or objections raised in the course of our discussions would be identified as coming from a particular source. In this way, the organizers hope that each of the ideas and proposals resulting from our deliberations will be weighed and judged objectively without any bias due to the reputation of individuals offering the suggestion or that of the organizations they work for.</p>
+<p><b>Work and Culture</b></p>
+<p>Attempting to determine just how “culture” might impact the nature of work and technology between now and the year 2050 quickly proved to be an enormous task. The very concept of culture is so vague that it almost defies definition. Language, religion, philosophy, works of art in any form, long-standing customs and traditions, current tastes and fashions, and the daily behavior of ordinary people all can be considered manifestations of culture. And even this list is far from complete.</p>
+<p>Limiting the term “culture” to apply only within a particular region or area of influence doesn’t help much. Thus “American” culture necessarily includes both so-called fine arts and products clearly intended for mass consumption (pop culture) manifested in everything from comic books, movies, and TV to advertising and politics. In recent years, the explosive spread of social networking via Facebook, Twitter, Instagram, and a host of other many-to-many electronic links has expanded the potential reach and impact of both large and small-scale purveyors of culture exponentially, making it possible for previously unknown groups or individuals to quickly reach millions of info-consumers worldwide.</p>
+<p>Our group acknowledged that many people today feel left behind, as no one is able to keep up with everything that is happening. In a world of almost limitless information, any given individual is almost bound to feel frightened and vulnerable. In terms of work and technology, this means that no one today can really feel confident that they have “enough” education or hold a job that is truly secure.</p>
+<p>One way to deal with these feelings of fear and uncertainty is “siloization”—consciously limiting the sources of one’s information to minimize conflict or surprise. Social networking via the Internet makes this option so easy that one can quickly forget that inconvenient facts or opinions very different from your own even exist. The dangers of such a one-sided viewpoint ought to be obvious, but they are not. Consequently, the first issue our group began to consider—before we could even address what sorts of changes the next few decades might be likely to bring to the nature of work—was how culture might help people reach consensus on just what these changes were. We concluded, generally, that culture can:</p>
+<p>- Help make civility fashionable again.<br />
+- Make synergy more attractive (and profitable) than competition.<br />
+- Create new models of social cohesion.<br />
+- Promote the value of collaboration.</p>
+<p>At this point the five groups converged for a brief joint session to exchange first thoughts. While we will look at those of the other groups altogether at the end of this article, additional points offered by the culture group included the following:</p>
+<p>- Global society is largely tech-driven; as a result, individuals (and workers) are stressed.<br />
+- We can empower individuals by motivating people and boosting human dignity.<br />
+- U.S. culture today is itself under stress—e.g., rural vs. city values, fear-based behavior.<br />
+- If the United States hopes to lead by example, as in the past, we must determine the role of corporations in society.<br />
+- Anger is easy to generate today; happiness is not.</p>
+<p>Back in our small group setting, the discussion turned to the arts and their potential to influence public opinion on major issues. Despite the obvious role of money in all aspects of artistic production (what gets produced today is usually what seems most likely to bring financial backers a good return on their investment) it remains true that artists tell stories for a purpose. One possibility is to induce storytellers to dramatize characters and situations that feature credible positive outcomes for individuals who embrace new ways of work and new ideas of what employment means.</p>
+<p>We anticipate that robots, advanced artificial intelligence (AI), and such innovations as 3- and 4-dimensional printers will replace many existing jobs in manufacturing, driving vehicles, assisting customers in stores, preparing routine forms such as tax returns, and so on. Proposals to help the workers displaced from such jobs include investing in your replacement (e.g., having truck drivers invest in corporations developing self-driving vehicles); retraining line workers to become independent makers (learning how to use a 3-D printer to manufacture a complete finished product rather than simply installing one or two simple parts in a complex machine); and achieving self-fulfillment through the creative application of skills that were once limited to routine tasks (e.g., enabling former accountants to expand their math skills to carry out advanced analyses in natural science or big-data-driven economic theory). One of the key ideas here is to promote human/AI synergy as opposed to merely replacing human workers with machines.</p>
+<p>Books such as <i>Uncle Tom’s Cabin, On the Beach,</i> and <i>Silent Spring</i> all played important roles in changing public attitudes toward major social issues of their times. Similarly, presenting positive depictions in fiction and media of human/machine cooperation and satisfying accomplishments in a near-future setting could inspire many and help ease the transition from work as we know it today to more self-fulfilling activities in a high-tech/high-touch global society of coming decades.</p>
+<p>Following a second round of reports to the whole and separate group meetings, we began to zero in on a few specific suggestions for action. These include:</p>
+<p>- Find ways to make ethical behavior profitable and of clear social benefit.<br />
+- Expand responsible interest groups (e.g., supplementing mere GDP statistics with broader social performance metrics).<br />
+- Create a DARPA for culture to help assure that new technologies serve a valuable social function (e.g., publicizing how cellphone use enables African workers in city slums to stay in touch and gain support from families and friends in their distant home villages).<br />
+- Look outside U.S. borders for ideas on how to promote work/tech goals through the arts.<br />
+- Connect science and art to create new learning/living experiences.<br />
+- Use virtual reality (VR) to make learning easier and more memorable.<br />
+- Use museums and national parks as places to preserve the past for the future (e.g., turning antiquated library and post office buildings into high-tech urban communication hubs).<br />
+- Teach and promote the art of learning itself as a way to encourage self-expression.</p>
+<p><b>Highlights from Other Discussion Groups</b></p>
+<p>Recommendations arising from the Future Work/Tech workshop’s other focus group discussions include the following.</p>
+<p><b>Government</b></p>
+<p>- Develop new models to measure productivity in jobs and measure progress of future societies (SEC, DOL).<br />
+- Define standards for ANI/AGI/ASI, biotech, synthetic beings, and change funding structures where applicable to enable incentives to drive more engagement.<br />
+- Use persons augmented with AI to help with responsiveness and performance.<br />
+- Establish an Agency of the Future and/or a Museum of the Future like the 1939 World’s Fair.<br />
+- Create programs (e.g., a new Civilian Conservation Corps) to enable more citizen engagement in U.S. leadership roles (military, teaching, Peace Corps, etc.).</p>
+<p><b>Science and Technology</b></p>
+<p>- Create more government science and technology policies at all levels.<br />
+- Have Congress fund a “Study of the Future.”<br />
+- Reestablish the Office of Technology Assessment.<br />
+- Have the executive branch create a version of the Office of Science &amp; Technology Policy in each federal agency.<br />
+- Develop massive multiplayer online scenario-planning games to engage experts and ordinary citizens alike in exploring the pluses and minuses of new science and technology.</p>
+<p><b>Business/Labor</b></p>
+<p>- Create a legal framework for alternative currencies in augmented economies.<br />
+- Use blockchain to enable trust and transparency in identity management.<br />
+- Create new labor unions that enable small (even one-person) businesses to guarantee workers’ rights in self-employment.<br />
+- Define a new social contract of workers’ rights in a transnational and global economy.<br />
+- Explore alternative business models to capture synergies and benefits using technology to secure traditional workers’ benefits not otherwise available.</p>
+<p><b>Education</b></p>
+<p>- Develop empathy training.<br />
+- Change STEM (science, technology, engineering, and math) to STEAM by adding arts.<br />
+- Incorporate augmented and virtual reality for immersive learning.<br />
+- Crowdsource education content creation for augmented and virtual reality applications.<br />
+- Enable corporate recruiting of students based on merit and gamification badges earned (element of surprise is that students can earn money for applying new skills as they learn them).</p>
+<p><b>Follow-Up</b></p>
+<p>The discussions that took place at this all-day workshop were not intended to reach definitive conclusions. Instead, each of the participating focus groups found themselves confronting wide-ranging issues that clearly deserve further exploration. Accordingly, there was general agreement that a second meeting should be held within the next few weeks to build upon the promising start made here. The next meeting has been scheduled for June 15, and, as soon as it takes place, you will read about it here.</p>
+<p>For further information about the Future Work/Tech 2050 Workshop, contact Eric C. Popiel, chair of the Federal Foresight Community of Interest, at <a href="mailto:Eric.C.Popiel@uscg.mil">Eric.C.Popiel@uscg.mil</a>, or Jerome C. Glenn, CEO of The Millennium Project, at <a href="mailto:Jerome.Glenn@millennium-project.org">Jerome.Glenn@millennium-project.org</a>.</p>
+<p><b>Lane Jennings</b> worked as a writer and editor for the World Future Society for more than 30 years and retired in 2015 as managing editor of the <i>World Future Review.</i> He now freelances from his home in Columbia, Maryland, and can be reached at <a href="mailto:lanejen@aol.com">lanejen@aol.com</a>.</p>
+<p><b>Feedback:</b> To submit feedback, contact Cindy Wagner, consulting editor, <i>Foresight Signals,</i> at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+<p>Comment from <b>Dennis M. Bushnell,</b> <a href="mailto:dennis.m.bushnell@nasa.gov">dennis.m.bushnell@nasa.gov</a></p>
+<p>The Future Work workshop appears to have missed the prime issues:</p>
+<p><b>1. Raw economics: With the machines taking the jobs how will people live?</b> With guaranteed income, no need for a job or to pay people to do stuff—or if so, what stuff? Going forward, the essential economic wealth will reside in the machines. With the Thaler Imagination engine, the machine capability to very rapidly evaluate nearly random combinatorials for solution spaces, they will do the creation/ideation better than humans, along with just about anything and everything else. </p>
+<p>We humans are too successful, we are working ourselves out of a job. So the economics devolve down to either putting up with the 1%- versus 99% wealth gap, as the 1% own the machines, or placing the machines in a global commons and distribute the wealth they produce. The Durants’ book on the 10 lessons of history says extreme wealth disparity fosters revolutions. For physiological and other reasons, folks hate change, and not having to work for our daily bread is about as extreme a change as they come. The workshop did not evidently address this central issue.</p>
+<p><b>The psychological impacts of not working.</b> There really will not, econometrically, be a reason to work. The machines will produce massive wealth writ large going forward via advanced algorithms, data, and brain emulations. But we are programmed by evolution to work, and as has often been indicated, that is how many define themselves and their worth. So, without jobs, perhaps including make-work jobs, what will people do all day? This will require a rather fundamental change in our mental makeup, values, a redefinition of the human-existence theorem. The workshop addressed this in a loose, peripheral, and piecemeal way, but evidently did not work this second fundamental issue with respect to the machines taking the jobs head-on.</p>
+<p>Once both of these fundamental issues are addressed, solution spaces developed, then would be the time to work the issues, and more, actually addressed in the workshop. The most difficult part of developing solution spaces is the cogent definition of the problem spaces.</p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="https://www.aaiforesight.com/blogs/lane-jennings" title="Read Lane Jennings&#039;s latest blog entries.">Lane Jennings&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

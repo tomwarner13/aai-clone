@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="tech-breakthroughs-and-breakdowns-no-singularity-and-more" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/202" />
+  <title>Tech Breakthroughs and Breakdowns; No Singularity; and more | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/tech-breakthroughs-and-breakdowns-no-singularity-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-202 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="tech-breakthroughs-and-breakdowns-no-singularity-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="tech-breakthroughs-and-breakdowns-no-singularity-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7dWFJiHvA03SbMBm4e7rj9lX1r6ip9DB_y1bn46KyeY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Tech Breakthroughs and Breakdowns; No Singularity; and more</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Tech Breakthroughs and Breakdowns; No Singularity; and more</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-202 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/tech-breakthroughs-and-breakdowns-no-singularity-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Tech Breakthroughs and Breakdowns; No Singularity; and more" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 8,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 2</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-02-03T00:00:00-05:00">February 3, 2022</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Technologies and Their Consequences</h2>
+<p>Computing, communications, artificial intelligence, and a host of other technologies have enabled numerous advances. But they also have “resulted in a truly existential societal vulnerability due to the utter reliance upon electrons,” warns NASA scientist <b>Dennis Bushnell</b> in his latest <a href="../blog/tech-related-futures-and-their-impacts-upon-major-societal-issues" target="_&quot;blank&quot;">article</a> for the Foresight Signals blog.</p>
+<p>Among the areas seeing “serious-to-existential societal issues/threats” are climate, the ecosystem, employment, smarter-than-human AI, biohacking, and food and water.</p>
+<p>“Overall, technology developments are rapidly altering econometrics and lifestyles and are capable of mitigating many of the serious societal issues,” Bushnell writes. “There is a need to address these issues concomitantly rather than individually to ensure overall effectiveness.”</p>
+<p><i>Read</i> “<a href="../blog/tech-related-futures-and-their-impacts-upon-major-societal-issues" target="_&quot;blank&quot;">Tech-Related Futures and Their Impacts Upon Major Societal Issues</a>” by Dennis M. Bushnell, Foresight Signals blog (January 17, 2022). </p>
+<p><i>Additional reading:</i> Executive summary and overview, <a href="https://www.atlanticcouncil.org/content-series/geotech-commission/exec-summary/" target="_&quot;blank&quot;"><i>Report of the Commission on the Geopolitical Impacts of New Technologies and Data</i></a>  by the Atlantic Council (May 2021). “The coming decade—the ‘GeoTech Decade’—must address the sophisticated but potentially fragile systems that now connect people and nations, and incorporate resiliency as a necessary foundational pillar of modern life.”</p>
+<h2>Findings: No Singularity Imminent</h2>
+<p>There is no upcoming technological singularity, and complexity in our lives will likely begin decreasing “sometime in the not too distant future,” says <b>Theodore Modis</b>, a scientist and strategic analyst specializing in the study of growth and cycles in a variety of contexts.</p>
+<p>Modis’s article “Links between Entropy, Complexity, and the Technological Singularity” in the journal <i>Technological Forecasting &amp; Social Change</i> (March 2022) corroborates 20 years of research that has enabled him “to establish a simple mathematical relationship between entropy and complexity,” he stated in an email. “This relationship provides general guidelines on how complexity relates to entropy, for example complexity is higher when entropy grows faster,” he writes. </p>
+<p>Limited-time access to the <a href="https://authors.elsevier.com/a/1eLvK98SGp4iP" target="_&quot;blank&quot;">article</a> is free on Elsevier’s website, or readers may download a preprint <a href="https://osf.io/6nwf9/" target="_&quot;blank&quot;"><i>here</i></a>.   </p>
+<h2>A Day for the Future</h2>
+<p><b>March 1, 2022</b>, marks the 10th anniversary of <b>Future Day</b>, “a general holiday not tied to any specific organization,” states organizer <b>Adam Ford</b> of <a href="https://www.scifuture.org/" target="_&quot;blank&quot;">Science, Technology &amp; the Future</a>. The day is intended to encourage all kinds of dialogue—from global conferences to dinner conversations—focusing on how the future is affecting us and how we can shape the future. Suggested activities include art projects at schools and holidays at organizations to encourage employees’ futures creativity. Ford also invites celebrants to share photos of their Future Day gatherings. <i>[<a href="https://future-day.org/" target="_&quot;blank&quot;">Learn more</a>]</i></p>
+<p><b>The Millennium Project</b> (TMP), with a network of 70 international nodes, will lead its ninth annual World Futures Day around-the-world conversations on March 1. The conversations start at noon in each of the planet’s time zones, beginning in New Zealand and concluding in Hawaii. The conversations are an opportunity “for futurists and the public to discuss their views about challenges and opportunities for the futures of humanity for building a better future for all.” Partners for the initiative include <b>Humanity+, World Academy of Art and Science</b>, and <b>World Futures Studies Federation</b>. <i>[<a href="https://www.millennium-project.org/2022-world-futures-day-pre-launch-and-2021-wfd-results/" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+<p>In parallel with TMP’s World Futures Day conversations, <b>Teach the Future</b> will sponsor the discussion for Young Voices (online event). “We want to make sure young people are also part of the conversation. In the end, it is their future we are all talking about.” <i>[<a href="https://www.teachthefuture.org/event-details/world-futures-day-young-voices" target="_&quot;blank&quot;">Learn more</a>]</i></p>
+<p>Finland marks Future Day on <b>March 4</b> as a national day “to make the future visible, strengthen Finns' awareness of the future and believe in the future.” This year’s theme is “a hopeful future,” and organizers have provided resources for sharing thoughts and participating in discussions and other activities. <i>[<a href="https://tulevaisuuspaiva.fi/in-english/" target="_&quot;blank&quot;">Learn more</a>]</i></p>
+<h2>Mark Your Calendar: Deadlines and Events</h2>
+<ul>
+<li><b>February 14</b> is the deadline for submitting abstracts to the International Institute for Applied Systems Analysis' Scenarios Forum 2022, to be held June 20–22 in Laxenburg, Austria. The Forum will focus on scenarios for climate and societal futures. <i>[<a href="https://scenariosforum.org/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li><b>February 15</b> is the deadline for submitting abstracts for the Fourth International Conference on Anticipation, to be held November 16–18 at The Julie Ann Wrigley Global Futures Laboratory at Arizona State University, Tempe. Event organizers invite proposals on the conference themes of Public Futures; Politics, Justice and Ethics of Anticipation; Decolonizing Anticipation; Critical Anticipatory Capacities; Creativity, Innovation and New Media; Time and Temporalities; and other submissions that do not fall neatly into these categories. <i>[<a href="http://anticipationconference.org/call-for-participation-2022/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li><b>February 24–27</b> online. The <a href="https://ecoversities.org/" target="_&quot;blank&quot;">Ecoversities Alliance</a>  is hosting its Re-imagining Education Conference (REC) 2.0, a four-day virtual conference focusing on the question of how to “reframe and sustain learning environments that honour diverse knowledge ecologies and cosmologies in a rapidly changing world.” <i>[<a href="https://re-imagining.education/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li><b>February 28</b> is the deadline for submissions to the Association of Professional Futurists’ 2022 Student Recognition Program. Sponsoring universities offering undergraduate, master’s, and/or Ph.D. programs or degrees in Foresight and Futures Studies may submit up to five student works deemed exceptional contributions to the field. <i>[<a href="https://www.apf.org/page/StudentRecognitionProgram" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li><b>April 15</b> is the deadline to enter the <a href="https://futureoflife.org/" target="_&quot;blank&quot;">Future of Life Institute</a>’s  World Building Contest. Competing for a prize in a purse totaling $100,000, teams from around the world are invited to submit designs for “a plausible, aspirational future that includes strong artificial intelligence.” <i>[<a href="https://worldbuild.ai/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+</ul>
+<h2>New Initiatives</h2>
+<ul>
+<li>The European Commission’s Competence Centre on Foresight has launched a new project, #OurFutures, inviting EU citizens to share their visions of the future. The collected stories, offering “hopes, uncertainties, and ideas,” will be analyzed to help “detect early signs of potentially important developments, persistent problems, novel and unexpected issues.” <i>[<a href="https://knowledge4policy.ec.europa.eu/projects-activities/ourfutures-images-future-europe_en" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li>Teach the Future has posted a new discussion forum where participants can explore the future together. “This the place to share, explore and discuss about futures in education with others around the world.” <i>[<a href="https://www.teachthefuture.org/forum" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+</ul>
+<h2>Foresight Resources</h2>
+<ul>
+<li>The Futures School is offering free access to several resources, including the opportunity to <a href="https://thefuturesschool.com/nominate/" target="_&quot;blank&quot;">nominate an individual</a> to receive free tuition through 2022 to its Foundations in Natural Foresight<sup>®</sup> or Activations in Natural Foresight<sup>®</sup> programs. The Futures School also hosts <a href="https://thefuturesschool.com/year-of-free-inspiration/" target="_&quot;blank&quot;">regular discussions</a>  that may be accessed on demand or live, such as the Wicked Opportunities<sup>TM</sup> podcasts hosted by co-founders <b>Frank W. Spencer IV</b> and <b>Yvette Montero Salvatico</b>. <i>[<a href="https://thefuturesschool.com/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li>The Institute For the Future (IFTF) has published highlights of its 2021 Ten-Year Forecast, based on its summit in September. <i>[<a href="https://www.iftf.org/tyf2021/" target="_&quot;blank&quot;">Learn more</a>]</i> IFTF is also offering signed copies of research director, forecaster, and game designer <b>Jane McGonigal</b>’s forthcoming book, <i>Imaginable</i>, including an invitation to a live book event with Jane on April 12. <i>[<a href="https://www.bookpassage.com/Imaginable" target="_&quot;blank&quot;">Order by March 22</a>]</i></li>
+<li><b>Ian Yeoman, Una McMahon-Beattie</b>, and <b>Marianna Sigala</b> (editors) have published <i>Science Fiction, Disruption and Tourism</i> (Channel View Publications, December 20, 2021). Chapters address disruption, sustainability, technology, and other areas to provoke reconceptualizing the future “through alternative and quantum leap thinking that go beyond the normative or accepted view of tourism.” <i>[<a href="https://www.multilingual-matters.com/page/detail/Science-Fiction-Disruption-and-Tourism/?k=9781845418663" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li>The February issue of <i>Club of Amsterdam Journal</i> (Issue 240, edited by <b>Felix B. Bopp</b>) features articles on “Understanding others’ feelings: what is empathy and why do we need it?” by <b>Pascal Molenberghs</b>; “TikTok, a new learning platform?” by <b>Peter van Gorsel</b>; “The Hacking of the American Mind” with Dr. <b>Robert Lustig</b>; “Foodscaping” with <b>Matt Lebon</b>; “Applied Empathy” with <b>Michael Ventura</b>; and a profile of <b>Rana el Kaliouby</b>, pioneer of artificial emotional intelligence. <i>[<a href="https://clubofamsterdam.com/Ncontentimages/journal%202022/journal%20240/journal240.htm" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+<li>Using Foresight, founded and hosted by <b>Victor Sarat</b>, has launched the 2022 series of its <a href="https://www.instagram.com/usingforesight/" target="_&quot;blank&quot;">Applying Futures Thinking</a> discussions on Instagram Live. Using Foresight also hosts forums on Twitter (Navigating World Signals), YouTube (The Multiverse Conversation), and LinkedIn (Using Foresight with the Public). Professionals previously featured include futurologist <b>Alexandra Whittington</b>, trend researcher <b>Emmanuelle Naranjo</b>, futurist <b>Sylvia Gallusser</b>, foresight practitioner <b>Monica Mendez</b>, and humanist <b>Agustin Borazzas</b>. The platform also encourages contributions from nonprofessionals. <i>[<a href="https://usingforesight.com/" target="_&quot;blank&quot;">Learn more</a>]</i></li>
+</ul>
+<h2>Signal Thoughts</h2>
+<p>“The future is called ‘perhaps,’ which is the only possible thing to call the future. And the important thing is not to allow that to scare you.” <b>Tennessee Williams</b>, “The Past, Present, and Perhaps,” <i>Orpheus Descending</i>, 1957</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

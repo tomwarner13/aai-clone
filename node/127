@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../newsletter/futurist-community-year-review" />
+<link rel="shortlink" href="127" />
+  <title>Futurist Community Year in Review | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node\/127":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-127 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="127#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="127" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-wS569xls8Al1LMOo0QfkKR9NLjHskFwJZ-3rDHgag4I" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Futurist Community Year in Review</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Futurist Community Year in Review</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/futurist-community-year-review" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/futurist-community-year-review" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/futurist-community-year-review" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/futurist-community-year-review" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/futurist-community-year-review" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/futurist-community-year-review" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-127 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/futurist-community-year-review" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Futurist Community Year in Review" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 5,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 1</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-01-11T00:00:00-05:00">January 11, 2019</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Futurists around the world launched a range of projects in 2018; we’ve summarized a few highlights below. We encourage all foresight professionals to share their work, insights, and news throughout the year. Please forward your “foresight signals” to AAI Foresight’s consulting editor at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+<h2>Association of Professional Futurists</h2>
+<p>In addition to the Most Significant Futures Works awards reported in the November <i><a href="http://www.aaiforesight.com/newsletter/futurist%E2%80%99s-%E2%80%9Cexit-interview%E2%80%9D-futures-groups-announce-leaders-and-more" target="_&quot;blank&quot;">Foresight Signals</a>,</i> the Association of Professional Futurists (APF) presented 2018 <a href="https://apf.org/student-recognition-program/award-winners/" target="_&quot;blank&quot;">Student Recognition Awards</a>  to papers by graduate and undergraduate individuals and groups. The PhD first-place honoree is <b><a href="https://www.utu.fi/en/news/news/association-of-professional-futurists-award-to-akhgar-kaboli-and-petri-tapio" target="_&quot;blank&quot;">Seyedeh Akhgar Kaboli</a></b> of the Finland Futures Research Centre. </p>
+<p>APF named 11 <a href="https://apf.org/emerging-fellows/" target="_&quot;blank&quot;">Emerging Fellows</a>  for 2018, selected to contribute ideas and report on APF work during the year for its <a href="https://apf.org/blog/" target="_&quot;blank&quot;">blog</a>.  Questions the Emerging Fellows pondered during the year include “<a href="https://apf.org/are-we-designing-the-planet-for-us/" target="_&quot;blank&quot;">Are We Designing the Planet for Us?</a>”  and “<a href="https://apf.org/is-the-united-states-still-indispensible/" target="_&quot;blank&quot;">Is the United States Still Indispensable?</a>”  </p>
+<p>In October, APF hosted an online virtual gathering, Future Festival, for discussions on “Diverse Futures.” <i>[<a href="http://futuresfestival.online/?fbclid=IwAR3DyB1FzMA2xCtn4roQfkWH-U2VgffYwWssvKgem7CudMepK6No0eyJTjM" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+<h2>The Millennium Project</h2>
+<p>The <a href="http://www.millennium-project.org/" target="_&quot;blank&quot;">Millennium Project</a>  (TMP) began the year with the release of <i><a href=" http://www.millennium-project.org/state-of-the-future-version-19-1/" target="_&quot;blank&quot;">The State of the Future 19.1</a>,</i>  by <b>Jerome C. Glenn, Elizabeth Florescu,</b> and The Millennium Project Team. The latest edition includes new infographics for the 15 global challenges, and TMP has made the executive summary available as a free download in English, Arabic, Chinese, Greek, Italian, Portuguese, and Spanish.</p>
+<p>TMP continued coordinating workshops and compiling results for its <a href="http://www.millennium-project.org/projects/workshops-on-future-of-worktechnology-2050-scenarios/" target="_&quot;blank&quot;">Future Work/Technology 2050 Study</a>. The 150-page pre-publication report offers a set of global scenarios and actions to address future work and technology issues.</p>
+<p>TMP’s newly forming Ambassadors to the Future program has begun selecting students to participate in university-based “embassies” for future-oriented activities across academic disciplines. The first Ambassador to the Future is <b>Nikola Medová,</b> a graduate student at Olomouc University, Czech Republic, selected by Professor <b>Pavel Novacek,</b> chair of TMP’s Central European Node. <i>[<a href="http://www.millennium-project.org/contact-us/" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+<h2>Ethical Markets</h2>
+<p>Ethical Markets founder and president <b>Hazel Henderson</b> named several new additions to the group’s global advisory board, including <b><a href="http://www.ethicalmarkets.com/ethical-markets-welcomes-theodore-j-gordon-to-global-advisory-board/" target="_&quot;blank&quot;">Theodore J. Gordon</a>,</b> co-founder and senior fellow, The Millennium Project.  Read more 2018 highlights at <a href="http://www.ethicalmarkets.com/ethical-markets-december-2018-updates/" target="_&quot;blank&quot;">Ethical Markets</a>, including Henderson’s articles, interviews, podcasts, and other work. </p>
+<h2>World Academy of Art &amp; Science</h2>
+<p>The Millennium Project and Ethical Markets joined the <a href="http://www.worldacademy.org" target="_&quot;blank&quot;">World Academy of Art &amp; Science</a> (WAAS) and the World University Consortium in St. Augustine, Florida, in November for a three-day roundtable on “The Future of Democracy.” The event built on the insights, conclusions, and recommendations generated at the previous roundtable, held in Dubrovnik, Croatia, in April. Papers and presentations are available at <a href="http://www.worldacademy.org/conferences/future-democracy-nov-2018" target="_&quot;blank&quot;">WAAS</a>.</p>
+<h2>Institute for the Future</h2>
+<p>The <a href="http://www.iftf.org" target="_&quot;blank&quot;">Institute for the Future</a> (IFTF) has named <b>Van Ton-Quinlivan</b> its new executive in residence. Ton-Quinlivan is a long-time sponsor of IFTF’s Work + Learn Futures Lab and executive vice chancellor, Workforce &amp; Digital Futures, for the California Community Colleges Chancellor’s Office in Sacramento.</p>
+<p>IFTF named <b>Ferdinando Buscema</b> its first <a href="http://www.iftf.org/future-now/article-detail/iftfs-magician-in-residence/" target="_&quot;blank&quot;">Magician-in-Residence</a>  to “inject even more wonder into futures thinking.”  IFTF says it will work with Buscema, a magic experience designer, author, and organizational consultant, to “co-develop events, corporate workshops, and research at the intersection of technology, organizational strategy, and magic to spark the imagination.” </p>
+<p>IFTF also named <b>Amber Case</b> a research fellow. Case is the author of <i>Calm Technology</i> and <i>Designing With Sound.</i> Her research with IFTF will “look at the implications of how we are currently automating our world, and the ethical considerations around technological applications that are already impacting every aspect of our lives.” <i>[<a href="http://www.iftf.org/" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+<h2>Teach the Future</h2>
+<p><a href="http://www.teachthefuture.org" target="_&quot;blank&quot;">Teach the Future</a>’s global network of futures educators and advocates has expanded to hubs in <a href="http://www.teachthefuture.org/blog/2018/12/15/mjlmntjnm3mhgay0ix2j947tz45ca6" target="_&quot;blank&quot;">India</a> and <a href="http://www.teachthefuture.org/blog/2018/12/16/ttf-hub-gt-mexico-in-the-spotlight" target="_&quot;blank&quot;">Mexico</a>, where “community members are piloting and experimenting with futures related teaching materials in their classes and workshops,” reports <b>Peter Bishop.</b> </p>
+<p>Bishop also notes that two of Teach the Future’s affiliated foresight practitioners, <b>Erica Bol</b> and <b>Aileen Moeck,</b> earned the Joseph Jaworski Next Generation Foresight Practitioners Award in the category of Joint Education Special Award. Learn more at <a href="https://nextgenforesight.org" target="_&quot;blank&quot;">Next Generation Foresight</a> or <a href="http://www.teachthefuture.org/blog/2018/7/23/ttf-wins-joseph-jaworski-foresight-award" target="_&quot;blank&quot;">Teach the Future</a>.</p>
+<h2>World Future Society</h2>
+<p>The <a href="https://www.worldfuture.org/" target="_&quot;blank&quot;">World Future Society</a> (WFS)  held its annual summit in Chicago August 16-17 on the theme “From Dystopia to Eutopia: Creating a Future Too Good to Be True (But Isn’t).” Throughout the year, WFS also hosted a series of members-only online conversations with guest speakers such as <b>Paul Saffo, Ted Chu,</b> and <b>Rod Roddenberry.</b> </p>
+<p>WFS Chair <b>Julie Friedman Steele</b> contributed an essay, “The Need for a Futurist Mind-Set,” to a special 250th anniversary edition of <i><a href="https://store.britannica.com/products/250th-anniversary-collectors-edition-britannica-book-of-the-year" target="_&quot;blank&quot;">Encyclopaedia Britannica</a>.</i> (Other futurists featured in the edition include <b>Ray Kurzweil, Peter Diamandis, Sherry Turkle,</b> and <b>Yuval Noah Harari.</b>)</p>
+<h2>Club of Rome</h2>
+<p>In December, the <a href="http://clubofrome.org" target="_&quot;blank&quot;">Club of Rome</a> released its <a href="https://climateemergencydeclaration.org/club-of-rome-climate-emergency-plan/" target="_&quot;blank&quot;">Climate Emergency Plan</a>, calling for immediate action by global policymakers and stakeholders.  Its 10 priority actions are:</p>
+<p><b>Transform Energy Systems</b><br />
+1. Halt fossil fuel expansion and fossil fuel subsidies by 2020.<br />
+2. Continue the doubling of wind and solar capacity every four years, and triple annual investments in renewable energy, energy efficiency, and low carbon technologies for high emitting sectors before 2025.</p>
+<p><b>Rethink Pricing and Growth Indications</b><br />
+3. Introduce realistic pricing and taxation to reflect the true cost of fossil fuel use and embedded carbon by 2020.<br />
+4. Replace GDP growth as the main objective for societal progress.</p>
+<p><b>Scale Up Transformational Technologies</b><br />
+5. Improve refrigerant management by 2020.<br />
+6. Encourage exponential technology development by 2020.<br />
+7. Ensure greater materials efficiency and circularity by 2025.</p>
+<p><b>Accelerate Low Carbon Land Use, Mitigation, and Adaptation Tools</b><br />
+8. Accelerate regenerative land use policies.</p>
+<p><b>Guarantee the Human Dimension</b><br />
+9. Ensure that population growth is kept under control by giving priority to education and health services for girls and women; promote reproductive health and rights, including family-planning programs.<br />
+10. Provide for a just transition in all affected communities.</p>
+<h2>The Future Laboratory</h2>
+<p>Market trend consulting firm <a href="https://www.thefuturelaboratory.com/" target="_&quot;blank&quot;">The Future Laboratory</a> has released its “<a href="https://www.thefuturelaboratory.com/future-forecast-2019-report" target="_&quot;blank&quot;">Future Forecast 2019</a>” report on “the 50 consumer trends you need to know about.” Also in 2018 it published reports on several key consumer and demographic sectors: “<a href="https://www.thefuturelaboratory.com/youth-futures-2018-report" target="_&quot;blank&quot;">Youth Futures 2018 Report</a>,” “<a href="https://www.thefuturelaboratory.com/food-drink" target="_&quot;blank&quot;">Food &amp; Drink Futures 2018</a>,” and “<a href="https://www.thefuturelaboratory.com/fashion-futures-2018-report" target="_&quot;blank&quot;">Fashion Futures 2018</a>.” </p>
+<h2>Individual Reports</h2>
+<p><b>Stephen Steele:</b> After more than four decades in college and university positions in sociology and futures studies, Stephen Steele retired in June 2013. Moving to Seattle, he now works as a volunteer faculty member with the <a href="http://www.universitybeyondbars.org/" target="_&quot;blank&quot;">University Beyond Bars</a>  program, which coordinates college-level credit and noncredit courses for incarcerated individuals. In 2018, Steele conducted workshops to help inmates develop futuring skills in their personal lives. The five-session noncredit course, titled “Futuring and Foresight: Perspectives and Tools for Addressing the Future,” was held at the minimum security unit at the Monroe Correctional Complex in Washington state. The course goals included challenging perspectives and practical how-to information on approaching the future. He will teach a futures course again in the winter term 2019 guiding inmate futures by using Verne Wheelwright’s <i>It’s Your Future… Make It a Good One.</i> Contact him at <a href="mailto:sf.steele@comcast.net">sf.steele@comcast.net</a>.</p>
+<p><b>Thomas Lombardo</b> reports that his new book, <i><a href="http://www.centerforfutureconsciousness.com/book_sciencefiction.htm" target="_&quot;blank&quot;">Science Fiction: The Evolutionary Mythology of the Future—Volume One: Prometheus to the Martians</a>,</i> was officially published December 14. He reports he is finishing up work on <i>Volume Two: The Time Machine to Star Maker,</i> covering the period of about 1895 to 1938.  Lombardo is executive director of the <a href="http://www.centerforfutureconsciousness.com/" target="_&quot;blank&quot;">Center for Future Consciousness</a> , director of The Wisdom Page, and professor emeritus and retired faculty chair of psychology, philosophy, and the future at Rio Salado College. Contact him at <a href="mailto:tlombardo1@cox.net">tlombardo1@cox.net</a>.</p>
+<p><b><a href="http://www.karensands.com/" target="_&quot;blank&quot;">Karen Sands</a>,</b>  author of <i>The Ageless Way</i> (2016, 2018), has launched a new online academy “catering to professionals, leaders, and trailblazers who want to rock their revenues by learning how to leverage the Longevity Economy.” <i>[<a href="https://www.agelesswayacademy.com/" target="_&quot;blank&quot;">Learn more</a>]</i></p>
+<p><b>Joe Tankersley,</b> futurist and former Walt Disney Imagineer, has published a new book, <i>Reimagining Our Tomorrows: Making Sure Your Future Doesn’t Suck.</i> In it, Tankersley uses a series of speculative vignettes to show us we have the power to create an optimistic (though not utopian) future. The massive disruptions we are experiencing today in technology, society, culture, and economics can help us create a world of personal empowerment and community prosperity, he writes. <i>[<a href="https://www.uniquevisions.net/book/" target="_&quot;blank&quot;">Learn more</a>]</i>  </p>
+<p><b>Timothy C. Mack, AAI Foresight Inc.</b> Since producing AAI Foresight’s 2018 annual report, published in the December issue of <i><a href="http://www.aaiforesight.com/newsletter/aai-foresight-inc-2018-annual-report" target="_&quot;blank&quot;">Foresight Signals</a>,</i> managing principal Tim Mack has posted a new article on the AAI Foresight Blog, titled “<a href="http://www.aaiforesight.com/blog/foresight-context-evolution-utopian-thought" target="_&quot;blank&quot;">Foresight in the Context of Evolution: Utopian Thought</a>.” A brief excerpt:</p>
+<p>One long-held assumption in utopian thinking is that, for an ideal social community to be sustainable, it should be isolated from and untouched by broader society. Then strife and uncertainty would not interrupt the aspiration to perfection that it hoped for. And once that goal is reached, this community remains largely unchanged (even static).</p>
+<p>What if, in the highly dynamic 21st century, a more functional utopian ideal was not merely true harmony and social equity, but also a functional and even robust adaptation to a constantly unfolding future? … </p>
+<p>But to imply that utopian endeavors should also consider adaptability does not mean that their aspirational nature should fall by the wayside. Foresight in general needs to understand system dynamics in order to have practical utility. How change occurs, what factors are involved, how existing conditions shape incoming trends, and, most importantly, how human factors will shape change are all critical questions. … </p>
+<p>While some scientific utopians, especially those anchored in Silicon Valley and its global culture, have considered moving to Mars or building island nations to avoid non-utopian interference with their aspirational goals, this seems unlikely to offer long-term success. The outside pollution from global communications technology alone would be a factor even on Mars. And if such a community were successfully sealed off, its dynamic health would likely suffer, as would its political stability. </p>
+<p>In contrast, one promising possibility might be the more flexible digital utopian community, connected by evolving virtual reality and holographic conferencing technologies. <i>[<a href="http://www.aaiforesight.com/blog/foresight-context-evolution-utopian-thought" target="_&quot;blank&quot;">Read more</a>]</i> </p>
+<h2>Mark Your 2019 Calendar</h2>
+<p><b>February 9, Paris.</b> <a href="https://www.futuribles.com/" target="_&quot;blank&quot;">Futuribles International</a>  will present a roundtable forum, “How to act to feed humanity in a sustainable way in 2050?” organized on the occasion of the publication of <i>Land Use and Food Security in 2050: A Narrow Road</i> (Versailles: Quae editions, 2018). <i>[<a href=" https://www.futuribles.com/en/agenda/comment-agir-pour-nourrir-lhumanite-de-facon-durab/" target="_&quot;blank&quot;">Learn more</a>]</i>   </p>
+<p><b>March 1, Future Day</b> (or Futures Day). <a href="https://www.facebook.com/humanityplus/photos/future-day-march-1st/10150541946616723/" target="_&quot;blank&quot;">Humanity+</a> began promoting March 1, Future Day, as an international celebration in 2012.  Since that time, many other future-oriented organizations have used the day for a variety of activities, taking the opportunity both to pursue discussions and to promote interest in foresight among the general public. This year, volunteers from <a href="http://www.tulevaisuuskoulu.fi/" target="_&quot;blank&quot;">Finland’s Future School</a>  and <a href="http://www.utu.fi/fi/yksikot/ffrc/Sivut/home.aspx" target="_&quot;blank&quot;">Finland Futures Research Center</a> and others have created ready-made materials for educators, municipalities and local residents, and businesses and workplaces to organize local events and activities. <i>[<a href="https://tulevaisuuspaiva.fi/in-english/" target="_&quot;blank&quot;">Learn more</a>]</i>  </p>
+<p><b>May 16-18, Podgorica, Montenegro.</b> The World Academy of Art &amp; Science will hold a conference titled “Approaching 20?? Year” exploring the impacts of accelerating changes in globalization, technology, social evolution, and more. Topics will include government accountability, transparency, and corruption; limits to development; population and urbanization; climate change and resource challenges; and safety, security, terrorism, and migration. <i>[<a href="http://worldacademy.org/conference-page/call-papers-approaching-20-year" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+<p><b>June 12-13, Turku, Finland.</b> The Finland Futures Research Centre and Finland Futures Academy, University of Turku, hold their 20th Futures Conference, on “Constructing Social Futures—Sustainability, Responsibility and Power.” <i>[<a href="https://futuresconference2019.com/keynote-speakers/" target="_&quot;blank&quot;">Learn more</a>]</i> </p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

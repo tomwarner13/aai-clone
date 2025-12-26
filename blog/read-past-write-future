@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="read-past-write-future" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/206" />
+  <title>Read the Past, Write the Future | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/read-past-write-future":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-206 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="read-past-write-future#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="read-past-write-future" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-F0NBxymPVO4xlQu8PgaW_R0xEuXxT8vEBW4A52Bac7w" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="https://www.aaiforesight.com/blogs/cindy-wagner">Cindy Wagner&#039;s blog</a> › </li><li>Read the Past, Write the Future</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Read the Past, Write the Future</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/read-past-write-future" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/read-past-write-future" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/read-past-write-future" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/read-past-write-future" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/read-past-write-future" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/read-past-write-future" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-206 node node-blog node-promoted view-mode-full clearfix" about="/blog/read-past-write-future" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="Read the Past, Write the Future" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-241-1598795976.jpg?itok=QQ-K9RWz" width="100" height="128" alt="Cindy Wagner" title="Cindy Wagner" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Cindy Wagner</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2022-04-22T14:38:40-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/cindy-wagner" typeof="sioc:UserAccount" property="foaf:name" datatype="">Cindy Wagner</span> on <time pubdate datetime="2022-04-22T14:38:40-04:00">Fri, 2022-04-22 14:38</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/maximum_width_300px/public/booshelf_sm_0.jpg?itok=MKrFPo78" width="300" height="292" alt="" /><div class="caption-holder" style="width:300px; max-width:100% !important;"><p class="image-caption"></p></div></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>“Those who cannot remember the past are condemned to repeat it.” George Santayana, <i>The Life of Reason</i> (1905).</p>
+<p>Since retiring from full-time future-writing (editing for <i>The Futurist</i> magazine), I’ve had time to catch up on some books I’ve saved on my shelves over the past few decades. Though I’ve gone about it backwards, I do recommend reading the past before writing the future. This might help us avoid the pitfalls that have contributed much to present misery. </p>
+<p>My favorite approaches to “history” have focused on a single subject or individual, often touching on futurists’ analytical categories—social, economic, technological, political, environmental impacts. Other works are historical because they’ve been on my bookshelf for a long time but yield insights (and warnings) we ought to have paid more attention to at the time.</p>
+<p>Currently on my nightstand is <b><i>The Prize: The Epic Quest for Oil, Money, and Power</i></b> (1991) by Daniel Yergin (I’m about 350 pages into this 800-page tome). In the section on war and strategy, Yergin describes the military wins and losses that could be attributed to the lack of fuel to keep aircraft and tanks on the move in World War II. “Shortage of petrol! It’s enough to make one weep,” Yergin quotes German Field Marshal Rommel. The lament immediately called to mind the line of Russian tanks stalled on their way into Ukraine here in 2022.</p>
+<p>The following are a few other histories I’ve read recently and found enlightening for a variety of reasons.</p>
+<p><b><i>America’s Political Dynasties</i></b> (2015) by Stephen Hess. Political history and collective biographies. I got sidetracked with the transition between Taft and Teddy Roosevelt with the mention of their mutual friend and aide, Archie Butt—an interesting person (and a hero of the <i>Titanic</i>) who could be the subject of a good play. </p>
+<p><b><i>Antony and Cleopatra</i></b>, one of the few Shakespeare plays I hadn’t already read, and it’s better than the movies! As it turns out, Shakespeare came pretty close to the recorded history, per the “Antony” chapter from <b><i>Lives of the Noble Romans</i></b> by Plutarch.</p>
+<p><b><i>The Book of Will</i></b> (2018) This play by Lauren Gunderson speculates on how Shakespeare’s colleagues collected and recollected what they could of Shakespeare’s scattered works to compile the First Folio. </p>
+<p><b><i>Capital Dames: The Civil War and the Women of Washington, 1848-1868</i></b> (2015) by Cokie Roberts. One of Roberts’s excellent series on women who helped shape the United States, through their vision, activism, and their grace and charm in Washington salons. See also <b><i>Founding Mothers</i></b> (2004) and <b><i>Ladies of Liberty</i></b> (2008).</p>
+<p><b><i>A Distant Mirror: The Calamitous 14th Century</i></b> (1978) by Barbara W. Tuchman. Plagues, populist uprisings, and religious and political conflicts have played a very long role in human history. Tuchman used one hero, Enguerrand, as a narrative focus, which made the storytelling more compelling.</p>
+<p><b><i>In the Hurricane’s Eye: The Genius of George Washington and the Victory at Yorktown</i></b> (2018) by Nathaniel Philbrick. Nautically minded historian Philbrick focuses on the French assist against the British fleet in the naval battle ending America’s fight for independence. The story reads like a novel, with richly described characters and all their history-altering (future-shaping) strengths and weaknesses.</p>
+<p><b><i>Inventing Leonardo</i></b> (1994) by A. Richard Turner. My late college professor’s somewhat dry comparative study of Leonardo studies led me to <b><i>Leonardo the Florentine</i></b> (1929) by Rachel Annand Taylor, a poet and obviously a classical scholar. It took forever to read the latter, with having to Google-search every other reference. But in the end I feel I know Leonardo and what motivated him: Beauty. It also seems clear Leonardo was almost universally loved and admired for his charm and grace (though Michelangelo hated him).</p>
+<p><b><i>John Glenn: A Memoir</i></b> (1999). One of my virtuous heroes. I love how John Glenn loved his wife, Annie. Sadly, it was Annie’s speech impediment (he alleges) that led Rosalynn Carter to advise Jimmy Carter (another of my virtuous heroes) against naming then-Senator Glenn as his running mate in the 1976 presidential election. Have we come much further in including individuals with disabilities in all levels and sectors of society?</p>
+<p><b><i>Leadership in Turbulent Times</i></b> (2018) by Doris Kearns Goodwin. Focuses on influences and critical events in the lives and administrations of Abraham Lincoln, Teddy Roosevelt, Franklin Roosevelt, and Lyndon B. Johnson. Among these leaders’ shared traits are charm, curiosity, humor, and humility.</p>
+<p><b><i>Locked in the Cabinet</i></b> (1997) by Robert Reich. Memoir by Bill Clinton’s first-term secretary of labor, who has since become one of my moral touchstones on Twitter.</p>
+<p><b><i>Moon Shot</i></b> (1994) by Alan Shepard and Deke Slayton (et al.). A bit of de-mythologizing after <i>The Right Stuff</i>, and a slightly different take from John Glenn’s on that famous confrontation among the rival Mercury 7 astronauts. Bear in mind that all memoirs are exercises in self-justification, to some extent. Probably.</p>
+<p><b><i>Mrs. Kennedy and Me</i></b> (2012) by Clint Hill. Jackie Kennedy’s bodyguard (Secret Service Special Agent) tells a riveting tale. Hill’s admiration borders on infatuation but doesn’t go over the line. His sense of guilt in not saving President Kennedy (he was guarding Mrs. Kennedy, not the president) is heartbreaking. The bit about the President asking the First Lady’s bodyguard to keep her away from Aristotle Onassis was somehow funnier than it should have been. See also Hill’s <b><i>Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford</i></b> (2016).</p>
+<p><b><i>Ninth Street Women</i></b> (2018) by Mary Gabriel. Five influential modern artists and their lives in mid-century New York: Lee Krasner, Elaine de Kooning, Grace Hardigan, Helen Frankenthaler, and Joan Mitchell. I look for them now in every museum. </p>
+<p><b><i>The Secret Token: Myth, Obsession, and the Search for the Lost Colony of Roanoke</i></b> (2018) by Andrew Lawler. Excellent field-research journalism covering history, anthropology, sociology, myths, and mores, suggesting to me that, in the end, we may gain more than we lose with cultural assimilation. [Note, Lawler was a colleague of mine at World Future Society in the 1980s.]</p>
+<p><b><i>Silent Spring</i></b> (1962) by Rachel Carson. History in the sense that I didn’t read it at the time, but a detailed contemporary examination of what goes wrong when government lets industry do whatever the hell it wants. The transition from Eisenhower’s secretary of agriculture to Kennedy’s—Orville Freeman (an early World Future Society board member)—gave me hope for the future until I remembered I was reading about the past. But what an inspiring woman Rachel Carson was.</p>
+<p><b><i>The Tulip</i></b> (1999) by Anna Pavord. Come for the beautiful tulip illustrations, stay for one of those great explorations of cultural and economic history through the lens of a single subject. Other single-subject cultural histories I’ve loved include <b><i>Coal</i></b> (2003) by Barbara Freese and <b><i>Rain</i></b> (2016) by Cynthia Barnett.</p>
+<p><b><i>Where No Man Can Touch</i></b> (2015) by Pat Valdata. Poetry about women in aviation history is a timely reminder that women have the right stuff, too.</p>
+<p><b><i>The USS Emmons: Eyewitness Accounts from Survivors of the Battle of Okinawa</i></b> (2020), transcribed by Cheri Pierson Yecke. Better than a Spielberg movie! This was one of the ships my father served on in World War II, but not at the time it was sunk by kamikazes. He knew some of the men whose accounts are here recorded. See also <b><i>The Emmons Saga</i></b> (1989) by Edward Baxter Billingsley, an official account of the ship’s history from its commissioning on the eve of World War II. When I read it aloud to my hospital-bound father, he kept interrupting me to tell me what really happened! <i>[<a href="http://www.ussemmons.org/" target="_blank">Learn more</a>]</i> </p>
+<p>Many more stories and histories, read and unread, remain on my bookshelf—and in my Amazon shopping cart. Clearly I'm drawn to charming protagonists, but I should probably read more psychology to figure out why humanity continues to be driven by the same things, like greed, power, and the need to assert superiority over others.</p>
+<p>Please, by all means, send me your history recommendations! </p>
+<p><i>Portions of this essay were adapted from posts in my personal <a href="https://hosaasblog.blogspot.com/" target="_blank">blog</a>.</i></p>
+<p><b>Cindy Wagner</b> was an editor for <i>The Futurist</i> magazine for three decades and now writes and edits <i>Foresight Signals</i> for AAI Foresight Inc. Contact her at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="https://www.aaiforesight.com/blogs/cindy-wagner" title="Read Cindy Wagner&#039;s latest blog entries.">Cindy Wagner&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

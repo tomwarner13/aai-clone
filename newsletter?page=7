@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Foresight Signals Newsletter | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter?page=7":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-newsletter section-newsletter page-views sidebar" >
+      <p id="skip-link">
+      <a href="newsletter?page=7#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+      <div class="block">
+        <form action="newsletter?page=7" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-k9_SaAgJEOR94nDAB78h3-ASi06xhBBFKflWsYkMkzM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>      </div>
+    </div>
+
+        <div id="identity">
+      <a href="index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="index.html">Home</a> › </li><li>Foresight Signals Newsletter</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                              
+
+
+<div class="view view-newsletter view-id-newsletter view-display-id-page newsletter-view view-dom-id-f26efd00609b289fa78e1b3cb090c4ee">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/annual-reports-foresight-community">Annual Reports from the Foresight Community</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 3,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 3</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-01-14T00:00:00-05:00">Saturday, January 14, 2017</span></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/aai-foresight-annual-report-2016">AAI Foresight Annual Report, 2016</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 3,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 2</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-12-05T00:00:00-05:00">Monday, December 5, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/elephants-free-trade-debate-…-foresight-opportunity-knocks-…-futurists-news">Elephants in the Free Trade Debate … A Foresight Opportunity Knocks … Futurists in the News</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 3,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 1</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-11-02T00:00:00-04:00">Wednesday, November 2, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/nuclear-wild-card-after-brexit-humanity-saved-halophytes-calls-futurists">A Nuclear Wild Card After Brexit … Humanity Saved by Halophytes? … Calls for Futurists … Book Review: Fueling Freedom</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 12</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-10-11T00:00:00-04:00">Tuesday, October 11, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more">From Science Fiction to Science Factualized: Star Trek at 50, the Economics of the Singularity, and More</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 11</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-09-13T00:00:00-04:00">Tuesday, September 13, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/futurists-march-washington-wfs-psfn-apf-wfr-and-more">Futurists March on Washington: WFS, PSFN, APF, WFR, and more </a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 10</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-08-08T00:00:00-04:00">Monday, August 8, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/british-are-leaving-british-are-leaving-alvin-toffler-future-was-then-fresco-100-and-more">&quot;The British Are Leaving! The British Are Leaving!&quot; ... Alvin Toffler, the Future Was Then ... Fresco at 100 ... and more </a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 9</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-07-12T00:00:00-04:00">Tuesday, July 12, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/futurists-vacation-reading-list">A Futurist&#039;s Vacation Reading List</a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 8</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-06-06T00:00:00-04:00">Monday, June 6, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/megatrends-corporate-futurists-beware-moves-field-and-more">Megatrends ... Corporate Futurists Beware ... Moves in the Field ... and more </a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 7</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-05-10T00:00:00-04:00">Tuesday, May 10, 2016</span></span>  </span>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="newsletter/secretary-future-100-trillion-toilet-paper-and-more">Secretary of the Future ... $100 Trillion Toilet Paper ... and more </a></span>  </h2>  
+  <span class="views-field views-field-field-volume">        <span class="field-content">Volume 2,</span>  </span>  
+  <span class="views-field views-field-field-number">        <span class="field-content">Number 6</span>  </span>  
+  <span class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-12T00:00:00-04:00">Tuesday, April 12, 2016</span></span>  </span>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="Go to first page" href="newsletter">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="newsletter?page=6">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a title="Go to page 3" href="newsletter?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="newsletter?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="newsletter?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="newsletter?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="newsletter?page=6">7</a></li>
+<li class="pager-current">8</li>
+<li class="pager-item"><a title="Go to page 9" href="newsletter?page=8">9</a></li>
+<li class="pager-item"><a title="Go to page 10" href="newsletter?page=9">10</a></li>
+<li class="pager-item"><a title="Go to page 11" href="newsletter?page=10">11</a></li>
+<li class="pager-next"><a title="Go to next page" href="newsletter?page=8">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="newsletter?page=10">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-active is-active-trail is-leaf last leaf active-trail active menu-mlid-424"><a href="newsletter" class="menu__link is-active-trail active-trail active">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

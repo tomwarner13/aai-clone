@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="think-tanks-and-imaginary-cities" />
+<link rel="shortlink" href="../node/129" />
+  <title>Of Think Tanks and Imaginary Cities | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/think-tanks-and-imaginary-cities":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-129 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="think-tanks-and-imaginary-cities#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="think-tanks-and-imaginary-cities" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-elxCMVvMD2H7nyG8fgkz337e99Jsgb1A1IiSqH_MGxk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Of Think Tanks and Imaginary Cities</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Of Think Tanks and Imaginary Cities</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/think-tanks-and-imaginary-cities" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-129 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/think-tanks-and-imaginary-cities" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Of Think Tanks and Imaginary Cities" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 5,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 2</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-02-11T00:00:00-05:00">February 11, 2019</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Annual Think Tank Rankings Released</h2>
+<p>Washington, D.C.-based <a href="https://www.brookings.edu" target="_&quot;blank&quot;"><b>Brookings Institution</b></a> has again claimed the top spot on the  Think Tanks and Civil Societies Program’s annual global think tank index. The <a href="https://repository.upenn.edu/think_tanks/16/" target="_&quot;blank&quot;"><i>2018 Global Go To Think Tank Index Report</i></a> was produced by program director <b>James G. McGann,</b> senior lecturer in international studies at the University of Pennsylvania. Brookings hosted a pre-release event with McGann, on <a href="https://www.brookings.edu/events/why-facts-and-think-tanks-matter/" target="_&quot;blank&quot;">Why Facts and Think Tanks Matter</a> (January 31), and has published McGann’s new book, <i><a href="https://www.brookings.edu/book/think-tanks/" target="_&quot;blank&quot;">Think Tanks: The New Knowledge and Policy Brokers in Asia</a>.</i>  </p>
+<p>Each year, <i>Foresight Signals</i> tracks the ratings for 10 U.S. think tanks whose missions are specifically future-focused. Listed alphabetically, they are:</p>
+<p><b><a href="https://www.brookings.edu/" target="_&quot;blank&quot;">Brookings Institution</a></b>  In addition to its place atop the list of all think tanks, Brookings ranked No. 1 in domestic economic policy research, No. 3 in international economics policy, No. 3 in foreign policy and international affairs, No. 3 in international development policy, No. 3 in education policy, No. 3 in social policy, No. 4 in defense and national security, No. 6 in domestic health affairs, No. 6 in global health policy, No. 10 in environmental policy, No. 21 in energy and resource policy, and No. 47 in science and technology policy. It was also ranked the second best-managed think tank, behind Brazil’s Fundação Getúlio Vargas.</p>
+<p><b><a href="https://hudson.org/" target="_&quot;blank&quot;">Hudson Institute</a></b> ranked No. 107 worldwide and No. 15 in the United States (down from No. 105 worldwide in 2017 but up from No. 18 in the U.S.). It ranked No. 26 in foreign policy and international affairs, No. 28 in defense and national security, No. 62 in international development policy, No. 97 in domestic economic policy.</p>
+<p><b><a href="https://itif.org/" target="_&quot;blank&quot;">Information Technology &amp; Innovation Foundation</a></b>  ranked No. 35 think tank in the United States (up from No. 48 a year ago) and No. 1 in science and technology policy for the second straight year.</p>
+<p><b><a href="http://millennium-project.org/" target="_&quot;blank&quot;">The Millennium Project</a></b>  ranked No. 24 for best new idea or paradigm developed by a think tank. As described by the report, “The main issue for organizational paradigm is its ability to define the structural design that is appropriate to the fulfillment of functional needs. New idea and paradigm think tanks are ones with solid framework, ways of thinking and methodologies that are specifically developed to meet institutions goals and concerns.”</p>
+<p><b><a href="http://www.pewresearch.org/" target="_&quot;blank&quot;">Pew Research Center</a></b> ranked No. 26 think tank in the United States, slipping in the rankings for the second year (from No. 23 in 2017 and No. 19 in 2016). Of the 10 think tanks <i>Foresight Signals</i> tracks, Pew ranked highest on the Index for best advocacy campaign (No. 13).</p>
+<p><b><a href="http://www.rand.org/" target="_&quot;blank&quot;">RAND Corporation</a></b> retained its ranking as the No. 9 think tank worldwide and No. 6 in the United States. It was also No. 3 in defense and national security, No. 4 in education policy, No. 4 in domestic health affairs, No. 5 in science and technology policy, No. 6 in social policy, No. 7 in global health policy, No. 7 in energy and resource policy, No. 9 in foreign policy and international affairs, No. 9 in international economics policy, No. 16 in domestic economic policy, No. 26 in international development policy, and No. 31 in environment policy.</p>
+<p><b><a href="http://www.rff.org/" target="_&quot;blank&quot;">Resources for the Future</a></b> ranked No. 28 think tank in the United States (down from No. 22 in 2017), No. 6 in energy and resource policy, and No. 8 in environment policy.</p>
+<p><b><a href="https://www.wilsoncenter.org/" target="_&quot;blank&quot;">Wilson Center</a></b> (formerly known as the Woodrow Wilson International Center for Scholars) was ranked the No. 11 think tank worldwide and No. 5 in the United States. It also ranked No. 5 in international development policy, No. 7 in foreign policy and international affairs, No. 30 in global health policy, No. 40 in defense and national security, No. 59 in science and technology policy, and No. 80 in international economics policy.</p>
+<p><b><a href="http://www.wri.org/" target="_&quot;blank&quot;">World Resources Institute</a></b> ranked No. 155 think tank worldwide and No. 18 in the United States (down slightly from its 2017 rankings of No. 151 and No. 16, respectively). It also ranked No. 3 in environment policy and No. 13 in energy and resource policy, </p>
+<p><b><a href="http://www.worldwatch.org/" target="_&quot;blank&quot;">Worldwatch Institute</a></b> was ranked the No. 40 think tank in the United States (down from No. 36 in 2017) and No. 6 in environment policy.</p>
+<p>Notably, RAND, Brookings, Wilson, and WRI are also ranked in the top 10 think tanks for “best transdisciplinary research” (first, second, third, and sixth, respectively).</p>
+<p>2018 saw little movement at the top of the index’s global rankings from 2017: Brazil’s Getúlio Vargas Foundation has moved up one spot over the U.K.’s Chatham House in the top 10:</p>
+<p>1. <a href="https://www.brookings.edu/" target="_&quot;blank&quot;">Brookings Institution</a> (United States)<br />
+2.<a href="https://www.ifri.org/en" target="_&quot;blank&quot;"> French Institute of International Relations</a> (France)<br />
+3. <a href="http://carnegieendowment.org/" target="_&quot;blank&quot;">Carnegie Endowment for International Peace</a> (United States)<br />
+4. <a href="http://bruegel.org/" target="_&quot;blank&quot;">Bruegel</a> (Belgium)<br />
+5. <a href="https://www.csis.org/" target="_&quot;blank&quot;">Center for Strategic and International Studies</a>  (United States)<br />
+6. <a href="https://portal.fgv.br/" target="_&quot;blank&quot;">Fundação Getúlio Vargas</a> (Brazil)<br />
+7. <a href="https://www.chathamhouse.org/" target="_&quot;blank&quot;">Chatham House</a> (United Kingdom)<br />
+8. <a href="https://www.heritage.org/" target="_&quot;blank&quot;">Heritage Foundation</a> (United States)<br />
+9. <a href="https://www.rand.org/" target="_&quot;blank&quot;">RAND Corporation</a> (United States)<br />
+10. <a href="https://www.iiss.org/" target="_&quot;blank&quot;">International Institute for Strategic Studies</a> (United Kingdom)</p>
+<p><i>[<a href="https://repository.upenn.edu/think_tanks/16/" target="_&quot;blank&quot;">Learn more</a>]</i>  </p>
+<h2>40 Years of Anticipatory Democracy</h2>
+<p>Marking the 40th anniversary of the <a href="http://www.altfutures.org/" target="_&quot;blank&quot;">Institute of Alternative Futures</a>,  founder, chair, and senior futurist <b>Clem Bezold</b> published “<a href="https://journals.sagepub.com/doi/10.1177/1946756718810768" target="_&quot;blank&quot;">The History and Future of Anticipatory Democracy and Foresight</a>” in <i>World Futures Review.</i> </p>
+<p>The article begins with IAF’s origins. As Bezold explained in a press release, he “started IAF in 1977 together with <b>Jim Dator</b> and <b>Alvin Toffler</b> to promote and pursue anticipatory democracy and foresight. We were inspired by Toffler’s 1970 best-selling book, <i>Future Shock,</i> and our collaborations through the Committee for Anticipatory Democracy and Toffler’s getting me to edit the book, <i>Anticipatory Democracy: People in the Politics of the Future</i>.” </p>
+<p>Others involved in that committee to promote better foresight in government included a who’s-who of forward-thinkers in a variety of fields, such as futurists <b>Ted Gordon, Roy Amara,</b> and <b>Willis Harman</b>; visionary engineer <b>Buckminster Fuller</b>; scientists and social activists <b>Margaret Mead, Betty Friedan,</b> and <b>Jonas Salk</b>; and politicians <b>Newt Gingrich, Al Gore, Stuart Udall,</b> and <b>John Culver.</b> And foresight in government—in the executive, legislative, and judicial branches—has been IAF’s key focus since its inception. <i>[<a href="http://www.altfutures.org/news/bezold-on-the-history-and-future-of-anticipatory-democracy-and-foresight/" target="_&quot;blank&quot;">Learn more</a>]<i>  </i></i></p>
+<h2>Help Wanted: Legal Futurists</h2>
+<p><a href="https://abovethelaw.com/legal-innovation-center/2019/01/24/announcing-law-jobs-for-humans-a-career-event-for-legal-futurists/" target="_&quot;blank&quot;">Law Jobs for Humans—A Career Event For Legal Futurists</a> will be held April 24 in Chicago. The event, sponsored by legal news outlet <a href="https://abovethelaw.com/" target="_&quot;blank&quot;">Above the Law</a>,  is aimed at “innovative employers, legal career mavericks, aspirational law students, and legal education boundary pushers.” Sessions will focus on the modern, more entrepreneurial legal practitioners, how they are trained, and who is hiring them. <i>[<a href="https://abovethelaw.com/legal-innovation-center/2019/01/24/announcing-law-jobs-for-humans-a-career-event-for-legal-futurists/" target="_&quot;blank&quot;">Learn more</a>]</i>  </p>
+<h2>Mack Report: Plights of Fancy</h2>
+<p>The following is an excerpt of AAI Foresight Managing Principal <b>Tim Mack</b>’s latest blog <a href="../blog/plights-fancy-review-imaginary-cities" target="_&quot;blank&quot;">post</a>, a review of <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/I/bo26170205.html" target="_&quot;blank&quot;">Imaginary Cities<i></i></a> by <b>Darran Anderson</b> (University of Chicago Press, 2015).</p>
+<p><i>Imaginary Cities</i> has an unusual approach for a book on foresight. First, it is actually based in the discipline of architecture and spends a substantial amount of time looking at plans never built due to lack of funding, client change of heart, and catastrophes of all sorts. While the book addresses utopian concepts and their collateral buildings, it also considers dystopian endeavors, both in their outcome and original intent. It considers classical utopian and foresight literature but also ranges into media, such as motion pictures, science fiction, and even graphic novels.</p>
+<p>Anderson’s central focus on architecture provides a unique perspective. As the lengthy text (600 pages in all) travels across its diverse range of arenas, the author pulls out lessons from examples about both the challenges of building dreams and the appropriateness of these dreams to begin with. This broad scope develops insights across a range of disciplines, including politics, psychology, religion, and materials science, as it considers both whether a proposed structure <i>could</i> be built and whether it <i>should</i> be built, at the time of its imagining or <i>ever.</i> ...</p>
+<p>Anderson points out that, while utopias are often openly hailed as revolutionary, dystopias are often incremental and even stealthy in nature. Dreams of utopia arise from the failures and unsatisfied wants of the present. But beneficial scientific learning, in past theocratic ages, was often seen as a threat to vested interests. Some have said that, while progress can be the ongoing realization of utopian thinking, it can also be a catalyst for repression and tyranny. The author quotes Margaret Atwood’s reflection that utopias can become dystopias as they respond to those who “don’t fit into the plan,” adding that in some minds the urge to decide everything for everyone is too much to resist. … <i>[<a href="../blog/plights-fancy-review-imaginary-cities" target="_&quot;blank&quot;">Read more</a>]<i> </i></i></p>
+<h2>Reminder: Future Day Is Coming!</h2>
+<p>Don’t forget, March 1 is international Future Day, a day to reflect on where we’re going and how we hope to get there. If you have activities planned, please share a recap! We’ll be scanning the social media landscape for <b>#FutureDay2019,</b> and you can send highlights of your events to <i>Foresight Signals</i> at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

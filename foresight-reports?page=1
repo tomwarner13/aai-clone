@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Foresight Reports | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/foresight-reports?page=1":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-foresight-reports section-foresight-reports page-views" >
+      <p id="skip-link">
+      <a href="foresight-reports?page=1#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="foresight-reports?page=1" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-i0gySYVqKgQrW6Z75mBNE8nhIMvif5CK6b0iE7JEuHA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="index.html">Home</a> › </li><li><a href="publications" title="">Publications</a> › </li><li>Foresight Reports</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Foresight Reports</h1>
+                                          
+
+
+<div class="view view-foresight-reports view-id-foresight_reports view-display-id-page view-dom-id-a76c5475cf9383357c08535fb34db871">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="node-45 node node-foresight-report node-promoted node-teaser clearfix" about="/content/it-revolution-aerospace-and-society" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="content/it-revolution-aerospace-and-society">IT Revolution, Aerospace, and Society</a></h2>
+            <span property="dc:title" content="IT Revolution, Aerospace, and Society" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2015-07-19T09:55:01-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tom" typeof="sioc:UserAccount" property="foaf:name" datatype="">tom</span> on <time pubdate datetime="2015-07-19T09:55:01-04:00">Sun, 2015-07-19 09:55</time></span>        </p>
+      
+          </header>
+  
+    
+    <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The convergence of major ongoing technology revolutions has multiplying effects. The information technology revolution enabled subsequent technology revolutions to develop and spread: The world is avowedly technologically “flat.” This paper explores the major technology revolutions— IT, biologics, nano, quantum, and energetics—their implications for aerospace research and space exploration, and their impacts on society at large. <strong>By Dennis M. Bushnell</strong></p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="content/it-revolution-aerospace-and-society" rel="tag" title="IT Revolution, Aerospace, and Society">Read more<span class="element-invisible"> about IT Revolution, Aerospace, and Society</span></a></li>
+</ul>
+  
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="node-35 node node-foresight-report node-promoted node-teaser clearfix" about="/content/world-fire" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/content/world-fire">A World on Fire</a></h2>
+            <span property="dc:title" content="A World on Fire" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2015-04-30T09:01:15-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tom" typeof="sioc:UserAccount" property="foaf:name" datatype="">tom</span> on <time pubdate datetime="2015-04-30T09:01:15-04:00">Thu, 2015-04-30 09:01</time></span>        </p>
+      
+          </header>
+  
+    
+    <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Megafires are on the rise worldwide, due not only to climate change but also to approaches to combatting fires that paradoxically increase their likelihood. A panel of futurists and two wildfire professionals convened to analyze the complex, interconnected trends in wildland fires in the context of three different scenarios for the decades ahead. They concluded that wildfire managers and the communities they serve need a new approach for managing future fire risk, one that entails more resilience and a less combative relationship with nature. <strong>By Robert L. Olson and David N. Bengston.</strong></p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/content/world-fire" rel="tag" title="A World on Fire">Read more<span class="element-invisible"> about A World on Fire</span></a></li>
+</ul>
+  
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <article class="node-34 node node-foresight-report node-teaser clearfix" about="/content/future-retail-marketing" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/content/future-retail-marketing">The Future of Retail Marketing</a></h2>
+            <span property="dc:title" content="The Future of Retail Marketing" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2015-04-23T23:14:36-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tom" typeof="sioc:UserAccount" property="foaf:name" datatype="">tom</span> on <time pubdate datetime="2015-04-23T23:14:36-04:00">Thu, 2015-04-23 23:14</time></span>        </p>
+      
+          </header>
+  
+    
+    <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Retailers globally are facing a range of challenges: new competition, new consumers with new values and demands, and new technologies that both simplify and complicate business operations. Success in the future retail landscape will require creativity, flexibility, and a laser-focus attention to what current and prospective customers want. <strong>By Timothy C. Mack</strong></p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/content/future-retail-marketing" rel="tag" title="The Future of Retail Marketing">Read more<span class="element-invisible"> about The Future of Retail Marketing</span></a></li>
+</ul>
+  
+</article>
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="Go to first page" href="foresight-reports">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="foresight-reports">‹ previous</a></li>
+<li class="pager-item"><a title="Go to page 1" href="foresight-reports">1</a></li>
+<li class="pager-current last">2</li>
+</ul></div>  
+  
+  
+  
+  
+</div>          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

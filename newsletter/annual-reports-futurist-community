@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="annual-reports-futurist-community" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/200" />
+  <title>Annual Reports from the futurist community | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/annual-reports-futurist-community":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-200 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="annual-reports-futurist-community#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="annual-reports-futurist-community" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-aVuRUbTbDlpIuobd4slXYRWQLFVG9NMkFPJvCKWqgbQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Annual Reports from the futurist community</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Annual Reports from the futurist community</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/annual-reports-futurist-community" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-200 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/annual-reports-futurist-community" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Annual Reports from the futurist community" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 8,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 1</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-01-02T00:00:00-05:00">January 2, 2022</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Futurist Community Year in Review, 2021—Double Issue</h2>
+<p>In 2021, futurists around the world kept us all informed, inspired, forward-looking, and well-prepared for what <i>The Economist</i> has called the “<a href="https://www.economist.com/leaders/2021/12/18/the-new-normal-is-already-here-get-used-to-it" target="_&quot;blank&quot;">era of predictable unpredictability</a>.” Below are a few highlights of the foresight community’s work in 2021 (plus some previews of 2022 activities). </p>
+<p><b>Association of Professional Futurists</b><br />
+reported by <b>Shermon Cruz</b>, chair, with <b>Nicole Parreño</b>, secretary to the chair and board liaison</p>
+<p>The <a href="https://apf.org" target="_&quot;blank&quot;">Association of Professional Futurists</a> (APF) recently held its End of Year Awards Ceremony, to put a spotlight on the winners of the <a href="https://www.apf.org/page/StudentRecognitionProgram" target="_&quot;blank&quot;">Student Recognition Program</a>, the 2022 cohort of the <a href="https://www.apf.org/page/emergingfellows" target="_&quot;blank&quot;">Emerging Fellows</a> program, and the winners of the <a href="http://apf.org/page/msfw" target="_&quot;blank&quot;">Most Significant Futures Works</a> award, which included <b>James H. Lee</b> and the teams of <b>Adam Gordon, Rene Rohrbeck</b>, and <b>Jan Schwarz</b> and <b>Jose Ramos, John A. Sweeney, Katie Peach</b>, and <b>Laurie Smith</b>.  </p>
+<p>As 2021 comes to a close, much appreciation goes out to all, for giving the APF the opportunity to build a generative and collaborative community of futurists in service to our members, to the field, and the larger communities we are part of.</p>
+<p>As we enter the 20th Anniversary of the APF in 2022, we look forward to even more opportunities to put our members in the spotlight and create avenues for people to learn more about the organization and what our members offer.</p>
+<p>Past events of the APF and the recording of the awards ceremony can be viewed on the <a href="https://www.youtube.com/channel/UC4bIWIB-_gmrzvIoU9KNpCA" target="_&quot;blank&quot;">APF YouTube Channel</a>.  </p>
+<p>For more about the APF milestones and key initiatives, visit the <a href="https://www.apf.org" target="_&quot;blank&quot;">APF website</a> and connect via <a href="https://linktr.ee/apfuturists" target="_&quot;blank&quot;">LinkedIn</a>. </p>
+<p><b>The Millennium Project</b><br />
+reported by <b>Jerome C. Glenn</b>, CEO and co-founder</p>
+<ul>
+<li>Open letter to the UN Secretary-General (UNSG) signed by over 200 thought leaders calling for a <a href="https://www.millennium-project.org/5672-2/" target="_&quot;blank&quot;">UN Office of Strategic or Existential Threats</a></li>
+<li>Collaboration with the Executive Office of the UNSG on implantation planning for “<a href="https://www.un.org/en/content/common-agenda-report/assets/pdf/Common_Agenda_Report_English.pdf" target="_&quot;blank&quot;">Our Common Agenda</a>.”</li>
+<li>New Millennium Project Nodes in Denmark (Copenhagen Institute for Futures Studies) and Nepal (Nepal Institute for International Cooperation and Engagement), making a total of 70 Nodes now.</li>
+<li>Real-Time Delphi on global developments with EY (Ernst &amp; Young) as input to the next <i>State of the Future</i> report to be released in early 2022.</li>
+<li>World Future Day March 1st was the eighth annual <a href="https://www.newswire.com/news/join-24-hour-round-the-world-conversation-to-celebrate-world-futures-21327862" target="_&quot;blank&quot;">24-hour no-agenda round-the-world conversation</a></li>
+<li>Managed 14 Interns during 2021: five from China, two from the USA, and one each from Brazil, Canada, Germany, Mexico, Netherlands, South Korea, and the UK.</li>
+</ul>
+<p><i>Keep up</i> with The Millennium Project <i><a href="http://www.millennium-project.org/tmp-news/" target="_&quot;blank&quot;">here</a></i>  or subscribe to the newsletter <i><a href="http://eepurl.com/JXt4n" target="_&quot;blank&quot;">here</a></i>. </p>
+<p><b>UNESCO World Futures Day</b><br />
+reported by <i>Foresight Signals</i></p>
+<p>Members from 193 nation-states have named December 2 “UNESCO World Futures Day,” beginning in 2022, according to <b>Riel Miller</b>, UNESCO head of Futures Literacy. The event will focus on government foresight, he said in a <a href="https://www.linkedin.com/feed/update/urn:li:activity:6872099076889047040/" target="_&quot;blank&quot;">LinkedIn post</a>.  </p>
+<p>Other futurist organizations such as The Millennium Project (TMP) continue to make plans for March 1 World Future Day in 2022. TMP “will be in discussion with both UNESCO and the UAE about plans for Dec. 2nd,” according to CEO <b>Jerome Glenn</b>. <i>[<a href="https://www.millennium-project.org/world-future-day-24-hour-round-the-world-conversion-on-the-future/" target="_&quot;blank&quot;">See recap of 2021 event</a>]</i>  </p>
+<p>“There are plenty of options on how to connect events and communities. What is clear is that many more people will now be celebrating the human capability to imagine the future,” Miller told <i>Foresight Signals</i> in an email.</p>
+<li><i>This story has been corrected to reflect that The Millennium Project's March 1 event is called World Future Day.</i></li>
+<p><b>OECD Strategic Foresight Unit</b><br />
+reported by <b>Dexter Docherty</b></p>
+<p>Launched in May 2021, <a href="http://oecd.org/strategic-foresight/" target="_&quot;blank&quot;">OECD’s Strategic Foresight Unit</a>  published its first global scenarios piece, introducing concepts such as the metaverse and the vulnerable world hypothesis to the OECD. See “<a href="https://www.oecd-ilibrary.org/economics/global-scenarios-2035_df7ebc33-en" target="_&quot;blank&quot;">Global Scenarios 2035</a>,” OECD (May 20, 2021). </p>
+<p>In the face of rapid change and high uncertainty, organisations must prepare for the unexpected. This report explores three scenarios—Multitrack World, Virtual Worlds, and Vulnerable World—and their possible implications for the future of global collaboration and for organisations such as the OECD. It includes emerging changes and trends that could affect the world in unpredictable ways over the next fifteen years, and offers potential strategic considerations and action areas aimed at ensuring the OECD’s agility, resilience and future-readiness. </p>
+<p>Prepared by the OECD’s Strategic Foresight Unit to commemorate the Organisation’s 60th anniversary, the report is intended to stimulate dialogue among all those sharing an interest in preparing the OECD to meet the evolving needs of the global community in the face of a highly dynamic and uncertain future.</p>
+<p><b>Institute For The Future and Smithsonian Institution</b><br />
+reported by <i>Foresight Signals</i> and <b>Victor Motti</b>, director, World Futures Studies Federation</p>
+<p>Celebrating its 175th anniversary in 2021, the Smithsonian Institution worked with the Institute For the Future and other partners to design, develop, and launch a forward-looking exhibition, <a href="https://aib.si.edu/" target="_&quot;blank&quot;">FUTURES</a>.  </p>
+<p>The exhibit opened November 20 in the Smithsonian's Arts &amp; Industries building, featuring interactive stations focusing on alternative possible futures. The “first-of-its-kind museum experience uses psychology, gaming, gesture controls and haptics to immerse visitors with a collective visualization of their hopes, aspirations, ideas, and imaginative headlines from the future,” IFTF says on its <a href="https://www.iftf.org/futuresbeacon/" target="_&quot;blank&quot;">website</a>.  </p>
+<p>“The whole experience was amazing,” <b>Victor Motti</b> wrote in an email after visiting the exhibit in December. “But something very eye opening for me was the archive photos of protests by the excluded, poor, hungry, jobless, sick, slum residents against the US World's Fair series and the bright futures shown there.” Motti has shared his photos from his visit <i><a href="https://photos.app.goo.gl/eYnaZZPKTkCpm8is7" target="_&quot;blank&quot;">here</a></i>. </p>
+<li><i>This story has been corrected; the Smithsonian Institution's Arts &amp; Industries building is next door to the Administration building, which is known as the Castle.</i></li>
+<p><b>Public Sector Foresight Network</b> (PSFN)<br />
+reported by <b>Clem Bezold</b> and <b>Nancy Donovan</b>, co-founders</p>
+<ul>
+<li>Reports to the Korean Development Institute. Representing PSFN, <b>Clem Bezold</b> and <b>Nancy Donovan</b> provided papers to the South Korean government based on their discussions at a national foresight meeting held in 2020. These papers related to “<a href="https://www.kdi.re.kr/kdi_eng/events/seminar_data.jsp?mseq=488&amp;yyyy=2020&amp;mmmm=01" target="_&quot;blank&quot;">The U.S. Response to COVID-19 and the Role of Foresight</a>” (Donovan) and “<a href="https://www.kdi.re.kr/kdi_eng/events/seminar_data_view.jsp?yyyy=2020&amp;mseq=488&amp;dseq=2012" target="_&quot;blank&quot;">Post-COVID political and economic futures</a>” (Bezold).</li>
+<li>Panel on “How Local Governments Around the World Use Foresight. <b>Rebecca Ryan</b>, PSFN member and resident futurist, Alliance for Innovation, organized and moderated a March 5 panel of the following PSFN members: APF Chair <b>Shermon Cruz</b>, <b>Nancy Donovan</b>, and <b>Yasemin Arikan</b>, futurist, Next Generation Consulting Inc.. This panel was held at “Govapalooza,” an event hosted by the Alliance for Innovation and Partners for local government representatives from cities, towns, villages, counties, and other organizations.</li>
+<li>Session on Forecasting and Foresight (National War College). PSFN organized a virtual event on April 21, related to a foresight course, “<a href="https://www.publicsectorforesight.org/meetings-page" target="_&quot;blank&quot;">Forecasting and Foresight in Strategic Decision Making</a>,” at the National War College, featuring Captain <b>Trent Hesslink</b>, dean of students at the National War College, and <b>Mark Kohler</b>, co-teacher for the course and senior vice president of Good Judgment Inc.<br />
+The event also included advisory comments on the course by several PSFN members, including <b>Clem Bezold</b>, former chairman and senior futurist, Institute for Alternative Futures; <b>Jake Dunagan</b>, research director, Institute For The Future; <b>Sheila Ronis</b>, president, The University Group Partners; <b>Brian Coppersmith</b>, project manager, Strategic Foresight Branch, Navy Bureau of Medicine and Surgery; <b>Helene Lavoix</b>, president/CEO, The Red Team Analysis Society; <b>Yul Anderson</b>, president and founder, African American Future Society; and <b>Ruben Nelson</b>, executive director, Foresight Canada. </li>
+<li>Session on OECD Foresight on COVID and Achieving Net-Zero Emissions. On October 1, PSFN co-sponsored the first in a series of events with the Association of Professional Futurists (APF) focusing on government foresight. This inaugural and virtual event featured <b>Duncan Cass-Beggs</b> and <b>Alanna Markle</b> of the Organization for Economic Cooperation and Development (OECD) in a presentation on “<a href="https://www.publicsectorforesight.org/meetings-page" target="_&quot;blank&quot;">Can Futures Thinking Help Governments Recover and Reinvent Post-COVID-19?</a>”  This presentation updated an OECD foresight team paper on foresight and COVID. Cass-Beggs and Markle also reviewed their foresight tools to help governments achieve their Net Zero 2030 to 2050 goals, available <i><a href="https://www.publicsectorforesight.org/meetings-page" target="_&quot;blank&quot;">here</a></i>.</li>
+</ul>
+<p>The Public Sector Foresight Network is open to those working in and with government foresight. The PSFN archives and information on joining are <i><a href="http://www.publicsectorforesight.com/" target="_&quot;blank&quot;">here</a></i>.</p>
+<p><b>Federal Foresight Community of Interest</b><br />
+reported by <b>Robin Champ, Sharaelle Grzesiak</b>, and <b>Eric Popiel</b>, co-chairs</p>
+<p>Despite an evolving pandemic, the Federal Foresight Community of Interest (FFCOI) brought together foresight practitioners from government, private sector, academia, and more. We hosted 12 monthly webinars, breaking record attendance with participants from around the world. Utilizing a briefing followed by Q&amp;A format, attendees were able to interact with leading-edge foresight practitioners.  Topics covered a wide spectrum of emerging trends and featured world class speakers such as: </p>
+<ul>
+<li>Lt. Col. <b>Jake Sotiriadis</b>, USAF</li>
+<li><b>Brian David Johnson</b>, Arizona State University</li>
+<li>Dr. <b>Lonnie Love</b>, Oak Ridge National Laboratory</li>
+<li>US Army Mad Scientist <b>Allison Kuntzman</b> and <b>Matthew Santaspirt</b></li>
+<li><b>Cathy Hackl</b>, Futures Intelligence Group</li>
+<li><b>Peter Singer</b>, Useful-Fiction</li>
+<li><b>Duncan Campbell</b>, Cognosis</li>
+<li><b>Deborah Westphal</b>, author</li>
+<li><b>Eric Popiel</b>, Office of Personnel Management</li>
+<li><b>Lisa Bodell</b>, FutureThink</li>
+<li><b>Alessandro Fergnani</b>, NUS Business School</li>
+</ul>
+<p>Looking to 2022, FFCOI will continue to bring renowned foresight speakers and highlight practical foresight tools for attendees. You can follow FFCOI on LinkedIn and sign up for monthly newsletters and webinars <i><a href="http://FFCOI.org" target="_&quot;blank&quot;">here</a></i>.  </p>
+<p><b>LBL Strategies</b><br />
+reported by <b>Robin Champ</b>, senior trainer, with <b>Abigail Faulkner</b>, marketing strategist</p>
+<p>In 2021, LBL Strategies launched and held two cohorts of <a href="https://www.lblstrategies.com/scenario-based-planning-bootcamp/" target="_&quot;blank&quot;">Mastering Foresight: Scenario-Based Planning Bootcamp</a>.  This hands-on training program teaches participants how to scan the environment for trends, write scenarios, and run workshops for their organization and clients. Final class projects were reviewed by academically trained and world-renowned futurist, Dr. <b>Richard Lum</b>.</p>
+<p>Mastering Foresight complements LBL’s <a href="https://www.lblstrategies.com/training-and-certification/strategic-management-performance-system/" target="_&quot;blank&quot;">Mastering Strategy: Strategic Management Performance System</a>  course, offered in partnership with the George Washington University’s Center for Excellence in Public Leadership and recognized by the Association for Strategic Planning as the only official ASP exam preparation course. Mastering Foresight will be offered again from April 4-8, 2022, via Zoom. </p>
+<p><i>Keep up</i> with all of LBL Strategies’ training programs or sign up for its newsletter <i><a href="https://www.lblstrategies.com/about-lbl-strategies/contact-lbl-strategies/" target="_&quot;blank&quot;">here</a></i>.  </p>
+<p><b>4CF Strategic Foresight</b><br />
+reported by <b>Kacper Nosarzewski</b>, 4CF partner, with <b>Dariusz Kozdra</b>, head of communications</p>
+<p><a href="https://4cf.pl/" target="_&quot;blank&quot;">4CF</a> is the leading company that specialises in strategic foresight and long-term strategy development in Poland. For over a decade, we have been helping companies, public institutions, and international organisations prepare for an uncertain tomorrow. We have carried out hundreds of projects for private and the public sector, international entities, such as UNESCO, UNDP, and WHO. In 2021, we won new clients—Frontex, Saint-Gobain—and a new assignment for the European Commission, DG GROW. We also continued our work for Veolia and Laudes Foundation.</p>
+<p>2021 publications covered futures and foresight of cities (Wrocław, Saint-Gobain), gaming, biometrics for travel (Frontex), energy transformation (Veolia), trade, and food, as well as the fashion industry (Laudes Foundation).</p>
+<p>We continuously perfect our methodology and actively cooperate with leading international foresight centres. We are at the forefront of global innovation, and we actively contribute to the development of cutting-edge foresight tools. In 2021, we have expanded our product offering for foresight companies: the well-known Real-Time Delphi system 4CF HalnyX® has been joined by two new online products: 4CF Futures Literacy Experience (4CF FLEx) and 4CF Stranger Futures®, which address the need for an engaging online experience to enrich foresight workshops. Our products help win bids and offer added value to clients.</p>
+<p>2021 was marked by dynamic growth for 4CF Strategic Foresight. We increased our team of consultants by 50%, acquiring further capacities in foresight, futures, and marketing.  </p>
+<p>4CF is the only Polish member-organisation of the Association of Professional Futurists, Foresight Educational and Research Network, The Millennium Project. We also cooperate with EIT Climate-KIC.</p>
+<p><b>The TechCast Project</b><br />
+reported by <b>William E. Halal</b>, president</p>
+<p>In 2021, TechCast conducted studies on “<a href="https://us20.campaign-archive.com/?e=__test_email__&amp;u=15a1bf667e23c19acf967cbe3&amp;id=a474e56278" target="_&quot;blank&quot;">AI versus Humans</a>,”  “<a href="https://mailchi.mp/6e72c19209f3/collective-intelligence-on-solving-the-megacrisis-13412526" target="_&quot;blank&quot;">Mis/DisInformation</a>,” and “<a href="https://mailchi.mp/95f348855c9f/collective-intelligence-on-solving-the-megacrisis-13412578?e=a558088d1d" target="_&quot;blank&quot;">Is an Age of Consciousness Here?</a>”  </p>
+<p>Also in 2021, I published my seventh book, <i>Beyond Knowledge: How Technology Is Driving an Age of Consciousness</i> in September (read synopsis <i><a href="http://billhalal.com/blog/beyond-knowledge/" target="_&quot;blank&quot;">here</a></i>).  The book already has dozens of reviews on Amazon, and they are all 5 stars. One called it “The intellectual manifesto for our times.” Another said it is “A masterpiece of human thought.” Hazel Henderson called it “A gem,” while Michael Lee thinks it’s “the best since Alvin Toffler’s <i>Future Shock</i>.”</p>
+<p><i>Keep up</i> with the TechCast Project by signing up for the newsletter <i><a href="http://www.TechCastProject.com" target="_&quot;blank&quot;">here</a></i>. </p>
+<p><b>Future Impacts</b><br />
+reported by <b>Cornelia Daheim</b>, director and founder, with <b>Clara Jöster-Morisse</b></p>
+<ul>
+<li>From April 2021 on, <b>Johannes Wirz</b> joined the Future Impacts team. Johannes graduated recently from the futures studies master in Berlin.</li>
+<li>Future Impacts realized a <a href="https://www.laudesfoundation.org/en/resources/2021/12/laudesfoundationsystems-baseline.pdf" target="_&quot;blank&quot;">project for Laudes Foundation</a>: A systems baseline report assessing progress in fashion, built and finance sectors in climate and inequality. It is about where we stand today, and serves to identify levers to accelerate to a more climate-positive and inclusive economy. One of the conclusions: While there is progress, much more rapid and large-scale systems change will be needed to meet sustainability goals.</li>
+<li><b>Cornelia Daheim</b> contributed to the second (online) EU conference on modelling for policy support organized by the European Commission Competence Centre on Modelling. In a panel with other experts, she spoke about strategic foresight and quantification for better future-oriented policymaking.</li>
+<li>Future Impacts joined an initiative launched by The Millennium Project, together with the World Futures Studies Federation and the Association of Professional Futurists. An <a href="https://www.millennium-project.org/200-leaders-call-for-new-un-office-tocoordinate-global-research-to-prevent-human-extinction/" target="_&quot;blank&quot;">open letter</a> to the UN calls for an internationally operating system that identifies, monitors and coordinates how we deal with fundamental global risks from a long-term perspective. </li>
+<li>Daheim also contributed to the <a href="https://www.globalforesightsummit.com/" target="_&quot;blank&quot;">Global Foresight Summit 2021</a>.  The contribution focused on “A Futures Literacy Approach from Germany—the Foresight Festival and the BMBF foresight process,” shedding light on how the foresight process of the German Ministry for Science and Education was connected to the foresight (film) festival and academy.</li>
+<li>Future Impacts’ team member contributed with a workshop to the The Public Climate School (PCS) by Students for future. With a focus on climate, the session employed our Trend- and Scenario-Toolkits to give participants an idea of how to explore different futures using scenarios.</li>
+<li>Future Impacts created <a href="https://foresight-festival.com/wpcontent/uploads/2021/02/Toolkit-Szenarien-FutureImpacts-Foresight-Festival-1-2021-ff.pdf" target="_&quot;blank&quot;">two toolkits</a> for the 2021 foresight film festival, making futures thinking accessible. The toolkits explain 1) trend analysis and 2) scenario development. The free-to-download kits supply templates as well as information on how to realize each work step.</li>
+<li>Future Impacts realized a scenario study for the European Agency for Safety and Health at Work (EU-OSHA) on <a href="https://osha.europa.eu/en/emerging-risks/circular-economy" target="_&quot;blank&quot;">the circular economy</a> and its potential effects for occupational safety and health. The aim of the project is to provide decision-makers throughout the EU with information they need on future changes and developments. Results built upon EU-OSHA’s previous foresight work on Green Jobs and Digitalisation, and led to the development of four macro-scenarios for 2040.</li>
+<p><i>Keep up</i> with Future Impacts <i><a href="http://www.future-impacts.de/" target="_&quot;blank&quot;">here</a></i></p>
+<p><b>Alternative Planetary Futures Institute</b><br />
+reported by <b>Victor V. Motti</b>, president and CEO</p>
+<p>Established in 2021 in Washington, D.C., the nonprofit <a href="https://www.apfi.us/" target="_&quot;blank&quot;">Alternative Planetary Futures Institute</a> (ApFi)  published its first e-book, with <b>Tom Lombardo</b>, <i>A Dialogue on Science Fiction: How to Achieve Planetary Wisdom Through Future Consciousness</i>, which it has made available for free. <i>(See below.)</i></p>
+<p>ApFi now seeks sponsors and donors to provide funds for the institute, whose primary focus and advocacy is:</p>
+<p>1. Promotion of the global identity and planetary thinking;<br />
+2. Shedding light on benefits and risks of technological revolutions; and<br />
+3. Challenging religious fundamentalism and supporting the scientific worldview.</p>
+<p><b>Center for Future Consciousness</b> (CFC)<br />
+reported by <b>Tom Lombardo</b>, director</p>
+<p>In 2021 I began a second four-year term as an executive board member of the World Futures Studies Federation (WFSF). I published two new books in my <a href="https://www.centerforfutureconsciousness.com/book_info.htm" target="_&quot;blank&quot;">series on the history of science fiction</a>. <i>Science Fiction: The Evolutionary Mythology of the Future—Volume Two: The Time Machine to Metropolis</i> and <i>Volume Three: Superman to Star Maker</i>.  A “Book Launch” video for the two new volumes is available on <a href="https://www.youtube.com/watch?v=S7QWV_vk5bk" target="_&quot;blank&quot;">YouTube</a>. </p>
+<p>With WFSF Executive Director <b>Victor Motti</b>, I co-authored and published a new online book <i><a href="https://www.apfi.us/" target="_&quot;blank&quot;">A Dialogue on Science Fiction: How to Achieve Planetary Wisdom through Future Consciousness</a></i>.  I also published three new articles in <i><a href="https://wfsf.org/wfsf-magazines/" target="_&quot;blank&quot;">Human Futures</a></i>—“Science Fiction During the Pandemic,” “Teaching Science Fiction as a Lens on the Future,” and “The Future Evolution of Consciousness”—and wrote an essay, “<a href="https://imaginezine.com/tom-lombardo/" target="_&quot;blank&quot;">Imagination</a>,”  for <i>Imagine</i> magazine. As first steps toward a new book I began a new series of online essays on “<a href="https://www.centerforfutureconsciousness.com/archived_newsletters.htm" target="_&quot;blank&quot;">The Purposeful Evolution of Consciousness</a>” in <i>Future Consciousness Insights</i>. </p>
+<p>This last year I continued my Webinar Series (begun in 2020) on the “The Evolution of Science Fiction,” creating eight new two-hour videos. There are now 15 videos in this series available for viewing. As a central site for viewing all these videos, the CFC created a new <a href="https://cfc-school.thinkific.com/" target="_&quot;blank&quot;">Video School</a>.  </p>
+<p>I also participated in a number of new online recorded interviews, including “<a href="https://legalise-freedom.com/shows/thomas-lombardo-cosmic-evolution-and-the-future-of-humanity/" target="_&quot;blank&quot;">Cosmic Evolution and the Future of Humanity</a>” with Legalize Freedom,  “<a href="https://xerxes.re/tom-lombardo/" target="_&quot;blank&quot;">The Mythology of the Future?</a>” with Challenging Paradigm X,  “<a href="https://www.youtube.com/watch?v=Tc1oO2Z8Odw" target="_&quot;blank&quot;">Science Fiction, Future Consciousness, and the Future(s)</a>” with 4 Sight Chats, and “<a href="https://www.youtube.com/watch?v=owo6mDqLj-4" target="_&quot;blank&quot;">Reflections: Sci-Fi for Action!</a>” with <i>IMCI Magazine</i>.  </p>
+<p>With <b>Karlheinz Steinmüller</b> and <b>Kacper Nosarzewski</b>, I took part in the Polish Futures Society Stanislaw Lem Centennial Debate “<a href="https://centennialdebate.ptsp.pl/home" target="_&quot;blank&quot;">The Expansion of Future Consciousness through the Practice of Science Fiction and Futures Studies</a>.” Finally, I gave the opening guest lecture to students at Prince Mohammad Bin Fahd Center for Futuristic Studies on “<a href="https://www.youtube.com/watch?v=A6lg9JEyF9k" target="_&quot;blank&quot;">Science Fiction and the Evolution of Future Consciousness</a>.” </p>
+<p>With my wife, <b>Jeanne</b>, I attended the WFSF conference in Berlin, Germany, and participated in three events: A panel discussion on “Science Fiction and Futures Studies,” a presentation on “The Purposeful Evolution of Consciousness,” and an introductory talk on my history of science fiction book series. An expanded version of my “<a href="https://www.youtube.com/watch?v=eP_hthL6F9M" target="_&quot;blank&quot;">The Purposeful Evolution of Consciousness</a>” talk was subsequently presented as a webinar video. </p>
+<p><i>Keep up</i> with Center for Future Consciousness <i><a href="https://www.centerforfutureconsciousness.com/index.html" target="_&quot;blank&quot;">here</a></i>. </p>
+<p><b>Strategic Foresight Group, Northern Research Station, U.S. Forest Service</b><br />
+reported by <b>David N. Bengston</b>, environmental futurist</p>
+<p>The <a href="https://www.nrs.fs.fed.us/units/foresight_response/" target="_&quot;blank&quot;">Strategic Foresight Group</a>  conducted numerous futures research projects and presented widely in 2021. Our foresight board game “IMPACT: Forestry Edition” has been played by a growing number of forestry managers and stakeholders and was recently published, with the print-and-play version included. See “<a href="https://academic.oup.com/jof/advance-article/doi/10.1093/jofore/fvab059/6433036#supplementary-data" target="_&quot;blank&quot;">A ‘Serious Game’ to Explore Alternative Forestry Futures</a>” by <b>David N. Bengston, Lynne M. Westphal, Michael J. Dockry</b>, and <b>Jason Crabtree</b>, <i>Journal of Forestry</i>, fvab059, <a href="https://doi.org/10.1093/jofore/fvab059">https://doi.org/10.1093/jofore/fvab059</a> (22 November 2021). </p>
+<p>We conducted an Implications Wheel® exploration of the potential wild card of abrupt climate change. See “<a href="https://www.fs.usda.gov/treesearch/pubs/61456" target="_&quot;blank&quot;">Abrupt climate change: Exploring the implications of a wild card</a>” by <b>David N. Bengston, Jason Crabtree</b>, and <b>Teppo Hujala</b>, <i>Futures</i>, 124: 102641 (2020). </p>
+<p>Early in the pandemic, we developed a set of scenarios to help U.S. Forest Service leadership navigate the compound disasters of wildfire and COVID-19, which will soon be published in <i>Fire Management Today</i>. </p>
+<p>An in-depth analysis of outdoor recreation scanning hits is underway, assessing potential impacts from a wide range issues, from loss of winter sports to self-repairing concrete. A full report on the recreation horizon scan will be ready in 2022. </p>
+<p>Finally, we prototyped a process to monitor emerging issues that can help decision-makers know when action or attention is needed. See “<a href="https://journals.sagepub.com/doi/10.1177/19467567211027350" target="_&quot;blank&quot;">Monitoring Emerging Issues: A Proposed Approach and Initial Test</a>” by <b>Andy Hines, Bes P. Baldwin, David N. Bengston, Jason Crabtree</b> et al., <i>World Futures Review</i>, Volume 13 Issue 3-4 (September-December 2021). </p>
+<p>Please contact us for further details about our futures research: <a href="mailto:david.bengston@usda.gov">david.bengston@usda.gov</a> or <a href="mailto:Lynne.Westphal@usda.gov">Lynne.Westphal@usda.gov</a>. </p>
+<p><b>Growth Dynamics</b><br />
+reported by <b>Theodore Modis</b>, founder</p>
+<p>Triggered by my invitation to give a <a href="https://www.youtube.com/watch?v=li3NtNzWcdg" target="_&quot;blank&quot;">talk</a> at the <a href="https://symposium.ih21.org/en/home" target="_&quot;blank&quot;">International Symposium on Social Singularity in the 21st century: At the Crossroads of History</a> in Prague on September 18, I put together an <a href="https://osf.io/6nwf9/" target="_&quot;blank&quot;">article</a>  linking Entropy, Complexity, and the Technological Singularity. The work confirms/corroborates the results of my 20-year-old publication “<a href="http://www.growth-dynamics.com/articles/Forecasting_Complexity.pdf" target="_&quot;blank&quot;">Forecasting the Growth of Complexity and Change</a>” in which I had analyzed 28 “cosmic” milestones to conclude that complexity will soon begin decreasing, thus excluding the possibility of an upcoming singularity. </p>
+<p>As it turns out, no such milestones have been observed during the last 20 years, while five of them had been expected according to the exponential trend advocated by the singularitarians. But this article also points out that with information-related definitions for entropy and complexity the latter turns out to be the time derivative of the former. Defining complexity to be the derivative of entropy may not be rigorously true in all cases, but it could have widespread appeal and utility on an intuitive level. For example, in layperson’s terms it makes much sense—i.e., the faster the disorder grows, the more difficult it is to fully describe the state.</p>
+<p>I also revised my older article “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518313568" target="_&quot;blank&quot;">Forecasting Energy Needs with Logistics</a>” with updated and restated data (see <a href="https://osf.io/jgrky/" target="_&quot;blank&quot;">preprint</a>).  The work now shows the share of heavy pollutants (coal + oil) declining systematically in favor of natural gas and renewables. The shares of these three energy sources are poised to reach around 30% each by 2050. Nuclear and hydroelectric energy are responsible for the remaining 10%, which goes mostly to hydroelectric. In the breakdown of renewables we find that today’s dominant wind power is being progressively replaced by solar energy, which will reach more than 90% of all renewables by 2050. The work will be published as a chapter in a Springer Nature book, edited by Tessaleno Devezas et al., with title “Global Challenges in Climate Change, Technological Foresight and Risks Assessment.”</p>
+<p><b>Future Summit TransVision Madrid 2021</b><br />
+reported by <b>José Cordeiro</b>, organizer </p>
+<p>The Future Summit TransVision Madrid 2021 has been the largest conference explicitly about transhumanism. About 300 participants in person and close to 2,000 online participated in this global hybrid event. <i>[<a href="https://www.youtube.com/watch?v=HS-3nEzeCEM" target="_&quot;blank&quot;">Watch here</a>]</i> </p>
+<p>The conference was held at the illustrious College of Physicians of Madrid, with the support of the Madrid government, where there were presentations by top transhumanists like <b>Natasha Vita-More, Max More, Anders Sanderberg, Ben Goertzel, David Wood</b>, and <b>José Cordeiro</b> (the main organizer as vice-chair of HumanityPlus). There were also top futurists like <b>Jerome Glenn, William Halal, Erik Øverland, Gerd Leonhard</b>, and <b>Rohit Talwar</b>. </p>
+<p>Other keynote presentations were <b>John C. Mather</b> (2006 Physics Nobel laureate and scientific leader of the James Webb Space Telescope), humanoid robot Grace for medical purposes (the younger sister of famous robot Sophia), and the latest book by Ray Kurzweil (<i>The Singularity Is Nearer</i>, soon to be released probably as <i>The Age of the Singularity</i>). Participants also had the opportunity to discover the work of the previous two Spanish Nobel laureates in Medicine (Santiago Ramon y Cajal and Severio Ochoa), both of whom worked at the College of Physicians. </p>
+<p>The main focus of the conference was health, longevity, rejuvenation, and even the possibility of immortality. Other subjects considered were robots and artificial intelligence, cryptocurrencies and blockchain, space travel and exoplanets, nanotechnology and biotechnology, and overall trends in energy, food, water, and sustainability. </p>
+<p>All the presentations can be watched on demand at the <a href="https://www.transvisionmadrid.com/" target="_&quot;blank&quot;">TransVision website</a>.  After the conferences, there were additional tours to see the UNESCO World Heritage Sites around Madrid, to see the past and to foresee the future. <i>[<a href="https://www.youtube.com/watch?v=gc8nS9N9nrA" target="_&quot;blank&quot;">Watch here</a>]</i> </p>
+<p><b>UNESCO Project on Ethical AI</b><br />
+reported by <b>Mariana Todorova</b> </p>
+<p>(Dr. <b><a href="https://www.linkedin.com/in/mariana-todorova-4a036183/" target="_&quot;blank&quot;">Mariana Todorova</a></b>  is a futurist, chair of The Millennium Project Bulgarian Node, senior researcher in the field of future studies and artificial intelligence, keynote speaker, author of books, strategist, and consultant.) </p>
+<p>I represented Bulgaria in the intergovernmental meeting of UNESCO to develop an ethical framework for AI. Six Bulgarian additions are reported in the final draft of the document that the General Assembly voted on at its session in November 2021. The most important version I proposed is the recommendation that consumers should always be informed that the product or service they receive is created directly or assisted by artificial intelligence. </p>
+<p>Another recommendation is to take into account that the economy, labour market, and professions will be a separate sector of influence from AI, and it is necessary to provide that many professions will be replaced by automation, robotics, and the introduction of AI, while others will be transformed so that government retraining programs are drawn up in two directions. One is for people who are at complete risk of being replaced by AI to retrain, and the other to be taught how to work and collaborate with it. </p>
+<p>The other two important corrections are that the monitoring of AI through wearable sensors or devices that attach to the human body, or insideables in the future, must be with the consent of the patient or his/her relatives. I also insisted on the regulation that AI used in education is to support it, but will not reduce the cognitive abilities of the individuals and will not extract sensitive information.</p>
+<h2>Keep Signaling!</h2>
+<p>We encourage all foresight professionals to share their work, insights, and news throughout the year. Please forward your “foresight signals,” comments, and updates to AAI Foresight’s consulting editor Cindy Wagner at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+<h2>Signal Thoughts</h2>
+<p>“Of one thing we can be sure. The quality of our life in the future will be determined by the quality of our thinking.” <b>Edward de Bono</b> (1933–2021), <i>Future Positive</i> (1979)</p>
+</ul></div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

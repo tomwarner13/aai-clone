@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="digital-reality-versus-air-travel-responsibly-imaginable" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/167" />
+  <title>Digital Reality versus Air Travel: The Responsibly Imaginable | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/digital-reality-versus-air-travel-responsibly-imaginable":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-167 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="digital-reality-versus-air-travel-responsibly-imaginable#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="digital-reality-versus-air-travel-responsibly-imaginable" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-nGUdRKGOdYXYYHKPxTWDQo4u7m9a9vRTWoKv54slVc0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="https://www.aaiforesight.com/blogs/dennis-bushnell">Dennis Bushnell&#039;s blog</a> › </li><li>Digital Reality versus Air Travel: The Responsibly Imaginable</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Digital Reality versus Air Travel: The Responsibly Imaginable</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/digital-reality-versus-air-travel-responsibly-imaginable" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-167 node node-blog node-promoted view-mode-full clearfix" about="/blog/digital-reality-versus-air-travel-responsibly-imaginable" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="Digital Reality versus Air Travel: The Responsibly Imaginable" class="rdf-meta element-hidden"></span>
+                        <p class="submitted">
+          <span property="dc:date dc:created" content="2020-08-05T10:37:09-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/dennis-bushnell" typeof="sioc:UserAccount" property="foaf:name" datatype="">Dennis Bushnell</span> on <time pubdate datetime="2020-08-05T10:37:09-04:00">Wed, 2020-08-05 10:37</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/maximum_width_300px/public/augmented-3630004_640_0.png?itok=3ny1qpnf" width="300" height="300" alt="" title="Image: Mohamed Hassan / Pixabay" /><div class="caption-holder" style="width:300px; max-width:100% !important;"><p class="image-caption">Image: Mohamed Hassan / Pixabay</p></div></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Note: These are the personal views of the author.</p>
+<p>The development of digital reality (DR)—virtual, nonphysical presence—began with the telegraph, progressed to the telephone, then moved to telephones with screens, and now to computers. The nearer-term developments of DR include augmented reality and advanced virtual reality (VR), and it is heading toward five-senses VR and holographic projection. Going forward with the availability of ever greater bandwidth and direct machine-to-brain communications (bypassing the senses), DR is projected to be as good as, or better than, physical reality. Even the current DR technology provides the critical body language aspects of human communication.</p>
+<p>Compared with physical travel, DR provides the following benefits:</p>
+<ul>
+<li>Large cost reductions—not just for transportation, but for total trip costs.</li>
+<li>Large time savings—again, not just transportation time, but for total trip time. </li>
+<li>Greatly improved use of time as a result. Individuals can visit many locations and countries in a single day, increasing productivity.</li>
+<li>Massively reduced adverse impacts on the climate and ecosystems.</li>
+<li>Optimization of appointment schedules, enabling more effectiveness among widely dispersed teams.</li>
+<li>Reduced stress, as users avoid security lines, crowds, and so on.</li>
+<li>Easy access to anyplace connected to the internet.</li>
+<li>Avoidance of absence from family.</li>
+<li>Affordable travel and entertainment experiences available for all, on individuals’ personal schedule, including the infirm and the young.</li>
+<li>Expansion of the huge ongoing societal shift, begun some 25 years ago with the Web, into the virtual age with tele-everything, including telecommuting, work, shopping, education, medicine, socialization, commerce, politics, and so on.</li>
+<li>Improved health, with regard to diet, sleep, and exposure to diseases.</li>
+<li>Social distancing required for pandemics.</li>
+</ul>
+<p>Digital reality’s benefits to national and international economies during the COVID-19 pandemic—especially with increasing indications of the airborne nature of the novel coronavirus’s transmission—will make it even more essential for societies to embrace DR. Dealing with the pandemic has necessitated a massive shift from physical to virtual travel and interactions—a major acceleration in the decades-long shift to tele-everything. Organizations such as the U.S. Department of Defense, whose previous stance was not favorable to tele-operations, were forced to rapidly shift to such and have determined that the shift went surprisingly well—all using current DR technologies, including VR, that will likely see rapid improvements and capabilities.</p>
+<p>This pandemic-induced shift to DR had a massive negative impact upon air travel and, consequently, on air vehicle production, with apparent indications that a return to pre-pandemic operational levels will take years. The unknown at this point is the extent to which DR technology developments and the COVID-induced shift toward DR adoption will alter air travel passenger demand going forward. The apparent reaction of the air carriers to the pandemic downturn has been to reexamine their fleet composition, perhaps cull older, less-efficient machines, and to plan purchases of new, better aircraft. One approach to projecting post-pandemic air traffic demand is to consider two aspects. First, to what extent can the airlines and manufacturers match or counter the many and varied benefits of DR? And second, what are the unique aspects of physical travel that DR does not provide, and what are the downsides of DR travel? </p>
+<p>The two major types of commercial air passengers are business and leisure travelers. The business travelers are a smaller percentage, but due to scheduling issues, they generally pay higher fares and create more income for the air carriers. Even before the pandemic, a virtual leisure travel industry was developing (including wholly virtual airlines), which has greatly expanded during the COVID-19 pandemic. This industry provides virtual tourism as an alternative to physical tourism. Along with the many benefits of DR already discussed, they offer virtual trips to destinations without crowding that’s increasingly prevalent for physical travel, along with adventures that are not physically possible, such as realistic travel to historical places as they existed in previous ages. This virtual tourism industry has shown good growth, especially during the pandemic. Similar success has been observed with regard to virtual business conferences, allowing many more people to attend and with no venue costs or scheduling issues.</p>
+<p>Therefore, thus far, there do not appear to be major downsides associated with DR travel for specific purposes such as tourist travel or business conferences, and DR has long been used for families to keep in touch. So, what then are the downsides of DR travel that would sustain physical air travel going forward? The usual issue cited revolves around socialization, meeting new people, experiencing them in their environment, and “pressing the flesh.” Historically with conferences, for example, it’s been the case that attendees learn more outside the conference hall than within it. </p>
+<p>Connected with these aspects is the ongoing societal shift to virtual tele-everything. Younger generations growing up with DR (and others who have a facility with the technologies) are learning how to utilize DR to obtain or even improve socialization. DR exposes users to many others—individuals and organizations—with talents and capabilities that could be useful to them. University professors typically now conduct research with peers and co-workers worldwide, in some cases without very much physical contact. Virtual conferences provide chat rooms, enabling networking that appears to be satisfactory or better. </p>
+<p>All that said, with the current state of DR technology, most people still say they need to do the trip for the handshake. How and to what extent that would counter the many and major upsides of DR travel is to be determined, especially as the technology enables the experience of wholly immersive presence, such as through virtual reality and holography. Haptic technologies, for example, would enable remote users to shake hands, and it will eventually occur via direct brain-to-machine communications. Even the current VR devices are extremely realistic. This author has given lectures in Asian countries virtually quite successfully, saving many hours flying across the Pacific and the total trip time and expenses required to do so.</p>
+<p>Airlines and air vehicle manufacturers can try to compete with DR by focusing on certain benefits to counter those that DR offers. To counter DR’s time savings, for example, they can try to develop faster aircraft. But DR technology operates near the speed of light, so supersonic transport (SSTs), even if they could be made emissionless and inexpensively, would not close the time-saving gap to a useful extent. Technologies that could, in time, reduce costs and emissions greatly include:</p>
+<ul>
+<li>Autonomy (which would save on crew costs).</li>
+<li>Doubling the lift-to-drag ratio using truss braced wings, extensive laminar flow, and thrust vectoring vice empennage.</li>
+<li>Materials improved as much as fivefold via nano printing for superb microstructure.</li>
+<li>Going electric for long hauls with green renewables, lithium or air batteries, or fuel cells (but not via fuels producing water due to the climate effects of water emissions above the tropopause). </li>
+</ul>
+<p>Even these revolutionary (potentially evolutionary) aero vehicle technologies would not reduce costs enough to compete with DR, though they would very closely approach emissionless transportation. Therefore, even with very advanced and burgeoning new technologies, physical air travel cannot seriously compete with the major benefits that DR technology offers. The major adverse econometric changes caused by the pandemic will accentuate the importance of the huge advantages of DR travel in terms of cost and time savings. </p>
+<p>We started out traveling across the country on horseback, then on trains and aircraft, ever gaining more speed until finally we are now transporting ourselves with electrons into an immersive, digital presence.</p>
+<p><b>Dennis M. Bushnell</b> is chief scientist at NASA Langley Research Center in Hampton, Virginia.</p>
+<p><i>Image credit: <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3630004">Mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3630004">Pixabay</a></i></p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="https://www.aaiforesight.com/blogs/dennis-bushnell" title="Read Dennis Bushnell&#039;s latest blog entries.">Dennis Bushnell&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

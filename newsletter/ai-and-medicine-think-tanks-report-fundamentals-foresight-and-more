@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/158" />
+  <title>AI and Medicine, Think Tanks Report, Fundamentals of Foresight, and more | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-158 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-CRbJ3PKSh3dxd9LKpKq_ZE7Pq_9KwsoNJx6Nj24RGmY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>AI and Medicine, Think Tanks Report, Fundamentals of Foresight, and more</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">AI and Medicine, Think Tanks Report, Fundamentals of Foresight, and more</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-158 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/ai-and-medicine-think-tanks-report-fundamentals-foresight-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="AI and Medicine, Think Tanks Report, Fundamentals of Foresight, and more" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 6,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 3</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-03-06T00:00:00-05:00">March 6, 2020</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Mack Report: AI’s Partnership with Medicine Grows</h2>
+<p>In his latest <a href="http://www.aaiforesight.com/blog/growth-ai-partnership-medicine" target="_&quot;blank&quot;">article</a>, AAI Foresight Managing Principal <b>Tim Mack</b> provides an overview of new ways artificial intelligence technologies are being deployed to improve medicine and health care. Rather than replacing medical personnel (doctors and technicians), “AI capabilities allow doctors and technicians to deliver medicine that is more personalized, proactive, and effective,” he writes. </p>
+<p>For example, algorithms can monitor and adjust medication levels and combinations as a patient’s condition changes in real time, thus freeing the doctor’s time to be more interactive with the patient. AI can also accelerate diagnostics (and thus treatment) by learning to review X-rays, MRIs, CT scans, and other diagnostic imaging that would otherwise await interpretation.</p>
+<p>Other areas in which AI can assist medicine and health care include drug development, patient data management, physical therapy, mental health, pain management, and risk analysis.</p>
+<p>Read “<a href="http://www.aaiforesight.com/blog/growth-ai-partnership-medicine" target="_&quot;blank&quot;">Growth of AI Partnership in Medicine</a>” by Timothy C. Mack, Foresight Signals Blog (March 3, 2020). </p>
+<h2>TechCast 2.0</h2>
+<p>A rebranded and refocused <a href="https://www.billhalal.com/techcast/" target="_&quot;blank&quot;">TechCast Project</a> (previously TechCast Global) “is returning to its academic roots in research, education and consulting,” according to founder <b>William E. Halal,</b> professor emeritus of management, technology, and innovation at George Washington University. </p>
+<p>This next generation of TechCast will continue to provide strategic analysis and foresight based on the pooled input of “high-tech CEOs, scientists and engineers, academics, consultants, futurists and other experts worldwide,” Halal says. The <a href="https://www.billhalal.com/techcast/our-experts/" target="_&quot;blank&quot;">site</a> lists some 50 contributors and invites others to participate on the panel to “provide critical comments and suggestions, publish articles on our work, join in occasional webinars, work on consulting projects.”</p>
+<p>The TechCast Project’s reporting will shift to a more business-oriented focus, Halal says. Readers may subscribe to the TechCast newsletter the bottom of the main website, <a href="http://BillHalal.com" target="_&quot;blank&quot;">BillHalal.com</a>, or view the blog at <a href="https://www.billhalal.com/blog/" target="_&quot;blank&quot;">billhalal.com/blog/</a>. </p>
+<h2>Go To Think Tank Index Report</h2>
+<p>The <a href="https://www.gotothinktank.com/" target="_&quot;blank&quot;">Think Tanks and Civil Societies Program</a> (TTCSP)  at University of Pennsylvania has released the <i><a href="https://repository.upenn.edu/think_tanks/17" target="_&quot;blank&quot;">2019 Global Go To Think Tank Index Report </a></i> by <b>James G. McGann,</b> senior lecturer, international studies director, TTCSP.</p>
+<p>The new edition addresses the increasingly crucial role artificial intelligence plays in analyzing the data that think tanks amass, and it has added a new index of those institutions that both study and utilize AI in their work. Among those included in this inaugural index are several future-oriented think tanks that <i>Foresight Signals</i> has previously tracked: <a href="https://www.brookings.edu/" target="_&quot;blank&quot;">Brookings Institution</a>,  <a href="https://www.hudson.org/" target="_&quot;blank&quot;">Hudson Institute</a>, <a href="https://www.rand.org/" target="_&quot;blank&quot;">RAND Corporation</a>, and the <a href="https://www.wilsoncenter.org/" target="_&quot;blank&quot;">Wilson Center</a>.  </p>
+<p>Also new this year is the index’s policy of singling out “any think tank that has been ranked as the top think tank (#1) in a category for 3 consecutive years.” These consistently top-ranked think tanks (e.g., Brookings Institution) are excluded from the rankings for the next three years and instead “will be recognized as a center of excellence for achieving this level of distinction as a think tank center of excellence.”</p>
+<p><i>Comment:</i> We have elected not to report on the changes in rankings for the future-oriented think tanks that <i>Foresight Signals</i> has <a href="http://www.aaiforesight.com/search/node/think%20tank%20index" target="_&quot;blank&quot;">tracked for the past five years</a> because the index does not provide useful information about the specific work these institutions do. For example, it is unclear why the Worldwatch Institute is included in the top U.S. think tanks for 2019 when it apparently has been inactive since 2017. (See <a href="https://www.guidestar.org/profile/23-7367468" target="_&quot;blank&quot;">Guidestar</a> and <a href="https://www.charitynavigator.org/index.cfm?bay=search.programs&amp;orgid=6094" target="_&quot;blank&quot;">Charity Navigator</a> notations.) </p>
+<p>That said, we laud the TTCSP’s mission “to increase the profile and performance of think tanks and raise the public awareness of the important role think tanks play in governments and civil societies around the globe.” <i>—CGW</i> </p>
+<h2>Foresight Report: Fundamentals of Foresight</h2>
+<p>In the past year, we at AAI Foresight have been approached by a handful of friends and former colleagues to assist them in their new responsibilities as “futurists” or “foresight strategists” serving their respective organizations (a trade association and an agency of the federal government). Anecdotally, therefore, we have seen an interest in having a simplified set of foresight principles that mid-career professionals can use in their “second profession” as futurists.</p>
+<p>AAI Foresight has now released a new Foresight Report providing a brief introduction to the study of the future. “<a href="../content/fundamentals-foresight-preparing-changing-world" target="_&quot;blank&quot;">Fundamentals of Foresight</a>” is based on work previously prepared for new members of the World Future Society who were not necessarily trained in foresight techniques but who needed a toolkit they can use in their work.</p>
+<p>These 10 principles (Scanning, Trend Analysis, Scenarios, Delphi Polling, etc.) synthesize the work of many professional futurists and colleagues over the years, so the report also includes a selected bibliography and connections for readers to pursue more training, networking, and resources. The report is free to share with students, clients, customers, members of the media, and anyone else who may benefit from such an introduction to this increasingly critical set of skills.</p>
+<p><i>Download</i> “<a href="http://www.aaiforesight.com/sites/default/files/FR-Spring2020_Fundamentals%20of%20Foresight.pdf" target="_&quot;blank&quot;">Fundamentals of Foresight: Preparing for a Changing World</a>” by Timothy C. Mack. AAI Foresight Report (Spring 2020). </p>
+<h2>Futurist Publications and Resources</h2>
+<ul>
+<li><b><i>Future Minds: The Rise of Intelligence from the Big Bang to the End of the Universe</i></b> (Skyhorse Publishing, 2020), the latest book by Seattle-based futurist <b>Richard Yonck,</b> founder and lead futurist for <a href="https://intelligent-future.com/" target="_&quot;blank&quot;">Intelligent Future Consulting</a>, will be released this month. An official <a href="https://townhallseattle.org/event/richard-yonck-2020/" target="_&quot;blank&quot;">launch party</a> is scheduled for March 23 at Town Hall Seattle, where Yonck will discuss and sign copies of the book. [Note, the venue is closely monitoring the Covid-19 situation, which may force the event’s cancellation.] Also, Yonck’s previous book, <i>Heart of the Machine</i>, has now been published in paperback. <i>[<a href="https://intelligent-future.com/publications" target="_&quot;blank&quot;">Learn more</a>]</i> </li>
+<li><b><i>MIT Technology Review</i></b>’s March/April 2020 issue on breakthrough technologies includes an article on “<a href="https://www.technologyreview.com/s/615227/professionals-who-predict-the-future-for-a-living-forecasting-futurists/" target="_&quot;blank&quot;">The professionals who predict the future for a living</a>.”  Among those featured are <b>Anne Lise Kjaer,</b> futurist, Kjaer Global, London; <b>Philip Tetlock,</b> co-author of <i>Superforecasting</i> and professor, University of Pennsylvania; and <b>Annalee Newitz,</b> science fiction and nonfiction author, San Francisco.</li>
+<li><b>“<a href="http://www2.itif.org/2020-fresh-start-ota.pdf" target="_&quot;blank&quot;">A Fresh Start for OTA: Creating the lean, dynamic technology assessment agency Congress needs today</a>”</b> (white paper for Lincoln Policy) by <b>Robert D. Atkinson,</b> Information Technology and Innovation Foundation. Atkinson, a staff member of the congressional Office of Technology Assessment for five years during the 1990s, writes that “any effort to revive OTA or to create a new agency to perform [its] function must reckon with the weaknesses of the original OTA.” <i>[<a href="https://lincolnpolicy.org/2020/02/01/symposium-on-technology-assessment/" target="_&quot;blank&quot;">Read more from Lincoln Policy’s series on technology assessment</a>]</i>  </li>
+<li><b><i>Futures</i> <a href="https://podcasts.apple.com/podcast/id1490473021?ls=1&amp;mt=2" target="_&quot;blank&quot;">Podcast</a></b> with <b>Luke Robert Mason,</b> director of Virtual Futures, “explores the multitude of possible tomorrows.” Topics covered to date include transhumanism, immersive virtual experiences, and “calm technology.”</li>
+</ul>
+<h2>Future Day Recap</h2>
+<p>On Sunday, March 1, futurists around the world marked Future Day, notably through a 24-hour conversation around the world via video conference organized and hosted by <a href="http://www.millennium-project.org/" target="_&quot;blank&quot;">The Millennium Project</a> under the leadership of <b>Jerome C. Glenn.</b></p>
+<p>“To summarize or give key insights on this extremely diverse 24-hour conversation on the future with hundreds of futurists and others is impossible to do objectively” Glenn says, but he hopes to provide a report shortly to give a sense of what happened.</p>
+<p>The segment of the 24-hour conversation starting at noon in Brussels focused on “disinformation, deep fakes, and information warfare.” Participant <b>Vint Cerf</b> commented, “Thoroughly enjoyable—thanks for the invitation!” </p>
+<p>In addition, <b>Ted Kahn</b> of <a href="http://www.designworlds.com/" target="_&quot;blank&quot;">Design Worlds</a>,  along with support from <b>Peter Bishop, Torben Riise, Ronnie Lowenstein,</b> and <b>Zhan Li,</b> conducted “the first parallel youth set of discussions for World Future Day 2020.”</p>
+<p><b><a href="https://www.linkedin.com/in/caroline-figueres-7962a51" target="_&quot;blank&quot;">Caroline Figuères</a></b> facilitated an online discussion among young people on how education could “make humanity more intelligent, knowledgeable and wise enough to address climate change issues.” [via <a href="https://twitter.com/carofig/status/1234190460828160001" target="_&quot;blank&quot;">Twitter</a>] </p>
+<p>In order to include more students during a school day, some groups organized additional Future Day activities on Friday, March 6. Among these were the <a href="http://www.iftf.org/" target="_&quot;blank&quot;">Institute For the Future</a>,  <a href="https://www.teachthefuture.org/" target="_&quot;blank&quot;">Teach the Future</a>,  and <a href="https://www.utu.fi/en/university/turku-school-of-economics/finland-futures-research-centre" target="_&quot;blank&quot;">Finland Futures Research Institute</a>, the latter focusing on the theme of <a href="https://tulevaisuuspaiva.fi/in-english/" target="_&quot;blank&quot;">Utopia</a>.  </p>
+<h2>In Memoriam: Freeman Dyson</h2>
+<p>Visionary physicist <b>Freeman Dyson</b> died February 28 in Princeton, New Jersey, where he had worked at the Institute for Advanced Study for more than 60 years. He was 96. </p>
+<p>Early in his career, Dyson collaborated with Robert Oppenheimer, Edward Teller, and other leading figures of the atomic age but later became a voice for nuclear disarmament. </p>
+<p>He was the author of <i>Disturbing the Universe</i> (1979), <i>Weapons and Hope</i> (1984), <i>Infinite in All Directions</i> (1988), <i>Imagined Worlds</i> (1997), and <i>The Scientist as Rebel</i> (2006), among other works. In the December 1969 issue of <i>The Futurist,</i> he wrote “Garbage Disposal Seen as Benefit of Space,” an influential article on space colonization. <i>[<a href="https://www.ias.edu/press-releases/2020/freeman-j-dyson-1923%E2%80%932020" target="_&quot;blank&quot;">Read more</a>]<i> </i></i></p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" />
+<link rel="shortlink" href="../node/81" />
+  <title>From Science Fiction to Science Factualized: Star Trek at 50, the Economics of the Singularity, and More | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-81 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="science-fiction-science-factualized-star-trek-50-economics-singularity-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ZV4JzBAmGHIuZCEYCZThnW59CjnlkkPtpup-nwomf0g" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>From Science Fiction to Science Factualized: Star Trek at 50, the Economics of the Singularity, and More</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">From Science Fiction to Science Factualized: Star Trek at 50, the Economics of the Singularity, and More</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-81 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/science-fiction-science-factualized-star-trek-50-economics-singularity-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="From Science Fiction to Science Factualized: Star Trek at 50, the Economics of the Singularity, and More" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 2,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 11</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-09-13T00:00:00-04:00">September 13, 2016</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><em>Star Trek</em> at 50: The Future Is Human</h2>
+<p><figure style="float:left; width:40%; margin: 0 20px 0 0;"><img src="../sites/default/files/u409/star_trek_cast_with_roddenberry_305px.jpg" alt="star_trek_cast_with_roddenberry_305px.jpg" /><figcaption class="image-caption"><span class="credit"><a href="https://www.flickr.com/photos/randar/" target="_blank" style="color:#3c7aa9 !important;">Tom Simpson / Flickr</a></span><br /><span>Leonard Nimoy, Robert Wise, Gene Roddenberry, DeForest Kelley and William Shatner on the set of <em>Star Trek The Motion Picture</em> in 1978.</span></figcaption></figure></p>
+<p>On September 8, 1966, <strong>Gene Roddenberry’</strong>s television series <em>Star Trek</em> boldly led the human imagination where it had never gone before. Rather than enumerate the series’ many technological and social forecasts and inspirations, we’ll take a look at what stirred Roddenberry’s creative juices. (For the former angle, check out <a href="http://fortune.com/2016/08/24/star-trek-sci-fi-film-predict-modern-inventions/" target="_blank"><em>Fortune</em>’s coverage,</a> perhaps by accessing it on your as-predicted handheld computer.)</p>
+<p>In his presentation at the World Future Society’s 1984 conference, longtime member Roddenberry spoke on “the literary image of the future.” He said that as a dramatist his function was to create alternative realities, but that his concern always was with people. “It seems to me that futurists to often wander too far away from considerations of <em>people,</em> as if somehow assuming that science’s ‘realities’ represent the full horizon,” he said.</p>
+<p>Fiction and drama enable the creative artist to find new perspectives on the human reality; just as Lewis Carroll used a white rabbit, Roddenberry used aliens, such as the half-human, half-Vulcan Mr. Spock. To create this new character, Roddenberry began by interviewing him, letting the character evolve until Spock ultimately began asking his own questions and answering with the logic we came to know and love.</p>
+<p>Twenty years after so creating Spock, Roddenberry was visited by another new alien character, called Gaan, a marine-based life-form from a methane sea planet, whose profession was scholar. “It is in areas of futurism that dialogue with him has become so valuable to me that for almost a year now I have been attempting to bypass the dialogue level by practicing the trick of actually <em>thinking</em> like Gaan,” he told the 1984 conference attendees. “Those capable of using an extraterrestrial’s eyes as an exercise, as a challenge, as an exciting game, improve on their ability to estimate where today may be taking us.”</p>
+<p>The exercise of creating Gaan for a novel led Roddenberry to reflect on other “alien” questions humans needed to ask back in the mid-1980s — questions that yet need consideration today:</p>
+<p>- If automation puts half our workforce on the street (and we dare not call that impossible), what of the police? If they are overworked and outnumbered, how do we increase their numbers, their legal powers? …</p>
+<p>- If disorder threatens our cities, should we consider travel passes that limit which vehicles can travel through which areas? …</p>
+<p>- Can our political system survive television’s “Hollywood” method of casting candidates and presenting issues?<br />
+- Is there a self-ordained “messiah” in our future? Are there indications of a public hunger for this? Is there a very obvious trend toward more and more simplistic answers to life’s problems?</p>
+<p>Gaan, and likely Roddenberry as well, was hopeful about humanity’s prospects: “I look forward to the day when these humans, who are so much more than they yet believe they are, will at last understand that the Cosmos <em>outside</em> and the Cosmos <em>inside</em> themselves are one and the same.”</p>
+<p><em>Reference:</em> “Mr. Spock and Gaan: Alien Perspectives on the Future,” <em>The Futurist,</em> February 1985.</p>
+<p><em>Signals:</em> extraterrestrial intelligence; Gene Roddenberry; science fiction; <em>Star Trek:</em> World Future Society</p>
+<h2>A Singularity Economy — If Uploads Come First</h2>
+<p><strong>By Randall Mayes</strong></p>
+<p>The Singularity — a point in time in the future where machine intelligence exceeds that of humans — is a popular topic of discussion among futurists. For uncertain reasons, the literature is dominated by discussions of the likelihood of artificial general intelligence (AGI) and it possibly functioning without humans in control.</p>
+<p>The Singularity could follow other paths, such as mind uploading. AI researchers are also investigating human-machine interfaces. The convergence of numerous technologies could produce a synthetic neocortex linked to a human brain and connected to the cloud.</p>
+<p>It is possible that artificial brains may actually develop first. However, this assumes that Moore’s law will continue at least several decades into the future and that algorithms can exceed human capabilities without researchers understanding completely how the brain works.</p>
+<p>After nine years as an AI researcher and programmer for Lockheed and NASA, <strong>Robin Hanson,</strong> now an economics professor at George Mason University, became skeptical of a master algorithm that will combine the speed of supercomputers with the cognitive skills of humans. As a result, in 1994, he wrote <em>If Uploads Come First.</em></p>
+<p><figure style="float:right; max-width:150px; margin: 0 0 0 20px;"><img src="../sites/default/files/u409/TheAgeOfEm_Hanson_cover_150px_wide.jpg" alt="TheAgeOfEm_Hanson_cover_150px_wide.jpg" /></figure></p>
+<p>In a culmination of over twenty years of research, Hanson’s new book, <a href="http://ageofem.com/" target="_blank"><em>The Age of Em: Work, Love, and Life When Robots Rule the Earth</em></a> (Oxford University Press, 2016), provides an unprecedented look into what the world may look like when run by uploaded minds.</p>
+<p>Whole-brain emulations, or ems, are fully functional models of human brains copied and stored in robots or, as Hanson visualizes, in android bodies in virtual reality. He envisions using the brains of several hundred hard-working and smart people with personalities that are likely to follow new norms. Instead of food, these ems would require plenty of electricity for cooling and power to run hardware. Ultimately, he projects ems could think a thousand times faster than a typical human.</p>
+<p>Hanson further envisions trillions of these ems in high-rise buildings, so productive they would create a fourth human era — an economy that doubles every month. For comparison purposes, he calculated that, in the first three human eras, the foraging economy doubled every quarter million years, the farming economy doubled every thousand years, and the current industrial economy has doubled every 15 years.</p>
+<p>Before the em scenario transcends sci-fi to reality, it will require the development of superfast computers, nondestructive brain scans, and models of human brain cells in order to process their features and connections. Mapping the brain is very complex, and it is uncertain at present how deep in the brain-signaling processes scientists will need to understand. Mind-loading researchers estimate that this path to the Singularity will take anywhere from two decades to a century to develop.</p>
+<p>Hanson’s economic model assumes the forces of supply and demand. So, current ethical standards could also delay the development of uploaded human minds. Em research on lab animals will not translate into results useful in humans. Unfortunately, em research will require that intelligent individuals be willing to sacrifice their earthly life, since human brains would not survive the current scanning processes.</p>
+<p><em>The Age of Em</em> is imaginative and provides a thought-provoking discussion of the social implications of an em economy. For more insight on how ems may function in virtual reality and how the lack of understanding of consciousness will impact the development of uploaded minds, see my in depth discussion with Hanson for <a href="http://www.techcastglobal.com/" target="_blank">TechCast Global.</a></p>
+<p><strong>Randall Mayes</strong> is a technology analyst and author of <em>Revolutions: Paving the Way for the Bioeconomy</em> (Logos Press, 2012). He may be contacted at <a href="mailto:randy.mayes@duke.edu">randy.mayes@duke.edu.</a></p>
+<p><em>Signals:</em> artificial general intelligence, economics, neuroscience, robotics</p>
+<h2>Blog Report: Foresight in the Public Sector</h2>
+<p>In the past five years, two groups of futurists working in the public sector have formed to share intelligence and experience in working with their respective agencies. In 2011 the <strong>Public Sector Foresight Network</strong> formed, open to anyone globally working in government, and in 2013 the <strong>Federal Foresight Community of Interest</strong> formed to unite those working in various branches of the U.S. federal government.</p>
+<p>These two networks agreed to join forces, meeting jointly on July 22, 2016, to facilitate the exchange of diverse views and best practices by U.S. and international foresight officials. <em>Foresight Signals’</em> special correspondent <strong>Lane Jennings</strong> was on hand to report on the presentations by <strong>Clem Bezold, Nancy Donovan, James-Christian Blockwood, Jason Stiles, Joe Moore, John Basso, Joe Greenblott, Peter Padbury, Ibon Zugasti, M. Gotzone Sagardui, Juan Ibarreche, Tracey Wait, Chris Mihm,</strong> and <strong>Catarina Tully.</strong></p>
+<p>“The meeting highlighted the extensive and evolving foresight efforts in Spain, Canada, U.S. federal agencies, and globally (particularly around the Sustainable Development Goals),” Jennings reports.</p>
+<p><em>Read</em> <a href="http://www.aaiforesight.com/blog/sharing-foresight-knowledge-and-experience" target="_blank">“Sharing Foresight Knowledge and Experience”</a> by Lane Jennings on the <em>Foresight Signals</em> blog (posted August 27, 2016).</p>
+<h2>Mack Report: VR and AI Development</h2>
+<p>In his latest post for the AAI Foresight blog, managing principal <strong>Timothy C. Mack</strong> writes that “science fiction and other popular media have so raised expectations” about virtual reality “that people are always disappointed, because they all think that fully functional VR is already here.”</p>
+<p>Mack notes that virtual reality is making an impact in storytelling, simulator games, and training, however. “Deep human impulses are released in gaming,” he writes. “Many experienced players even provoke their opponents to play more emotionally and thus make mistakes. While fun can be transformational — physically, emotionally, and cognitively — there is seldom complete transfer of skills in gaming or simulations. A good example is a firefighter simulation in a burning building, which does not adequately prepare one for the heat, choking gases, and real danger. And so outcomes and success levels are different for each person.”</p>
+<p><em>Read</em> <a href="http://www.aaiforesight.com/blog/vr-and-ai-development" target="_blank">“VR and AI Development”</a> by Timothy C. Mack, <em>Foresight Signals</em> blog (posted August 22, 2016).</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

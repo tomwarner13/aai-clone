@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="foresight-public-sector-2017-update" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/97" />
+  <title>Foresight in the Public Sector: 2017 Update | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/foresight-public-sector-2017-update":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-97 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="foresight-public-sector-2017-update#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="foresight-public-sector-2017-update" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-srqKtWr2HY3jJvjLVBxMFIQtA5WoqdwxyDdufWB2OWs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="https://www.aaiforesight.com/blogs/lane-jennings">Lane Jennings&#039;s blog</a> › </li><li>Foresight in the Public Sector: 2017 Update</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Foresight in the Public Sector: 2017 Update</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/foresight-public-sector-2017-update" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-97 node node-blog view-mode-full clearfix" about="/blog/foresight-public-sector-2017-update" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="Foresight in the Public Sector: 2017 Update" class="rdf-meta element-hidden"></span>
+                        <p class="submitted">
+          <span property="dc:date dc:created" content="2017-12-10T22:55:06-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/lane-jennings" typeof="sioc:UserAccount" property="foaf:name" datatype="">Lane Jennings</span> on <time pubdate datetime="2017-12-10T22:55:06-05:00">Sun, 2017-12-10 22:55</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>By Lane Jennings</h2>
+<p>The 2017 joint meeting of the international Public Sector Foresight Network and the U.S. Federal Foresight Community of Interest was held October 20 at the U.S. Department of Veteran’s Affairs office in Crystal City, Virginia. The meeting was organized and hosted by <strong>Clement Bezold,</strong> founder and chairman of the <a href="http://www.altfutures.org/">Institute for Alternative Futures;</a> <strong>Joe Moore,</strong> senior analyst for Strategic Foresight &amp; Risk Management at the Office of Enterprise Integration, U.S. Department of Veterans Affairs; and <strong>Eric Popiel,</strong> strategic analyst and <a href="http://www.uscg.mil/strategy/evergreen">Evergreen Program</a> Manager, Office of Emerging Policy, U.S. Coast Guard. <strong>Nancy Donovan,</strong> director of domestic relations, Strategic Planning and External Liaison at the U.S. Government Accountability Office (GAO), served as moderator for a session on government foresight activities.</p>
+<p>U.S. federal agencies represented at the joint meeting included Department of Interior, Department of Energy (Sandia National Laboratory), Department of Commerce/National Oceanographic and Atmospheric Agency, Department of Health and Human Services, Patent and Trademark Office, U.S. Navy, Department of Veterans Affairs, Government Accountability Office, Library of Congress, Environmental Protection Agency, Central Intelligence Agency, Office of Personnel Management, Federal Aviation Administration, Bureau of Prisons, Coast Guard, and others. Additional participants (on site or online) included representatives from the RAND Corporation and the European Parliament, as well as consultants with a special interest in government foresight.</p>
+<p>The joint event featured an agenda that reflected emerging trends in artificial intelligence in relation to foresight by a British foresight firm, an international perspective on government foresight by the chief futurist for Policy Horizons Canada, an overview of foresight in the U.S. federal government by the manager of the EPA’s strategic foresight program, and a special focus on strategic intelligence across the government by an official from CIA’s strategic insights department.</p>
+<p>The following report summarizes several of the 2017 meeting’s presentations and discussions. (See also the report from the 2016 PSFN/FFCoI joint meeting, <a href="https://www.aaiforesight.com/blog/sharing-foresight-knowledge-and-experience">“Sharing Foresight Knowledge and Experience”</a> by Lane Jennings on the <em>Foresight Signals</em> blog, August 27, 2016.)</p>
+<h2>Using Artificial Intelligence in Government Foresight</h2>
+<p><strong>Michael Jackson,</strong> the founder and CEO of <a href="https://www.shapingtomorrow.com/">Shaping Tomorrow,</a> described how his firm and its partner organization, <a href="http://www.foreknowledge.ch/">ForeKnowledge,</a> developed and are currently using an AI robot named Athena to facilitate studies for specific clients of the changing environments in which government and business operations are likely to take place in the decades ahead. </p>
+<p>The use of AI in futures studies goes back some time, but Athena is something new: not just a program, but a true robot with an evolving personality. Created in 2013 as the brainchild of German strategic foresight specialist Walter Kehl, <a href="https://www.shapingtomorrow.com/home/community?memberid=94690&amp;l=532">Athena</a> performs horizon scanning—reading, categorizing, and extracting key phrases and relevant conclusions from publicly available articles and reports on any subject, not merely pre-identified “futures relevant” material. She performs this task about 1,000 times faster than a human being, and of course never forgets what she has read. Using this input, she can generate lists, spreadsheets, and data summaries directly relevant to a client’s concerns and interests. This alone would be a valuable and time-saving application. But there is more.</p>
+<p>Athena is continually being adjusted and refined to become a “social robot”—that is, a true “electronic person” capable of interacting directly with humans by voice, not just responding appropriately to factual exchanges, but also assessing emotional nuances from the way statements and questions are phrased and replying with empathy and understanding. Her goal is not just to be a great forecaster, but to evolve into a reliable, principle-driven digital assistant, site guide, and teaching companion.</p>
+<p>Jackson offered numerous examples of Athena’s steadily improving capabilities and described how different client groups had been won over by the speed and ease with which she responded to their differing needs and interests. He presented a real-time demonstration of how Athena could create graphs from statistical projections to identify key areas of the world likely to be impacted by selected trends, then identify client-specific strategies for dealing with these impacts.</p>
+<p>As an example, Jackson chose the future of artificial intelligence itself, pointing out how Athena can digest and repackage information from current articles and reports not simply to project likely directions of progress in the AI field, but also to provide context based on history, current AI issues of special promise, or most concern to researchers, identifying key players in the industry and highlighting controversies and countertrends that also deserve consideration.</p>
+<p>Because Athena’s data is constantly expanding as new information is published and added to her memory banks, the validity of her conclusions and reliability of her projections steadily increase. Moreover, new capabilities are now in development. Where now Athena can find and prioritize important documents containing scenarios and future projections, Jackson and his Shaping Tomorrow team are working to enable Athena to assess and compare the contents of multiple scenarios and summarize these in a form that will allow researchers to focus on the conclusions most relevant to their situation and not have to read reports and scenarios in their entirety, thus saving even more time and giving evaluators more freedom to focus on policy and response issues.</p>
+<p>Finally, Athena is being trained to be a chatbot. She is acquiring a distinctly human personality that will make human/machine interactions natural and eventually eliminate the need to train people in how to approach AI, such as posing questions properly and with correct grammar. Instead, they can speak naturally, make small talk, exaggerate, be sarcastic, and even tell jokes and be understood, evoking an appropriate response from their machine colleague.</p>
+<p>Asked how well Athena could spot weak signals or black swans in the matrix she used for scanning, Jackson said that, while the filter Athena used to evaluate statements about the future was set by default to favor the most reliable figures available based on actual research, the setting was adjustable by the client so that the relevance level of any events could be raised at will and resulting scenarios created to accommodate them. </p>
+<p>Several questioners voiced concern over how widely AI might replace human labor and leave many—particularly the less educated—permanently unemployed. Jackson agreed that in the short term AI’s impact might indeed be negative in this respect, but he felt confident that later AI would generate far more jobs than it eliminated. He also expressed the hope that the spread of computers and AI would mean that fewer people would need to work to simply to survive, and instead they would be freer to pursue occupations that challenged and interested them.</p>
+<p>Can Athena’s personality change, or can it be framed to emphasize positive or negative interpretations of the information she receives? Jackson pointed out that Athena was not an autonomous entity but a rules-based system, trained and developed to analyze information just as her creator Walter Kehl has taught her, and in no danger of running amok. Her responses to direct questions can reflect various aspects of her personality from playful to serious to sad, but her process for evaluating information is permanently fixed and will not change unless her programmer changes it.</p>
+<h2>Strategic Foresight in the U.S. Government</h2>
+<p><strong>Joseph Greenblott,</strong> associate director of the Analysis Division for the U.S. Environmental Protection Agency’s Office of the Chief Financial Officer and manager of its strategic foresight program, offered a concise summary of a survey that he and his colleagues conducted comparing strategic foresight activities within 19 different U.S. federal agencies (including military, intelligence, and civilian sectors) and two private organizations. Although the EPA had a long history of foresight activities dating back to the 1980s, he said, it had never managed to successfully embed foresight into its planning and management process. One of the goals of the labor-intensive review undertaken here was to understand how other agencies were operating, to find models that the EPA itself might apply, and then to publicize successful techniques for applying foresight throughout the government as a whole. </p>
+<p>The study process involved conducting lengthy interviews with one or more representatives from each of the 21 organizations, including military, intelligence, and civilian sectors. The major findings of the resulting report, which is still in preparation pending final agency approval and review by all of the organizations involved, can be summarized as follows:</p>
+<ul>
+<li>Most of the organizations consulted have only a few people conducting foresight studies, and the most effective foresight organizations tend to be located “close to the top” but not directly involved in day-to-day decision making. These foresight organizations have influence within their agencies, but are largely free from distracting and time-consuming routine operations.</li>
+<li>The most commonly used foresight technique is horizon scanning, which often serves as the foundation for other foresight exercises, such as implications wheels, scenario planning, and trend analysis.</li>
+<li>While the forward-looking time period explored in foresight studies varied widely depending on each organization’s primary areas of responsibility, the average focus is between 15 and 20 years into the future. This time range is considered to be sufficiently outside of the firm control of current policy makers, yet not so far from the present that actionable recommendations and activities would have no impact.</li>
+<li>Among the organizations that engage in scenario planning, the Coast Guard and the Veterans Administration appear to be among the most advanced, both actively exploring the qualities that their organizations will need to have to succeed under future scenarios.</li>
+<li>It is clear that, across the government, learning how to get and retain the attention of senior leaders is essential if foresight planning is to be effective. This is a major challenge today. It helps to know early on what issues and concerns senior leaders feel are most important and to use these as a way to begin dialogue about foresight studies.</li>
+<li>While some have been more successful than others at implementing strategic planning, none of the organizations examined here has fully embedded foresight into their day-to-day operations.</li>
+</ul>
+<p>Greenblott’s overall conclusion, supported by nearly all of the organizational representatives who participated in this study, was that foresight would be more likely to take hold and be sustained if a central body within the government existed to champion the process as worth applying in all departments and agencies. Another useful step would be to make strategic foresight part of the curriculum at the Federal Executive Institute so as to provide training in this area to tomorrow’s leaders. He also advised anyone implementing foresight activities not to rely exclusively on those few individuals identified as full-time practitioners of foresight within a particular organization, but to form broader coalitions that include interested people at many levels since they can help promote and implement horizon scanning, AI, and related foresight activities at many levels.</p>
+<p>He also warned that the EPA’s just-completed study is only a snapshot in time that might well be obsolete within a year, because none of the organizations consulted are stagnant and because the new developments that are constantly occurring in AI and other areas related to foresight research could dramatically alter the prospects for its general acceptance and widespread adoption by government and business alike.</p>
+<h2>From Foresight to Strategic Intelligence</h2>
+<p><strong>Joseph Cyrulik</strong> of the Strategic Insights Department of the Central Intelligence Agency offered a review of foresight activities across the entire range of U.S. intelligence agencies. Paraphrasing news commentator Ralph Peters, Cyrulik said the ultimate goal of intelligence gathering is to know what your enemy will do before he himself has decided to do it. In this context, foresight operations have had a long history and been called by many names. The term <em>anticipatory intelligence</em> currently in vogue is pointlessly redundant, he said, but more accurate terms like <em>strategic foresight</em> or <em>futures analysis</em> are often rejected as insufficiently rigorous and not capable of being supported by the kinds of tangible evidence such as photographs, recordings, or eye-witness testimony, that intelligence agencies normally rely on.</p>
+<p>Among the agencies within the federal government engaged in some form of intelligence gathering,* sometimes their missions overlap and sometimes their interests are tightly focused, but even in the aftermath of 9/11 they tend to cooperate and share information with each other only when forced to do so. Cyrulik focused on foresight work going on within those organizations whose primary purpose is to inform and advise the Cabinet departments, National Security Council, and the president about security-related developments on a daily basis. Specifically, these include specialized foresight-focused teams within the National Intelligence Council, the CIA, the Defense Intelligence Agency, and the National Counter-Terrorism Center.</p>
+<p>Cyrulik’s colleague <strong>Cassidy Dale</strong> of the National Counter-Terrorism Center’s Directorate of Strategic Operational Planning spoke about foresight work within agencies with hybrid missions such as the Department of Defense. In particular, he cited the unclassified <em>Global Trends</em> report published every four years by the National Intelligence Council, which offers strategic assessments of how key trends and issues might shape the world over the next 20 years. Aimed primarily at encouraging U.S. leaders to plan ahead in longer time frames, these reports, first issued in 1997, also serve to stimulate discussions about the future among the general population, both in the United States and abroad. Based on extensive research and consultation with experts and authorities around the world, the <em>Global Trends</em> reports demonstrate how foresight activities within the federal government can significantly contribute to achieving both national security and broader public objectives.</p>
+<p>Within the CIA, Cyrulik explained how the recent reorganization of the agency into functional and regional mission centers broke apart the former directorate structure, allowing specialists in different areas to work together on missions specific to different regions of the world. But while this has broken down numerous internal barriers to the free flow of information within the agency, it has also created some new ones. For example, while unified teams of subject specialists cooperate to assess trends and uncertainties in individual regions, such as Russia, China, or the Middle East, no one was looking at the trends that affect all these areas at once. This job has now become the mission of Cyrulik’s Strategic Insight Department (SID).</p>
+<p>Operating within a time frame of about 20 years, the SID prepares brief reports (three to five pages) that tell good stories. The group continually seeks to distill the essence of complex issues into concise statements that are easily read and remembered because, like it or not, this kind of audience—busy mid-level decision makers facing multiple demands and having limited attention spans—is the client base it must deal with and whose needs it tries to serve. </p>
+<p>Put simply, the front office staff at SID are there to protect the researchers against undue interference and distractions from senior executives seeking to simplify operations by making all departments operate in the same way. The demise of previous foresight activities in government and industry can frequently be traced to well-intentioned reforms of this kind that failed to appreciate the special needs and activities involved in scenario framing and long-range forecasting as opposed to more conventional modes of intelligence gathering.</p>
+<p>An example of just this kind of activity is a unit within SID called The Red Cell. Set up immediately after 9/11, its mandate from the director was to question CIA expectations and make people uncomfortable—that is, try to anticipate the unexpected, pursue counterintuitive possibilities, challenge accepted doctrine, and hunt for surprises.</p>
+<p>Another unit, Strategic Perspectives (in which Cyrulik himself is active), is more directly focused on horizon scanning and forecasting. It examines global and regional trends and extrapolates those out while also considering potential shocks to the expected—the so-called black swans that may be unlikely to occur but could have devastating consequences if they do.</p>
+<p>The overarching goal of the CIA is to answer the question, How does the United States secure its interests in a world where power is shifting dramatically in various ways? For example, how might the United States react to the implications of a truly multipolar world? From Iraq to Catalonia to Scotland, the very concept of national identity is being challenged by groups who realize they could not survive alone, but who believe that trade and military alliance with a regional entity such as the Arab League or the European Union would be preferable to continued second-class status as a region within a historically multi-ethnic state. How do such trends affect the United States? </p>
+<p>Other issues Strategic Perspectives is currently exploring include comparing the stated goals and ambitions of other nations around the world and trying to see where these might fit in or compete with U.S. interests in the years ahead. Escalation and deterrence dynamics is another area where developing a long-range strategic outlook is highly desirable. How, for instance, can one successfully defend this county against cyberattacks or permanently dissuade other nations from trying to obtain weapons of mass destruction or develop their own?</p>
+<p>Yet another unit within SID, the Creativity and Outreach group, contributes by finding experts and partners outside the agency who can provide insights and special skills for a wide variety of projects. In fact, throughout SID, analysts with specialties in particular countries or issues work cooperatively on a daily basis but often take on roles outside their specialty. This technique helps break down the biases of expertise that make individuals complacent and allow them to overlook or dismiss signals of significant change in well-established hierarchies and procedures.</p>
+<p>Every week SID holds an hour-long general meeting of all staff simply to exchange news about what has happened in the world, whether directly related to intelligence work or not. The group also periodically invites guest speakers from creative areas outside the government to stimulate new ways of envisioning and presenting information.</p>
+<p>One particular difficulty facing foresight researchers within the CIA is that the agency’s mandate prohibits it from studying trends and changes within the United States itself; and yet these changes have profound impacts, both directly and indirectly, on the policies, actions, and cultural values of every other country in the world. To get around this difficulty there should be some agency that does study these internal changes—the National Security Council perhaps. But at present no such group exists. Another difficulty is that the four- to eight-year cycle of presidential elections imposes a short-term perspective on both political parties and affects the willingness of elected leaders and their appointees to listen and act on the advice and recommendations they receive. When newly elected, politicians listen carefully to advice from many quarters, but as their terms progress they become more self-assured; toward the end of their terms they often become preoccupied with assuring their legacy or getting reelected. This boom-and-bust cycle is simply a fact of life that foresight units within government learn to live with.</p>
+<p>Cyrulik concluded by noting that his department welcomes input and assistance from other organizations and individuals in the foresight field, both inside and outside of government and from other nations, and he is actively seeking opportunities to cooperate more closely with them.</p>
+<h2>About the Author</h2>
+<p><strong>Lane Jennings</strong> worked as a writer and editor for the World Future Society for more than 30 years and retired in 2015 as managing editor of the <em>World Future Review.</em> He now freelances from his home in Columbia, Maryland. <a href="mailto:lanejen@aol.com">Email Lane Jennings.</a></p>
+<h2>Notes and Comments</h2>
+<p>* <em>Joseph Cyrulik:</em> The 16 agencies designated by the Director of National Intelligence as comprising the U.S. Intelligence Community are the CIA, Defense Intelligence Agency, National Security Agency, National Reconnaissance Office, National Geospatial-Intelligence Agency, Army Intel, Navy Intel, Air Force Intel, USMC Intel, USCG Intel, State Department Bureau of Intelligence and Research, FBI, Drug Enforcement Agency, Energy Intel, Treasury Intel, and Homeland Security Office of Intelligence and Analysis. There are other agencies and cabinet departments that have what they refer to as “intelligence” organizations, and may have very robust and sophisticated foresight initiatives, but these are the 16 that are statutory members of the IC. And this is not to say that all of the 16 agencies are involved in what could be considered strategic foresight, for example Energy and Treasury are almost entirely focused on current intelligence and CI.</p>
+<p><em>Lane Jennings:</em> I could have wished that someone had raised the issue of systems reliability in this age of cyberwarfare and hacking by both freelance and government-sponsored groups and individuals. Is Athena’s programming protected against potential intruders? Is the program licensed to users who might seek to alter its parameters with or without telling others about this? If, as seems likely, Athena becomes as trusted and respected a member of a foresight team as any human, how long will people still bother to confirm the factual accuracy of her information or the unbiased nature of her summaries of studies from multiple sources? AI is a powerful tool and becoming more impressive by the day, but one hopes there will always be a place for human beings in the foresight process—even as there remains a market for handmade lace two centuries after the economic triumph of the steam loom.</p>
+<p><em>Michael Jackson responds:</em> Yes. Athena has an established security audit and robust process in place that meets all our clients’ best practice needs and policies. No users can alter the parameters of the system but can suggest improvements. We always explain to our clients that they need to triangulate the facts from different sources, but Athena plays a role here in eliminating hate/fake news and highlighting rumour or supposition and grading relevancy. There will always be a place for humans in strategic decision making at Shaping Tomorrow. Athena merely removes the drudgery and cost of scanning and makes visible that which humans cannot immediately see. Foresight is a highly complex subject requiring years of practice and training. Athena helps to substantially reduce this and to provide instant online practice and training just-in-time and is complementary to but no substitute for human foresight. She will continue to reduce complexity and speed up decision making to increase client’s agility and reaction to emerging change. And Shaping Tomorrow has extensive, best practice, built-in tools for human foresight surveys and collaborative decision-making which Athena can help interpret and guide.</p>
+<h1>Appendix: Building Foresight Systems in Governments</h1>
+<h2>By Peter Padbury</h2>
+<p><a href="http://www.horizons.gc.ca/en">Policy Horizons Canada</a> has been conducting a study on how several governments have successfully integrated foresight into policy and decision making. So far, the study has interviewed people in Singapore, the United Kingdom, Finland, Germany, France, Japan, and South Korea. Each country has several decades of experience in trying to use foresight at senior levels, and each has developed a unique approach.</p>
+<p>Some of the key findings include:</p>
+<ul>
+<li>In countries that take foresight seriously, the senior public servants are active in an ongoing foresight conversation.</li>
+<li>In Singapore, the UK, and Finland, sophisticated scanning processes familiarize leaders with the early signs of potentially disruptive change on the horizon.</li>
+<li>Several countries use strategic foresight to explore how large systems and complex public policy problems could evolve and the surprises that could emerge.</li>
+<li>Several countries use applied foresight, which draws on design thinking to help groups develop solutions to specific problems.</li>
+<li>Several countries are attempting to curate “building blocks” from the foresight conversation so the next conversation or project does not start at the beginning.</li>
+</ul>
+<p>An effective foresight system would build foresight literacy in senior management across the public service, build foresight capacity in key places, and integrate all of the above elements in the system.</p>
+<p>A number of countries are struggling with the issue of effective citizen engagement in foresight. The average citizen can play a role at the broad values and vision level, but a more detailed discussion of strategy and policy options really requires an in-depth understanding of the forces for change to be useful. Otherwise, people will talk about the expected future, which assumes the future looks a lot like the past.</p>
+<p>One of the big challenges for foresight practitioners is to find ways to immerse citizens (and, often, policy analysts) in the real possibilities of disruptive change. This would provide them an understanding of the many disruptive changes coming—such as artificial intelligence, synthetic biology, and virtual work—so they can contribute usefully to forward-looking policy development.</p>
+<h2>About the Author</h2>
+<p><strong>Peter Padbury</strong> is the chief futurist at Policy Horizons Canada, a foresight center in the Canadian government.</p>
+<p><em>Acknowledgments:</em> AAI Foresight thanks Clem Bezold, Nancy Donovan, and participants in the meeting for their contributions to, and review of, this report. For more information, <a href="mailto:cbezold@altfutures.org">contact Bezold</a> or <a href="mailto:nancyjmdonovan@gmail.com">Donovan.</a></p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="https://www.aaiforesight.com/blogs/lane-jennings" title="Read Lane Jennings&#039;s latest blog entries.">Lane Jennings&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

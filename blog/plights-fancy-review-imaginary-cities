@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="plights-fancy-review-imaginary-cities" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/128" />
+  <title>Plights of Fancy: Review of Imaginary Cities | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/plights-fancy-review-imaginary-cities":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-128 node-type-blog section-blog" >
+      <p id="skip-link">
+      <a href="plights-fancy-review-imaginary-cities#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="plights-fancy-review-imaginary-cities" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-hRXu_rJGUwKvstdkRONaK7o10z9oYTRJ4Ya4eKU8ZK8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li><a href="../blogs/tim-mack">Tim Mack&#039;s blog</a> › </li><li>Plights of Fancy: Review of Imaginary Cities</li></ol></nav>            <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Plights of Fancy: Review of Imaginary Cities</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blog/plights-fancy-review-imaginary-cities" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-128 node node-blog node-promoted view-mode-full clearfix" about="/blog/plights-fancy-review-imaginary-cities" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                  <span property="dc:title" content="Plights of Fancy: Review of Imaginary Cities" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-01-26T10:37:27-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-01-26T10:37:27-05:00">Sat, 2019-01-26 10:37</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Darran Anderson’s <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/I/bo26170205.html" target="_&quot;blank&quot;"><i>Imaginary Cities</i></a> (University of Chicago Press, 2015) has an unusual approach for a book on foresight. First, it is actually based in the discipline of architecture and spends a substantial amount of time looking at plans never built due to lack of funding, client change of heart, and catastrophes of all sorts. While the book addresses utopian concepts and their collateral buildings, it also considers dystopian endeavors, both in their outcome and original intent. It considers classical utopian and foresight literature but also ranges into media, such as motion pictures, science fiction, and even graphic novels.</p>
+<p>Anderson’s central focus on architecture provides a unique perspective. As the lengthy text (600 pages in all) travels across its diverse range of arenas, the author pulls out lessons from examples about both the challenges of building dreams and the appropriateness of these dreams to begin with. This broad scope develops insights across a range of disciplines, including politics, psychology, religion, and materials science, as it considers both whether a proposed structure <i>could</i> be built and whether it <i>should</i> be built, at the time of its imagining or <i>ever.</i></p>
+<p>Finally, the book pursues in significant depth the relationship of monument, residence, skyscraper, or temple in the context of its contemporary culture and the ideology behind its conception. Accordingly, the range of the book is quite impressive, beginning with the slippery distinction between imagination and lies during the European Age of Discovery, when explorers like Marco Polo mixed memory and exaggeration into their accounts, leading faraway cities to become entities of both myth and yearning.</p>
+<p>Relative technological advances in those faraway cultures, such as paper and gunpowder, soon became aspirations and perhaps even precursors of the modern scientific utopia, where new capabilities might breed new societies. In doing so, the author also raises the question of the relationship between utopias and dystopias, with the shape of that relationship depending on who is telling the story and who is listening to it, what they value and what they despise or fear. Anderson points out that, while utopias are often openly hailed as revolutionary, dystopias are often incremental and even stealthy in nature.</p>
+<p>Dreams of utopia arise from the failures and unsatisfied wants of the present. But beneficial scientific learning, in past theocratic ages, was often seen as a threat to vested interests. Some have said that, while progress can be the ongoing realization of utopian thinking, it can also be a catalyst for repression and tyranny. The author quotes Margaret Atwood’s reflection that utopias can become dystopias as they respond to those who “don’t fit into the plan,” adding that in some minds the urge to decide everything for everyone is too much to resist.</p>
+<p>In his <i>Utopia,</i> Thomas More followed the path of Plato’s Cave to outline the ideal life in quite specific detail, coupled with consequences for not adhering to his blueprints. At times, the thought of an innovative utopia is intolerable for those already benefiting from the status quo, with utopias then sliding toward dystopia. Such inflexibility can lead to an earthly heaven for some and a hell for others.</p>
+<p>Living in a “perfect” city changes not only its inhabitant’s lives, but often also the inhabitants themselves, sometimes for the worse. One example from the last century was <a href="https://en.wikipedia.org/wiki/Fordlândia" target="_&quot;blank&quot;">Fordlândia,</a> which Henry Ford established in 1928 as a city of 100,000 workers in the Brazilian Amazon, basically as a plantation to supply rubber for Ford automobile tires. The effort was a model of parsimony and ignorance. The land was hilly, rocky, and infertile, and none of Ford’s managers had the sufficient knowledge about the downside of a rubber-tree monoculture. In nature, those trees grow apart from each other, as a protection mechanism against plagues and diseases, and rest up against bigger trees of other species for support. In Fordlândia, however, the trees were planted close together, like American crops, and thus became easy prey for tree blight and native insects.</p>
+<p>In addition, Henry Ford was determined to create an American-style utopia in his own moral image. Alcohol, women, tobacco, and even soccer were forbidden within the town, including inside the workers’ own homes. Inspectors would go from house to house to enforce all the rules. Brazilian workers also strongly disliked being required work through the middle of the day under the tropical sun, which was quite different from their typical work patterns. One of the first acts in the Fordlândia workers’ rebellion was to smash the company’s time clocks.</p>
+<p>As time went on, this enforced puritanism led to debauchery. The town’s inhabitants paddled out to merchant riverboats moored beyond town jurisdiction to buy contraband, and they established bars, nightclubs, and brothels on a nearby river island. In 1930, the native workers revolted in the cafeteria over the unpalatable American food, then cut the telegraph wires, chasing the managers and the town’s cook into the jungle. Changes were ultimately made in the food that the workers were served.  Ultimately, a new location with better soil was located, and the first town was abandoned. Then in 1945, synthetic rubber was invented, and both towns were sold back to the Brazilian government at a loss of well over $200 million in today’s dollars. In spite of the huge investment and numerous invitations, Henry Ford never visited either town.</p>
+<p>There is some discussion in the book concerning the necessity for a defined physical or geographic boundary for a successful utopian effort, which Henry Ford was not able to accomplish, even off in the jungle. Anderson notes that the most practical utopias are those that maintain their own sanctuary against outside encroachments, as Buckminster Fuller’s geodesic domes could do. But the author also believes that, while fortified citadels keep their inhabitants safe, they do not have the available space that a fully functioning city needs to function and expand along with a growing populace. Like rabbits, people tend to breed.</p>
+<p>The author also opines that religious edifices are often places to confine gods rather than celebrate them (or not to represent God but to replace him). Fear is an ingredient of awe, and gods can be fearful creatures. But missionaries promise better worlds and can always find ready ears among the disadvantaged. For one to be pure, others must be impure. For a group to have a strong identity, they need a demonized other. <a href="https://www.mupress.org/H-L-Mencken-P543.aspx" target="_&quot;blank&quot;">H. L. Mencken</a> once said that Puritanism was based on “the fear that somewhere, someone may be happy.” And as Mark Twain opined, “There is no humor in heaven.” Many of us relish familiarity and security above all other considerations. Measures presented under the guise of protection from evil often end up being used to repress. In the 1921 Russian novel <i>We,</i> free will is outlawed because it brought unhappiness, and what Big Brother asked for in Oceania (<i>1984</i>) was the people’s love.</p>
+<p>At the Futurama World’s Fair in New York City, the future was treated as one vast, unspoiled advertising space. With so many claimants presenting their “true” future, from the grandiose to the mundane, it is little wonder that the “future” began to be seen as passé. And some have even said that the original French Bureau International des Expositions created world’s fairs to provide as a counter to the widespread dread of change.</p>
+<p>One of the interesting things about <i>Imaginary Cities</i> is its travels outside the usual boundaries of foresight and classical utopian thought. One example is the Italian Futurists of the early 20th century, who were masters of hyperbole and manifestly urbanite: “We will sing of the stirring of great crowds,” Gino Severini promised, as “workers, pleasure seekers, rioters—and the confused sea of color and sounds of revolution sweeps through a modern metropolis.” And so dynamism, speed, vitality, youth, and passion became their religion (sensation for sensation’s sake) until they were largely lost in the tragedy of World War I. In contrast, it was the belief of the architect Gropius that the avalanche of progress left the individual unhappy, unable to adjust, and lost in a whirlwind of change. Anderson feels that this mirrors our increasingly mobile lives. Verve, speed, dynamism, and change are virtues up to a point. Continuing further along that scale, they become tyrannies, as constant motion becomes an obligation and then a curse.</p>
+<p>But it’s not only starry-eyed idealists who dream of utopia. Leon Trotsky, a one-time partner in Russia’s revolution, believed that “true people’s parties, the parties of the future for special technology and construction, will agitate passionately, hold meetings and vote. In this struggle, architecture will again be filled with the spirit of mass feelings and moods, only on a much higher plane, and mankind will educate itself plastically, it will become accustomed to look at the world as submissive clay for sculpting the most perfect forms of life.” Unfortunately, Stalin took the country in another direction.  And Fritz Lang’s movie <i>Metropolis</i> was seen by Hitler as a utopian film, so he directed Goebbels to unsuccessfully try to hire Lang to make German propaganda movies.</p>
+<p>The intermingling of imaginary cities and real ones can occur in fiction. The movie about a future island penal colony, <i>Escape from New York,</i> was actually filmed in failing East St. Louis, and the look of the urban fantasy realm of <i>Blade Runner</i> was based on contemporary Hong Kong. <i>Batman</i> is a critique of failed empathy and urban planning. Alleys are dead-end traps, abandoned buildings are criminal warrens, and Gotham is described in a note by director Tim Burton from the first screenplay as a place where “Hell has erupted through the pavement and built a city.” Or it can work the other direction. Roman rule in early Britain produced concrete, sewers, aqueducts, and public baths. These surviving edifices evolved into the myths of Arthur and Camelot, which nurtured the dream of escape into a parallel world of fairness, justice, and comfort.</p>
+<p>Anderson feels that a number of impediments to the broad social advancement of utopias remain in place, such as poverty, cronyism, inertia, snobbery, mean-spiritedness, and stupidity. The weed of crime in most societies is the absence of money. Due to the variety of ways wealth is actually accumulated, myths are required, including the mirage of meritocracy. The more you own, the more deserving you have been, and those who have nothing <i>are</i> nothing. Ghettos must be products of sin, poor breeding, and savagery, and thus deserving of shame, derision, and condescension. Thus, those who work to make cities run often cannot afford to live there. While sins are often ascribed to the “other,” that designation needs to be adjusted as the old targets are exhausted. Revering mercantile wealth creators often comes at the expense of nurturing science, art, music, or philosophy. Instead, culture needs an equal seat at the table with politics and economics.</p>
+<p>Anderson closes with a brief review of the visionary literature of off-world architecture and how the future might hold life in scientific utopias made possible on Mars. But it is difficult not to remember that people are still people, with their dark and light sides, and the sliding balances of utopia and dystopia are not likely to resolve themselves in the foreseeable future.</p>
+<p><b>References</b></p>
+<p>Bertolt Brecht and Kurt Weill, <i>The Rise and Fall of the City Mahagonny</i> (1929).</p>
+<p>Vincent Fitzpatrick, <i>H. L. Mencken.</i> Mercer University Press (1989). <a href="https://www.mupress.org/H-L-Mencken-P543.aspx">https://www.mupress.org/H-L-Mencken-P543.aspx</a> </p>
+<p>“Fordlândia,” Wikipedia. <a href="https://en.wikipedia.org/wiki/Fordl%C3%A2ndia">https://en.wikipedia.org/wiki/Fordl%C3%A2ndia</a> </p>
+<p>George Bernard Shaw, <i>Maxims for Revolutionists</i> (1903). </p>
+<p>Leon Trotsky, <i>Literature and Revolution</i> (1924).</p>
+<p><b>Timothy C. Mack</b> is managing principal of AAI Foresight Inc. Contact him at <a href="mailto:tcmack333@gmail.com">tcmack333@gmail.com</a>.</p>
+</div></div></div>
+  <ul class="links inline"><li class="blog_usernames_blog first last"><a href="../blogs/tim-mack" title="Read Tim Mack&#039;s latest blog entries.">Tim Mack&#039;s blog</a></li>
+</ul>
+  
+</article>
+          </div>
+
+    
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

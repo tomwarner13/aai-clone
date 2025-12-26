@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../newsletter/signals-consequences-adaptation-and-more" />
+<link rel="shortlink" href="31" />
+  <title>Signals: The Consequences of Adaptation... and more  | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node\/31":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-31 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="31#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="31" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-A73cumBj_QLCqTw-gZaC3KVRirdnv3rXAttAcD6S_KY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Signals: The Consequences of Adaptation... and more </li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Signals: The Consequences of Adaptation... and more </h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/signals-consequences-adaptation-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-31 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/signals-consequences-adaptation-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Signals: The Consequences of Adaptation... and more " class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 1,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 11</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-04-01T00:00:00-04:00">April 1, 2015</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="teaser-hide">
+<h2>Inside Foresight Signals</h2>
+<ul>
+<li><a href="31#adaptation">Adaptation and Its Consequences</a></li>
+<li><a href="31#biogas">From Natural Gas to Biogas</a></li>
+<li><a href="31#power">Contingency Exercises Urged for Power Companies</a></li>
+<li><a href="31#nanotech">Nanotech and Cancer: Report from Timothy C. Mack</a></li>
+<li><a href="31#foresight">News for the Foresight Community</a></li>
+</ul>
+</div>
+<h2 id="adaptation">Adaptation and Its Consequences</h2>
+<p>The efforts that societies put into adapting to climate change may in themselves put even more pressure on the environment, warns a study led by <strong>Carlo Fezzi</strong> of the University of East Anglia’s School of Environmental Sciences.</p>
+<!--break--><p>
+<img class="img-right" src="http://aaiforesight.com/sites/default/files/users/1/vol1_11/farm.jpg" />The researchers used computer models based on data since the 1970s to predict how climate change would alter agricultural practices in Britain, and how those changes would in turn affect river water quality. They found that, though moderate increases in temperature could boost agricultural productivity and allow for more livestock in the eastern uplands and midlands, the increased intensity in farming and herding would generate more runoff of nitrates and phosphates in rivers and streams.</p>
+<p>Similarly, other industries that are forced to adapt to climate change, such as energy, forestry, fisheries, and even health services, will also have to beware of the “knock on” effects of adaptation, the researchers warn.</p>
+<p>“We need to take into account not only the direct impact of climate change, but also how people will respond to such change—the impact of adaptation,” Fezzi said in a press statement. “Climate change is a long-term process and science allows us to anticipate its impact on both the environment and society. This should encourage the development of forward-looking policies.”</p>
+<p><i>Source:</i> <a href="http://www.uea.ac.uk/">University of East Anglia</a>. <i>Reference:</i> Carlo Fezzi et al., “The environmental impact of climate change adaptation on land use and water quality,” <i>Nature Climate Change</i> (March 2015), pp. 255-260. <a href="http://dx.doi.org/10.1038/nclimate2525">DOI: 10.1038/nclimate2525</a>. <i>Image:</i> <a href="https://www.flickr.com/photos/_____graeme/">Graeme Law, via Flickr</a> (Creative Commons license).</p>
+<p><i>Signals:</i> adaptation, agriculture, climate change</p>
+<h2 id="biogas">From Natural Gas to Biogas</h2>
+<p><img class="img-right" src="http://aaiforesight.com/sites/default/files/users/1/vol1_11/glass.jpg" width="300px" />Pilgrim’s, a chicken-processing plant in Mexico, has been able to purify fats, waste, and other residues to produce a biogas capable of replacing natural gas as its energy source. And Xaquixe, a pottery and glass-art maker, has generated biogas from pig and cow manure, providing energy for its operations.</p>
+<p>The two companies were participants in pilot projects to demonstrate techniques developed by Mexico’s Center for Research and Technological Development in Electrochemistry (CIDETEQ), in partnership with specialists from the University of Brandenburg in Germany.</p>
+<p>The biogas generated is a mixture of methane, carbon dioxide, nitrogen, and water vapor, as well as potentially harmful compounds like hydrogen sulfide. As such, the biogas must be properly assessed and treated before it can be used.</p>
+<p>Distillers of mescal, a liquor similar to tequila, may also benefit from the process, using biogas to replace firewood.</p>
+<p><i>Details (in Spanish):</i> <a href="http://www.invdes.com.mx/innovacion-mobil/6279-logran-investigadores-sustituir-gas-natural-por-biogas-generado-de-desperdicios">Investigación y Desarrollo</a>.</p>
+<p><i>Signals:</i> bioprocessing, energy, recycling</p>
+<h2 id="power">Contingency Exercises Urged for Power Companies</h2>
+<p>A hacking attack on a power distribution company isn’t just the IT department’s problem, and in a crisis, everyone needs to be prepared, warn <strong>Maria Line</strong> and <strong>Nils Brede Moe</strong> of the research consortium SINTEF.</p>
+<p>In Norway, the power industry has been too “laid back,” despite experiencing the country’s first attack in the summer of 2014. Line and Moe observed contingency exercises with three power-distribution companies and found them largely unprepared for a variety of scenarios.</p>
+<p>“One of the companies we talked to had an agreement simply to call and rely on its supplier if a crisis occurred,” Line said in a press statement. “And even then, the supplier didn't take part in the exercise.”</p>
+<p>Based on their observations, Line and Moe recommend that as many employees as possible participate in contingency exercises, especially including upper management who would be the key decision makers if the call must be made to shut down a plant.</p>
+<p>Frequent scenario exercises are also important, but the same exercises should not be repeated; rather, new contingencies must continually be imagined and prepared for, the researchers conclude.</p>
+<p><i>Source:</i> <a href="http://www.sintef.no/Home/">SINTEF</a> via <a href="http://www.alphagalileo.org/ViewItem.aspx?ItemId=150883&amp;CultureCode=en">AlphaGalileo</a></p>
+<p><i>Signals:</i> emergency management, hackers, IT, power distribution, scenario planning, utilities</p>
+<h2 id="nanotech">Nanotech and Cancer: Report from Timothy C. Mack</h2>
+<p>One of the most encouraging trends in medicine in recent years is the growth of systemic approaches to problem solving, such as in improving chemotherapy delivery in cancer treatment.</p>
+<p><img src="http://aaiforesight.com/sites/default/files/users/1/blog3_29_15/chemo.jpg" class="img-right" width="350px" />Historically, the challenge has been to target drugs accurately at cancer cells; the powerful drugs may often cause damage to surrounding healthy tissue. The body may also treat these medical interventions as intruders, attacking and disabling them through human immune mechanisms.</p>
+<p>Recently, <a href="http://www.sciencedirect.com/science/article/pii/S0168365914004519">researchers</a> have used nanotech to create protective vehicles and delivery mechanisms that now appear to overcome these obstacles. After delivering drugs to their targets, these vehicles dissolve in the high-acid cores of cancer tumors. As is often the case in new and converging technological developments, developments such as this are likely to further accelerate advances in related technology solutions. <i><a href="http://www.aaiforesight.com/blog/nanotech-and-cancer">Read more</a>.</i></p>
+<p><strong>Timothy C. Mack</strong> is managing principal of AAI Foresight Inc. This report is excerpted from the Foresight Signals <a href="http://www.aaiforesight.com/blog/nanotech-and-cancer">blog</a>. <i>Image:</i> <a href="https://visualsonline.cancer.gov/details.cfm?imageid=4453">Rhoda Baer, National Cancer Institute</a>.</p>
+<p><i>Signals:</i> cancer, medicine, nanotechnology</p>
+<h2 id="foresight">News for the Foresight Community</h2>
+<p><strong>• Honors: Young Futurists of 2015.</strong> Influential media company The Root has named 25 young African Americans to its <a href="http://www.theroot.com/articles/lists/2015/02/the_2015_young_futurists.html">2015 Young Futurists</a> list honoring social activism and academic and entrepreneurial achievements of students ages 16 to 22. Among this year’s honorees is <strong>Allyson Carpenter,</strong> 18, of Howard University, who became the youngest elected official in Washington, D.C. <a href="http://www.theroot.com/">The Root</a> covers news, opinion, and culture from an African American perspective.</p>
+<div class="img-center">
+<img src="http://aaiforesight.com/sites/default/files/users/1/vol1_11/youth.jpg" width="550px" /></div>
+<p><strong>• Book: The Naked Future.</strong> Technology journalist <strong>Patrick Tucker’s</strong> 2014 book <i><a href="http://www.amazon.com/Naked-Future-Happens-World-Anticipates/dp/1591847702/ref=sr_1_1_twi_1_pap?s=books&amp;ie=UTF8&amp;qid=1427219041&amp;sr=1-1&amp;keywords=patrick+tucker">The Naked Future: What Happens in a World That Anticipates Your Every Move?</a></i> is now out in paperback! (Current, 2015, $16.) The cloth edition released last year was named Amazon’s book of the month for March: “Tucker has penned a big data book that can be understood by both technophiles and luddites alike,” wrote Amazon reviewer Kevin Nguyen. And Ray Kurzweil, author of <i>How to Create a Mind,</i> called it “Thought-provoking, eye-opening, and highly entertaining.” Patrick Tucker is the technology reporter/editor with <a href="http://www.defenseone.com/">Defense One</a>; follow him on Twitter, <a href="https://twitter.com/DefTechPat">@DefTechPat</a>.</p>
+<div class="img-center">
+<img src="http://aaiforesight.com/sites/default/files/users/1/vol1_11/nakedfuture.jpg" height="248px" style="margin-right: 25px; border: 1px solid black" /><img src="http://aaiforesight.com/sites/default/files/users/1/vol1_11/patrick.jpg" height="250px" /></div>
+<p><strong>• Petition: Open Letter on AI.</strong> The Boston-based Future of Life Institute has posted an open letter on research priorities for artificial intelligence, aiming to ensure “that increasingly capable AI systems are robust and beneficial.” Among the dozens of signatories to the letter are theoretical physicist <strong>Stephen Hawking,</strong> SpaceX and Tesla Motors founder <strong>Elon Musk,</strong> Google research director <strong>Peter Norvig,</strong> philosophy professor <strong>Nick Bostrom,</strong> io9 contributing editor <strong>George Dvorsky,</strong> and science-fiction author <strong>David Brin.</strong> <i>Details:</i> <a href="http://futureoflife.org/home">Future of Life</a>. <i>Download PDF:</i> <a href="http://futureoflife.org/static/data/documents/research_priorities.pdf">Research Priorities for Robust and Beneficial Artificial Intelligence</a>.</p>
+<p><strong>• Signal of the Month: DEAL.</strong> The jobs outlook in the United States faces a new DEAL: the combined forces of Demographics, Education, Automation, and Longevity (<i>The Gordon Report,</i> March 2015). Baby boomers will be living longer, and they’ll need to be replaced in the workforce. If they wish to continue working, they’ll need appropriate training, as automation takes over many low-skill and middle-skill jobs. Signal courtesy of <strong>Edward E. Gordon,</strong> president of <a href="http://www.imperialcorp.com/">Imperial Consulting Corporation</a>.</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

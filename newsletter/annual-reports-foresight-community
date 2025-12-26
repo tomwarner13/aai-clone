@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="annual-reports-foresight-community" />
+<link rel="shortlink" href="../node/87" />
+  <title>Annual Reports from the Foresight Community | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/annual-reports-foresight-community":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-87 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="annual-reports-foresight-community#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="annual-reports-foresight-community" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-bPwvY83W7ARSxa5M5YQ6poEKQoeV4U_37Z2rO9pvz7s" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Annual Reports from the Foresight Community</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Annual Reports from the Foresight Community</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/annual-reports-foresight-community" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-87 node node-newsletter view-mode-full clearfix" about="/newsletter/annual-reports-foresight-community" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Annual Reports from the Foresight Community" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 3,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 3</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-01-14T00:00:00-05:00">January 14, 2017</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In our last edition, <em>Foresight Signals</em> reported on <a href="aai-foresight-annual-report-2016">the year’s highlights</a> at our parent company, AAI Foresight Inc., and invited futurists and foresight professionals everywhere to report on their activities as well. Here is an overview of foresight accomplishments in 2016 and a preview of 2017.</p>
+<h2>World Futures Studies Federation</h2>
+<h4>Submitted by Victor Vahidi Motti</h4>
+<p>The World Futures Studies Federation announced that it launched its new magazine, <a href="https://www.joomag.com/magazine/human-futures-no-1-december-2016/0501186001482451633?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff" target="_blank"><em>Human Futures</em></a>.</p>
+<p>Since its inception nearly five decades ago, WFSF has published a magazine that has undergone several changes of name and style. The latest version of the WFSF magazine, <em>Human Futures,</em> debuted in December 2016 as an interactive online publication.</p>
+<p>As president and editor <strong>Jennifer Gidley</strong> explains, “In calling our magazine ‘HUMAN FUTURES’ we distinguish the World Futures Studies Federation from futures organisations with national or regional interests, and from those that emphasise high-tech, commercial and/or corporate futures. The title also counters an all-too-common media trivialisation of futures studies.”</p>
+<p>Contact <a href="mailto:vahidvmotlagh@gmail.com">Victor Vahidi Motti</a>, executive board member, World Futures Studies Federation, <a href="http://www.wfsf.org" target="_blank">www.wfsf.org</a>.</p>
+<h2>The Millennium Project</h2>
+<h4>Submitted by Jerome C. Glenn</h4>
+<p>The Millennium Project celebrated its 20th anniversary in 2016 and continued to grow. With new Nodes in Armenia, Sri Lanka, and Tunisia, the group now comprises 60 Nodes.</p>
+<p><figure style="float:right; max-width:150px; margin: 0 0 0 20px;"><img src="../sites/default/files/u409/2015-16SOF-cover-115px.jpg" width="115" height="146" alt="2015-16SOF-cover-115px.jpg" /></figure></p>
+<p>In 2016, the group produced three Global Work/Tech 2050 Scenarios; conducted a NATO workshop and report on pre-detection and prevention of future forms of lone-wolf terrorists; published in Persian/Farsi the five-volume transition publication in Iran of <em>Futures Research Methodology 3.0;</em> translated the Executive Summary of the <a href="http://millennium-project.org/millennium/201516SOF.html" target="_blank"><em>2015-16 State of the Future</em></a> into Arabic, Chinese, Croatian, English, French, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Spanish, Turkish, and Urdu; and, for the seventh year, produced tele-teaching futures concepts and methods for Azerbaijan State Economic University.</p>
+<p>In 2017, The Millennium Project plans national long-range strategy workshops using the Global Work/Tech 2050 Scenarios; State of the Future Indexes for Pakistan and Mexico; a national collective intelligence system for Egypt; a Spanish translation of the <em>Futures Research Methodology;</em> online training for the use of the Global Futures Intelligence System; and the Millennium Project annual meeting, to be held in October in Peru.</p>
+<p>Contact <a href="mailto:jglenn@igc.org">Jerome C. Glenn</a>, CEO, <a href="http://www.millennium-project.org" target="_blank">The Millennium Project</a>.</p>
+<h2>Houston Foresight</h2>
+<h4>Submitted by Andy Hines</h4>
+<p>The Houston Foresight program continues to grow, reaching 44 active students in the fall 2016 semester—its largest class since 1998. The program launched two sponsored research projects in 2016 involving teams of faculty and students. Both involved horizon scanning and scenario planning—one for the U.S. Forest Service [Ed. note: see David Bengston’s report below] and the other for Dubai’s Future Foresight Foundation.</p>
+<p>Houston Foresight’s annual spring gathering explored the future of blockchain for higher education, and students from the program presented at the World Future Society conference last summer in Washington, D.C.</p>
+<p><figure style="float:right; max-width:150px; margin: 0 0 0 20px;"><img src="../sites/default/files/u409/MISC-magazine-2020-cover-115px.jpg" width="115" height="139" alt="MISC-magazine-2020-cover-115px.jpg" /></figure></p>
+<p>Houston Foresight also began a co-publishing arrangement with <a href="https://miscmagazine.com/" target="_blank">MISC magazine</a> in collaboration with Idea Couture. Finally, the week-long certificate course passed a milestone of having graduated over 500 students since its inception in 2009.</p>
+<p>Contact <a href="mailto:ahines@central.uh.edu">Andy Hines</a>, program coordinator, Houston Foresight, or <a href="http://houstonfutures.org" target="_blank">http://houstonfutures.org/</a></p>
+<h2>Teach the Future</h2>
+<h4>Submitted by Peter C. Bishop</h4>
+<p><a href="http://www.teachthefuture.org/" target="_blank">Teach the Future</a> is about to complete its second year of operation. The first accomplishment this year was to compile and release a <a href="http://www.library.teachthefuture.org/" target="_blank">Library</a> of more than 60 activities, lessons, units, and courses for teaching the future.</p>
+<p><strong><a href="mailto:katie@teachthefuture.org">Katie King</a>,</strong> deputy director, conducted a number of student workshops on the future this year in Pittsburgh, the Bay Area, and the Houston region. She describes them on the <a href="http://www.teachthefuture.org/blog/" target="_blank">Teach the Future blog</a>.</p>
+<p><strong><a href="mailto:peter@teachthefuture.org" target="_blank">Peter Bishop</a></strong> traveled to Beijing in November to participate in the 4th Informal Working Group for the <a href="http://www.teachthefuture.org/blog/2016/11/16/06o7gx9fsg0biev5e7eyiojfa1xq48" target="_blank">OECD Education2030 project</a>, which is developing a list of competencies that will help students be successful in the 21st century. The OECD staff accepted Dr. Bishop’s recommendation that foresight be included in that list for the first time.</p>
+<p>Finally, Teach the Future is planning to conduct a number of student workshops and camps on the future in the Houston region next summer.</p>
+<p>Contact <a href="mailto:peter@teachthefuture.org" target="_blank">Peter C. Bishop</a>, director, Peter C. Bishop, <a href="http://www.teachthefuture.org" target="_blank">www.teachthefuture.org</a>.</p>
+<h2>TechCast Global</h2>
+<h4>Submitted by William E. Halal</h4>
+<p>TechCast Global is launching generation 8.0 of its acclaimed website with exciting new features and more membership choices. Members can now Ask Our Experts for advice on tough issues, and Strategic Tools help them conduct strategic planning with TechCast’s forecasts.</p>
+<p>Partners <strong>Hassan Syed</strong> and <strong>Bill Halal</strong> are developing customized versions of TechCast for corporations, regions (Southeast Asia with Singapore), and cities. As opposed to the worldwide forecasts in TechCast Global, TechCast Local adapts the forecasts and tools for local use by communities.</p>
+<p>Contact <a href="mailto:william.halal@techcastglobal.com">William E. Halal</a>, president, TechCast Global, <a href="http://www.TechCastGlobal.com" target="_blank">www.TechCastGlobal.com</a> or <a href="http://www.BillHalal.com" target="_blank">www.BillHalal.com</a></p>
+<h2>Future Impacts</h2>
+<h4>Submitted by Cornelia Daheim</h4>
+<p>Some recent highlights from Future Impacts include projects for customers such as Arval, Aktion Mensch, European Parliament, European Commission Joint Research Centre, EnBW, Evonik, Hermes, and the Microfinance CEO Forum.</p>
+<p>Currently, Future Impacts is pursuing the future of work, jobs, and skills; the future of energy; the future of cities and regional development; and inclusive futures. The organization has realized new approaches such as agile scenario development, a serious game on disruption, and experiencing the future in scenario enactments.</p>
+<p>Among Future Impacts’ publications in 2016 are a <a href="https://www.bertelsmann-stiftung.de/en/publications/publication/did/2050-die-zukunft-der-arbeit/" target="_blank">German publication on the future of work</a> which was based on the Delphi-study by The Millennium Project, with <strong>Ole Wintermann</strong> from Bertelsmann Foundation, now translated into Korean by the Korean Labor Institute; <a href="http://www.stipolicyreview.net/sub/issues01_view.asp?idx=20&amp;nPage=&amp;sbtp=&amp;skind=&amp;stype=&amp;stext=" target="_blank">a study on “Emerging Practices in Foresight”</a> with Sven Hirsch; Developing the first <a href="http://apf.org/wordpress/wp-content/uploads/APF-Foresight-competency-model-1.1-1.pdf" target="_blank">“Foresight Competency Model”</a> for the Association of Professional Futurists, with <strong>Andy Hines</strong> of the University of Houston, <strong>Luke van der Laan</strong> of the University of Southern Queensland, Australia, and <strong>Jay Gary</strong> of Oral Roberts University.</p>
+<p>Future Impacts’ ongoing <a href="http://blogs.ec.europa.eu/eupolicylab/files/2016/12/JRC104716_final_ONLINE.pdf" target="_blank">project on Megatrends for Policy-Making</a> supports the team from the European Commission Joint Research Centre in the Steering Committee. The report from the last workshop may be found on the <a href="http://blogs.ec.europa.eu/eupolicylab/how-can-global-trends-be-used-in-foresight/" target="_blank">Policy Lab Blog</a>.</p>
+<p>Among the events Future Impacts is planning for 2017 are:</p>
+<p>Jan. 26: <a href="http://www.gruene-fraktion-bayern.de/termine/kongress-arbeit-40-anders-arbeiten-einer-digitalisierten-welt" target="_blank">keynote on the Future of Work</a>  in the Bavarian Parliament.</p>
+<p>March 8: <a href="https://www.mcbw.de/programm/detailseite/event/brave-new-world.html" target="_blank">panel discussion on smart cities</a> for Creative Business Week in Munich.</p>
+<p>June 12-13: <a href="https://futuresconference2017.wordpress.com/program/" target="_blank">keynote and workshop on Work 2050</a> at the FFRC Futures Conference in Turku, Finland.</p>
+<p>June 15-17: <a href="https://www.erasmushogeschool.be/onderzoek-en-dienstverlening/kenniscentra/open-time/conference/call-papers-and-other-contributions-design-develop-transform-brussels-and-antwerp-june-15-17" target="_blank">foresight gaming workshop at the Design - Develop - Transform Conference</a> in Antwerp and Brussels, Belgium.</p>
+<p>Contact <a href="mailto:daheim@future-impacts.de">Cornelia Daheim</a>, founder and director, Future Impacts, <a href="http://www.future-impacts.de" target="_blank">www.future-impacts.de</a></p>
+<h2><a href="http://www.globalforesightbooks.org/" target="_blank">Global Foresight Books</a></h2>
+<p>In his January 2017 publisher’s note, <strong>Michael Marien</strong> reports that entries on the Global Foresight Books website had been suspended since 2015 as he developed <em>The Security &amp; Sustainability Guide: 1500 Organizations Pursuing Essential Global Goals.</em> View a PDF of the August 2016 interim draft <a href="http://securesustain.org/wp-content/uploads/2016/09/Operative-SS-Master-4-Aug-2016-2.pdf" target="_blank">here</a>. He writes that a new and expanded draft will be available this spring.</p>
+<p>“Books are important, but the remarkable proliferation of largely international organizations pursuing sustainability and sustainable development, as well as security, is even more important,” Marien writes.</p>
+<p>Contact Michael Marien, <a href="http://www.globalforesightbooks.org/bio.html" target="_blank">www.globalforesightbooks.org/bio.html</a></p>
+<h2>Thomas Lombardo, director, Center for Future Consciousness, Wisdom Page, and <em>Wisdom and the Future</em></h2>
+<p>At the end of 2015, I published an article, <a href="http://www.centerforfutureconsciousness.com/SF_Readings.htm" target="_blank">“Science Fiction: The Evolutionary Mythology of the Future,”</a> in a special issue of <em>Journal of Futures Studies</em> on science fiction and foresight, which I co-edited with <strong>Jose Ramos.</strong> In July, I significantly updated <a href="http://www.centerforfutureconsciousness.com/sf_novels.htm" target="_blank">my list of Evolving All-Time Best Science Fiction Novels</a>, including roughly 50 recently read books from the early years (1870 to 1940) of science fiction.</p>
+<p>During the year, I published five issues of my online journal <a href="http://archive.constantcontact.com/fs067/1110472547640/archive/1110748216717.html" target="_blank">Wisdom and the Future</a>, which includes a series of short philosophy articles in the July issue as educational links for my forthcoming book (see below) and online course Future Consciousness as well as an in-depth <a href="http://archive.constantcontact.com/fs121/1110472547640/archive/1124622678025.html" target="_blank">book review</a> of <strong>Rick Smyre</strong> and <strong>Neil Richardson</strong>’s new book, <a href="http://www.changemakers-books.com/books/preparing-world-doesnt-exist-yet" target="_blank"><em>Preparing for a World that Doesn’t Exist — Yet</em></a></p>
+<p>In April, I was interviewed by <em><a href="http://archive.constantcontact.com/fs121/1110472547640/archive/1124622678025.html" target="_blank">The Age of Reflection</a>,</em> an Iranian journal on social sciences, culture, and politics.</p>
+<p><figure style="float:right; max-width:150px; margin: 0 0 0 20px;"><img src="../sites/default/files/u409/Future-Consciousness-cover-115px.jpg" width="115" height="178" alt="Future-Consciousness-cover-115px.jpg" /></figure></p>
+<p>In the summer, I secured a contract with <a href="http://www.changemakers-books.com/" target="_blank">Changemakers Books</a> to publish <em><a href="http://archive.constantcontact.com/fs121/1110472547640/archive/1124662284789.html" target="_blank">Future Consciousness: The Path to Purposeful Evolution</a>.</em> (see below). In advance publicity for the book, I published <a href="http://www.centerforfutureconsciousness.com/FC_Readings.htm" target="_blank">“Future Consciousness: The Path to Purposeful Evolution: An Introduction”</a> in the December issue of <em>World Future Review</em> and gave a <a href="https://www.meetup.com/World-Future-Society-Arizona-Chapter/events/234974318/?rv=ea1&amp;_af=event&amp;_af_eid=234974318&amp;https=on" target="_blank">presentation</a> on the book at the November meeting of the World Future Society’s Arizona Chapter. In conjunction with the book’s publication, an online course aligning with the book will be accessible on both the Center for Future Consciousness and Wisdom Page websites.</p>
+<p>Coming full circle, as the year drew to a close, the editor of Changemakers Books agreed to also publish my book trilogy, <em>Science Fiction: The Evolutionary Mythology of the Future.</em> A comprehensive history weaving together of intellectual and cultural trends and futurist thought with the evolution of science fiction, <em>Volume One: Prometheus to Star Maker</em> is nearing completion, with an anticipated publishing date within a year.</p>
+<p>Contact <a href="mailto:tlombardo1@cox.net">Tom Lombardo,</a> Center for Future Consciousness, <a href="http://www.centerforfutureconsciousness.com/index.html" target="_blank">www.centerforfutureconsciousness.com/index.html</a>. </p>
+<h2>David N. Bengston, environmental futurist, USDA Forest Service</h2>
+<p>I work in a small futures research unit at the USDA Forest Service, Northern Research Station. <a href="http://www.nrs.fs.fed.us/units/foresight_response/" target="_blank">The Strategic Foresight Group</a> was started a few years ago and is the only futures research unit in Forest Service R&amp;D. </p>
+<p>A critical part of my foresight journey in 2016 has been working with several outstanding academic and consulting futurists on a number of projects: Scenarios exploring the future of forests in North America for the North American Forest Commission with <strong>Jonathan Peck</strong> and <strong>Bob Olson</strong> of the Institute for Alternative Futures; the futures of wood-based nanomaterials with <strong>Jim Dator</strong> and <strong>Aubrey Yee</strong> of the Hawaii Research Center for Futures Studies at the University of Hawaii (<a href="http://www.treesearch.fs.fed.us/pubs/52436" target="_blank">http://www.treesearch.fs.fed.us/pubs/52436</a>); explorations of several emerging issues and trends in natural resources using <strong>Joel Barker</strong>’s Implications Wheel® and exceptional training from <strong>Jim Schreier;</strong> and an ongoing project to create a horizon scanning system for the Forest Service under the insightful guidance of <strong>Andy Hines</strong> of the Foresight Graduate Program at the University of Houston (<a href="http://www.houstonforesight.org/?cat=1216" target="_blank">http://www.houstonforesight.org/?cat=1216</a>).</p>
+<p>We have several projects planned for the coming year that will continue to bring foresight to natural resource policy and decision making.</p>
+<p>Contact <a href="mailto:dbengston@fs.fed.us">David N. Bengston</a>.</p>
+<h2>Freija van Duijne, president, Dutch Future Society</h2>
+<p>I have been doing two major projects in the last year. The first is for the National Energy Dialogue about the transition to a low-carbon economy. I have been doing a scenario-based conversation to get a systemic perspective about the transition and to discuss different governance perspectives.</p>
+<p>Second, I was in charge of a process to build a strategic knowledge and innovation agenda on food and nature for the Ministry of Economic Affairs. We designed a strategic dialogue process to identify long-term research and innovation needs to address societal challenges, focusing on the role of the government in research and innovation.</p>
+<p>I have now left the Ministry to work as an independent strategic foresight professional. This enables me to do much more of this kind of work, while being in different organisations which keeps me fresh and full of ideas.</p>
+<p>Contact <a href="mailto:freija@futuremotions.nl">Freija van Duijne</a>.</p>
+<h2>Jose Cordeiro, visiting research fellow, <a href="http://www.ide.go.jp" target="_blank">IDE-JETRO</a>, Tokyo</h2>
+<p>I plan to focus most of my futures work in really futurist areas like the Singularity, transhumanism, immortality, cryonics, space travel, and exponential technologies, and I invite anyone interested in these areas to contact me.</p>
+<p>I am also organizing the first International Longevity and Cryopreservation Summit in Madrid, to be held May 26-28. Visit <a href="http://internationalcryonicssummit.com/" target="_blank">http://internationalcryonicssummit.com/</a></p>
+<p>Contact <a href="mailto:jose_cordeiro@yahoo.com">Jose Cordeiro</a></p>
+<h2>Sample New and Forthcoming Books</h2>
+<p><a href="http://frankamcdonough.com" target="_blank"><strong><em>Spring Training for the Major Leagues of Government</em></strong></a> (2016) by Frank McDonough, published by Koehler Books. Brian, a new high-level government appointee, receives guidance for new situations he encounters as a senior government official. Chapters address forecasting, why promising technologies may not advance at all, and tips for success during a presidential transition.</p>
+<p><a href="http://www.publicaffairsbooks.com/book/hardcover/the-signals-are-talking/9781610396660" target="_blank"><strong><em>The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream</em></strong></a> (2016) by Amy Webb (founder, the Future Today Institute), published by Public Affairs. Excerpt: “By the end of 2015, the FAA was estimating that a million drones would be sold and given as holiday presents that year—but neither the FAA nor any other government agency had decided on regulations for how ordinary Americans could use them. … Drones were a fringe technology barreling toward the mainstream, and a lack of planning and foresight pitted dozens of organizations against each other.”</p>
+<p><a href="http://bookshop.iseas.edu.sg" target="_blank"><strong><em>The Veil of Circumstance: Technology, Values, Dehumanization and the Future of Economics and Politics</em></strong></a> (2016) by Joergen Oerstroem Moeller, published by ISEAS-Yusof Ishak Institute (formerly the Institute of Southeast Asian Studies). Excerpt: “Over the next fifteen years, new or accelerating trends in debt, demography, urbanization, global savings, innovation, productivity and energy will transform the global power structure, with unprecedented speed, magnitude and impact.” [Ed. note: Moeller also published a Foresight Report for AAI Foresight, <a href="../content/forecasting-after-brexit" target="_blank">“Forecasting After Brexit,”</a> and regularly contributes to the <a href="http://www.huffingtonpost.com/author/joergen-oerstroem-moeller" target="_blank">Huffington Post</a>.]</p>
+<p><a href="http://www.changemakers-books.com/books/future-consciousness" target="_blank"><strong><em>Future Consciousness: The Path to Purposeful Evolution</em></strong></a> (2017) by Thomas Lombardo, published by Changemakers Books. Excerpt: “How do we create a good future? This deceptively simple question is the central challenge of human life. Moreover, as a key thesis of this book, the question brings to center stage the most distinctive and empowering capacity of the human mind: to imagine, think about, and purposefully pursue desirable and preferable futures.”</p>
+<p><a href="http://arcadepub.com/titles/12332-9781628727333-heart-of-the-machine" target="_blank"><strong><em>Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence</em></strong></a> (2017) by Richard Yonck, published by Arcade Publishing. Excerpt: “Now we find ourselves entering an astonishing new era, an era in which we are beginning to imbue our technologies with the ability to read, interpret, replicate, and potentially even experience emotions themselves. This is being made possible by a relatively new branch of artificial intelligence known as affective computing. A powerful and remarkable technology, affective computing is destined to transform our lives and our world over the coming decades.”</p>
+<h3>Note from AAI Foresight and <em>Foresight Signals</em></h3>
+<p>The above represents only a fraction of the ongoing work of foresight professionals. Please continue to send news of your activities to <em>Foresight Signals</em> throughout the year! Best wishes to all.</p>
+<p>Tim Mack, managing principal<br />
+Cindy Wagner, consulting editor</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

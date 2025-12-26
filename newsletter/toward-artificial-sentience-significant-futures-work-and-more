@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="toward-artificial-sentience-significant-futures-work-and-more" />
+<link rel="shortlink" href="../node/146" />
+  <title>Toward Artificial Sentience, Significant Futures Work, and more | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/toward-artificial-sentience-significant-futures-work-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-146 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="toward-artificial-sentience-significant-futures-work-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="toward-artificial-sentience-significant-futures-work-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-OXmleIbYaMwwDwbMaWT55d9KjEwcloAksHUWAA1X4Ro" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Toward Artificial Sentience, Significant Futures Work, and more</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Toward Artificial Sentience, Significant Futures Work, and more</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/toward-artificial-sentience-significant-futures-work-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-146 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/toward-artificial-sentience-significant-futures-work-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Toward Artificial Sentience, Significant Futures Work, and more" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 5,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 10</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-10-03T00:00:00-04:00">October 3, 2019</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Hot Topic: Moving Beyond Artificial Intelligence</h2>
+<p>An autonomous idea-creation system that already has invented patentable concepts has itself now been patented.</p>
+<p>The U.S. Patent and Trade Office has awarded a <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=10,423,875.PN.&amp;OS=PN/10,423,875&amp;RS=PN/10,423,875" target="_&quot;blank&quot;">patent</a> to <b>Stephen L. Thaler,</b> president and CEO of <a href="http://imagination-engines.com" target="_&quot;blank&quot;">Imagination Engines Inc.</a>, for his Device for the Autonomous Bootstrapping of Unified Sentience (DABUS). Formally, the patent is titled “Electro‐Optical Device and Method for Identifying and Inducing Topological States Formed Among Interconnecting Neural Modules,” which Thaler says constitutes a “successor to deep learning and the future of artificial general intelligence.”</p>
+<p>With DABUS, “vast swarms of neural nets join to form chains that encode concepts gleaned from their environment,” Thaler said in a press release. “It also teaches the noise‐stimulation of such neural chaining systems to generate derivative concepts from their accumulated experience (i.e., idea formation).”</p>
+<p>Thaler and colleagues recently applied for patents on two inventions the DABUS technology has autonomously generated. </p>
+<p>“This is human ideation at machine speed,” said NASA chief scientist <b>Dennis Bushnell,</b> who has studied Thaler’s previous work on Creativity Machines. Ideas are combinations of other ideas and facts. Data and problems are loaded into the neural net, then it’s closed down. Rather than sleeping, however, DABUS goes to work, imitating how human minds generate ideas but with “a gazillion times as much data and a gazillion times faster” than the human mind, Bushnell said in a phone interview. “It’s brute force machine system evaluation of quasi-random combinatorials.” </p>
+<p>To put this in context, Bushnell said, “industry needs 3,600 ideas to get one that works, and evaluation takes six years. Now consider several billion ideas, evaluated in milliseconds. … This will change everything.” For example, he pointed out, it will “take away the last vestige of jobs only humans can do. Humans won’t be economically competitive to work.” But if we put such machines into a global commons, it will create massive wealth we can distribute, he said.</p>
+<p>Thaler describes DABUS as sentient AI. “It addresses all the challenges recently enumerated in <b>Randall Mayes’</b> <a href="http://www.aaiforesight.com/blog/deep-learning-overhyped-review-rebooting-ai" target="_&quot;blank&quot;">blog post</a> regarding the building of human-level machine intelligence,” he said in an email to <i>Foresight Signals.</i> </p>
+<p>Thaler is also aware of the technology’s potential downside, however. “DABUS is the recipe for building human to trans-human level machine intelligence that can invent, cure diseases, solve immense sociological problems, etc.,” he told <i>Foresight Signals.</i> “The problem is that very powerful interests will do their best to claim it and use it for less noble purposes.</p>
+<p>“As I stated in two [World Future Society] appearances,” Thaler continued, “Creativity Machines, and now more than ever, DABUS, will reveal how our minds achieve consciousness and sentience, as well as the relationship between seminal cognition and psycho-social pathologies.<br />
+ <br />
+“Inevitably, the technology will be used in very sinister ways, for instance in toppling economies and political systems. That’s why it needs to be kept out of the hands of powerful globalist companies, and I emphasize the ‘G’ in globalist,” he said.</p>
+<p><i>Further Reading</i></p>
+<p>Imagination Engines Inc. (press release), “<a href="https://www.einpresswire.com/article/496953516/a-new-patent-that-is-arguably-the-successor-to-deep-learning-and-the-future-of-artificial-general-intelligence" target="_&quot;blank&quot;">Imagination Engines Inc. Announces a New Patent That Is Arguably the Successor to Deep Learning and the Future of Artificial General Intelligence (AGI)</a>” (September 24, 2019). </p>
+<p>U.S. Patent and Trademark Office <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=10,423,875.PN.&amp;OS=PN/10,423,875&amp;RS=PN/10,423,875" target="_&quot;blank&quot;">DABUS patent issue</a>.  </p>
+<p>University of Surrey (press release), “<a href="https://www.surrey.ac.uk/news/world-first-patent-applications-filed-inventions-generated-solely-artificial-intelligence" target="_&quot;blank&quot;">World first patent applications filed for inventions generated solely by artificial intelligence</a>,” (August 1, 2019). </p>
+<p>Randall Mayes, “<a href="http://www.aaiforesight.com/blog/deep-learning-overhyped-review-rebooting-ai" target="_&quot;blank&quot;">Is Deep Learning Overhyped? A Review of Rebooting AI</a>,” Foresight Signals Blog (September 4, 2019).   </p>
+<p><i>Ed. note:</i> Edited October 4 to clarify DABUS as an AI advancement upon Thaler's previous work on Creativity Machines.</p>
+<h2>Dealing with Threats in Outer Space and Cyberspace: Event Report</h2>
+<p>The <a href="https://www.gao.gov/" target="_&quot;blank&quot;">U.S. Government Accountability Office</a>’s new Center for Strategic Foresight held its first conference September 10, 2019, to explore two emerging threats that policy makers need to better understand. Titled From Deep Fakes to Deep Space: Policy Challenges for the Future, the conference included panels on the threats from increased activity in outer space and from the weaponization of misinformation, largely through social media. <i>[<a href="http://www.aaiforesight.com/blog/event-report-deep-fakes-deep-space" target="_&quot;blank&quot;">Read the event report</a>]</i> </p>
+<p>The Deep Space panelists were <b><a href="https://peacocklaw.com/deborah-a-peacock/" target="_&quot;blank&quot;">Deborah Peacock</a>,</b> president and CEO, Peacock Law;  <b><a href="https://swfound.org/about-us/our-team/victoria-samson/" target="_&quot;blank&quot;">Victoria Samson</a>,</b> Washington office director, Secure World Foundation; and<br />
+<b><a href="http://www.moonexpress.com/news/moon-express-welcomes-former-white-house-space-official-ben-roberts-vp-government-affairs/" target="_&quot;blank&quot;">Ben Roberts</a>,</b> vice president, government affairs, Moon Express </p>
+<p>The Deep Fake panelists were <b><a href="https://www.newamerica.org/our-people/peter-warren-singer/" target="_&quot;blank&quot;">Peter Singer</a>,</b> strategist and senior fellow, New America, and <b><a href="https://www.fpri.org/contributor/clint-watts/" target="_&quot;blank&quot;">Clinton Watts</a>,</b> distinguished research fellow, Foreign Policy Research Institute. </p>
+<p>Arizona State University President <b><a href="https://president.asu.edu/" target="_&quot;blank&quot;">Michael Crow</a></b> delivered the keynote address describing his work to transform the university and its 24 schools using value-based design. The goal was to reconstruct the idea of a public enterprise and make the institution foresight-driven and adaptive.</p>
+<p>Also addressing the conference, <b>Gene Dodaro,</b> comptroller general of the United States and the head of GAO, explained that the Center for Strategic Foresight will help GAO develop its foresight, which includes looking back at trends, prioritizing the most important areas to analyze, and helping Congress understand emerging issues in time to deal with them.</p>
+<p><i>Further Reading</i></p>
+<p>“<a href="http://www.aaiforesight.com/blog/event-report-deep-fakes-deep-space" target="_&quot;blank&quot;">Event Report: From Deep Fakes to Deep Space</a>,” Foresight Signals Blog (September 15, 2019).</p>
+<p>“<a href="https://www.gao.gov/about/press-center/press-releases/center-for-strategic-foresight.htm" target="_&quot;blank&quot;">Deep Space &amp; Deep Fakes: New ‘Center for Strategic Foresight’ Launched</a>,” GAO (press release, September 10, 2019).</p>
+<h2>APF Announces Board Expansion, Honors Significant Futures Work</h2>
+<p>The <a href="http://apf.org" target="_&quot;blank&quot;">Association of Professional Futurists</a> has announced plans to expand its board from nine to 12 members in 2020, with the goal of increasing representation of members in Asia, Africa, and Latin America, says chair <b>Jay Gary.</b> <i>[<a href="https://www.apf.org/page/APFBoard" target="_&quot;blank&quot;">Learn more</a>]</i>  </p>
+<p>APF also recently released its 2019 Awards for the <a href="https://www.apf.org/page/MSFW" target="_&quot;blank&quot;">Most Significant Futures Works</a>: </p>
+<p>Category 1, Advance the methodology and practice of foresight and futures studies (two awards): (1) “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0016328717301611?via%3Dihub" target="_&quot;blank&quot;">The Five Dimensions of Futures Consciousness</a>” (article) by <b>Sanna Ahvenharju, Matti Minkkinen,</b> and <b>Fanny Lalot,</b> <i>Futures</i> (December 2018). (2) “<a href="http://openresearch.ocadu.ca/id/eprint/1441/" target="_&quot;blank&quot;">Making the Futures Present</a>” (research project) by <b>Maggie Greyson,</b> Ontario College of Art and Design University (February 14, 2017).</p>
+<p>Category 2, Analyze a significant future issue: “<a href="http://projectgastronomia.org/uploads/categories/Towards_Personalized_Gastronomy_2050_BAJA.pdf" target="_&quot;blank&quot;">Towards Personalized Gastronomy 2050</a>” (report) by <b>Estefania Simon-Sasyk</b> and <b>Daniel Riveong,</b> Basque Culinary Center (2019).</p>
+<h2>Foresight Resources and Publications</h2>
+<ul>
+<li> The Security &amp; Sustainability Guide, a project initiated in 2014, has launched a new <a href="http://securesustain.org/" target="_&quot;blank&quot;">website</a>.  The guide covers the work of more than 2,000 global organizations that deal with all aspects of security, from sustainability to terrorism. The site includes a dashboard of six categories and 20 sub-categories, a major categories index, an A-Z organizational index, a “Rants, Raves, and Reviews” section comprising recent essays, and more. The S&amp;S Guide is sponsored by the <a href="http://www.worldacademy.org" target="_&quot;blank&quot;">World Academy of Art &amp; Science</a>, and its principals are <b>Michael Marien,</b> former editor of <i>Future Survey;</i> <b>David Harries,</b> recent chair of Canadian Pugwash; and <b>Michael Sales,</b> former co-chair, Society for Organizational Learning, North America. <i>[<a href="http://securesustain.org/" target="_&quot;blank&quot;">Learn more</a>]</i>  </li>
+<li><i><a href="https://the-syllabus.com/" target="_&quot;blank&quot;">The Syllabus</a></i>  is a new newsletter providing links to recent scholarship, books, essays, podcasts, videos, and other media covering a wide range of topics. Though the topics are not strictly future-oriented, subscribers may select the specific topics and media formats they would like to see in their customized weekly feed. Readers may also choose the curated “Best of the Week” newsletter. <i>The Syllabus</i> is “a project I've been working on for a long time,” says publisher <b><a href="https://www.evgenymorozov.com/" target="_&quot;blank&quot;">Evgeny Morozov</a>,</b> author of <i>To Save Everything, Click Here</i> (Public Affairs, 2013). “Try finding a brainier site online.”</li>
+<li>Also check out the latest issues of these publications:<br />
+- <a href="https://wfsf.org/" target="_&quot;blank&quot;">World Futures Studies Federation</a>’s  <i>Human Futures</i> magazine, <a href="https://view.joomag.com/human-futures-september-2019/0922687001568174220" target="_&quot;blank&quot;">September 2019 issue</a><br />
+- <i>Journal of Futures Studies,</i> <a href="https://jfsdigital.org/articles-and-essays/vol-24-no-1-september-2019/" target="_&quot;blank&quot;">September 2019 issue</a><br />
+- Club of Amsterdam <i>Journal,</i> <a href="http://www.clubofamsterdam.com/press.asp?contentid=1023" target="_&quot;blank&quot;">October 2019 issue</a><br />
+- <a href="http://www.millennium-project.org/" target="_&quot;blank&quot;">The Millennium Project</a>’s  newsletter, <a href="https://mailchi.mp/millennium-project/millennium-project-newsletter-60" target="_&quot;blank&quot;">issue 6.0</a> </li>
+</ul>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

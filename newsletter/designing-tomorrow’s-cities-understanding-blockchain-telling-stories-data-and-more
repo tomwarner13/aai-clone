@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="designing-tomorrow’s-cities-understanding-blockchain-telling-stories-data-and-more" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/116" />
+  <title>Designing Tomorrow’s Cities, Understanding Blockchain, Telling Stories with Data, and more | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-116 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="designing-tomorrow’s-cities-understanding-blockchain-telling-stories-data-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="designing-tomorrow’s-cities-understanding-blockchain-telling-stories-data-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-KWHqO_LI8keiW8pdCeQxZQ0rx3Sr2Ktzdr-1STsFkOQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Designing Tomorrow’s Cities, Understanding Blockchain, Telling Stories with Data, and more</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Designing Tomorrow’s Cities, Understanding Blockchain, Telling Stories with Data, and more</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-116 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/designing-tomorrow%E2%80%99s-cities-understanding-blockchain-telling-stories-data-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Designing Tomorrow’s Cities, Understanding Blockchain, Telling Stories with Data, and more" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 4,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 8</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-08-06T00:00:00-04:00">August 6, 2018</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Designing Cities for Our Future</h2>
+<p>The <a href="https://www.citiesforourfuture.com/" target="_&quot;blank&quot;">Cities for Our Future</a> design challenge has selected a dozen finalists from 1,200 entries for a £50,000 prize, to be awarded in November. The global competition was organized by the Royal Institution of Chartered Surveyors (RICS) in partnership with the United Kingdom National Commission for UNESCO and the Association of Commonwealth Universities. </p>
+<p>The competition challenged young professionals, students, and startups to “share your transformative ideas for projects and policies that solve some of the defining issues of our time: Rapid Urbanisation, Climate Change and Resource Scarcity.” The finalists are:</p>
+<p><b><i>Rapid Urbanization</i></b></p>
+<p><b>- Katia Sqir</b> (East Asia and China). Creating building-mounted webs to increase vegetation within.</p>
+<p><b>- Soran Shangapour</b> (UK). Repurposing public spaces outside of office hours to provide safe and sustainable homeless accommodation. </p>
+<p><b>- Megan Burke</b> (UK). Implementing policies that incentivize landlords and tenants to accommodate air filtration facilities as part of their buildings.</p>
+<p><b>- Earl Patrick Forlales</b> (Southeast Asia). A low-cost, modular, and expandable house of up to three stories, inspired by the Bahay Kubo of the Philippines.</p>
+<p><b><i>Climate Change</i></b></p>
+<p><b>- Joseph Augustin</b> (Africa). Retrofitting existing buildings with networked, 3-D printed ceramic plates to battle energy use and rising temperatures.</p>
+<p><b>- Tijmen Dekkers</b> (Europe). Developing modular rainwater storage systems to help alleviate flooding and resource scarcity in rain-prone cities.</p>
+<p><b>- Pamela Larocca</b> (Oceania). A new prototypical home offered to people living in coastal cities, who face the dangers of rising sea levels.</p>
+<p><b>- Cheyenne Lau</b> (North America). A comprehensive urban design scheme that attempts to address issues by promoting local economic empowerment, flood planning and management, and tourism.</p>
+<p><b><i>Resource Scarcity</i></b></p>
+<p><b>- Team Galaxy</b> (Middle East and Northern Africa). Installing community water recirculation systems, which address scarcity in water supply in low income communities.</p>
+<p><b>- James Browning</b> (South and Central America). Constructing community-led housing developments that mobilize residents and allow for shared access to resources and space.</p>
+<p><b>- Sayali Virulkar</b> (South Asia). Restructuring the use of land within cities to create space for agricultural development, overcoming resource scarcity and climate change.</p>
+<p><b>- Claudio Freitas</b> (Middle East and Northern Africa). An Internet of Things water control management system designed to improve water supply in refugee camps, as well as numerous cities globally.</p>
+<p>Learn more at <a href="https://www.citiesforourfuture.com/" target="_&quot;blank&quot;">Cities for Our Future</a>. </p>
+<h2>Editor’s Invitation: Got News?</h2>
+<p>Have you landed a new job as a futurist? Recently published or working on a forthcoming book or major project? Received recognition for your work? Know of a job opening or an opportunity for other futurists to contribute to our field? Tell the futurist community about it! <i>Foresight Signals</i> welcomes news about your foresight activities, including reports from conferences you’d like to share. Send futurist community news to AAI Foresight consulting editor Cindy Wagner, at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+<h2>Highlights from the AAI Foresight Blog</h2>
+<p><b><a href="http://www.aaiforesight.com/blog/blockchain-technologies-not-one-trick-pony" target="_&quot;blank&quot;">Blockchain Technologies: Not a One-Trick Pony</a></b><br />
+(excerpt)</p>
+<p><b>By Randall Mayes</b></p>
+<p>As a futurist, if you have scanned “blockchain,” you most likely have learned about the volatile value of Bitcoin and that top banker Jamie Dimon and top investor Warren Buffett are critical of it. Buffett admits he has been wrong before, and Dimon apparently has shifted from fast thinking (emotional) to slow thinking (rational updater). …</p>
+<p>What do we actually know about blockchain technologies?</p>
+<p>Blockchain is a ledger that documents transactions on numerous computers in its network, and in theory this peer-to-peer structure protects your currency from hackers. Bitcoin is just one of numerous cryptocurrencies using blockchain technology. Since 2011, hacking-related losses from digital currency platforms total $1.63 billion. </p>
+<p>Blockchain is also about protecting privacy. It utilizes people called miners, who confirm transactions. Miners can see your cryptocurrency balance and what you have transacted, similar to a banker viewing your bank account. The process of mining requires lots of electricity. One study estimates that Bitcoin will account for 0.5 percent of the world’s electricity demand by the end of 2018. This is roughly equivalent to the energy needs of Austria, with a population of 9 million people.</p>
+<p>Governments around the world have had a wide range of reactions to this phenomenon. Some authoritarian governments have banned it outright. In contrast, Dubai wants its government to fully utilize blockchain by 2020. While the U.S. government has not yet begun to intervene, it’s unclear how the IRS and law enforcement would adapt to this new economic infrastructure.<i> [<a href="http://www.aaiforesight.com/blog/blockchain-technologies-not-one-trick-pony" target="_&quot;blank&quot;">Read more</a>]</i> </p>
+<p><b>Randall Mayes</b> is a technology analyst and author. Contact him at <a href="mailto:randy.mayes@duke.edu">randy.mayes@duke.edu</a>. This article is based on research for a new book, <i>Always in Beta: A Handbook for the Fourth Industrial Revolution,</i> where it is discussed in more detail. </p>
+<p><a href="http://www.aaiforesight.com/blog/telling-stories-data" target="_&quot;blank&quot;"><b>Review: Telling Stories with Data</b></a><br />
+(excerpt)</p>
+<p><b>By Timothy C. Mack</b></p>
+<p>Published in <i>Futures,</i> the article “<a href="https://www.sciencedirect.com/science/article/pii/S001632871630297X" target="_&quot;blank&quot;">From data analysis to storytelling in scenario building</a>” by Javier Carbonell, Antonio Sánchez-Esguevillas, and Belén Carro describes scenario building as an important method that companies use to understand and communicate strategies concerning the future. …</p>
+<p>Following a short history of the origins of scenario building, the authors determine that there is a lack of consensus about typologies and terminologies and question the utility of that foresight tool in its present state, arising in part because of the “under-theorized” nature of scenarios. Accordingly, they observe a clear difference between the analytic approach of research and the narrative approach of developing persuasive storytelling. In summary, by using two “different types of information,” there will be a resulting “loss of information” between the two stages (called herein a <i>transformational information reduction).</i></p>
+<p>Noting that a range of techniques and practices exist, where elements may be mixed or interact in varying ways along the process of scenario building, the authors helpfully propose that, in their article, the two phases of research and narrative will be artificially separated in order to “facilitate the analysis.” This seems somewhat of a contrast to a number of scenario-building strategies, where the research, analysis, and scenario design and writing remain interactive throughout the process, from beginning to end. <i>[<a href="http://www.aaiforesight.com/blog/telling-stories-data" target="_&quot;blank&quot;">Read more</a>]</i></p>
+<p><b>Timothy C. Mack</b> is managing principal of AAI Foresight Inc. Contact him at <a href="mailto:tcmack333@gmail.com">tcmack333@gmail.com</a>.</p>
+<h2>Call for Futurist Participation, Contributions</h2>
+<p><b>The Millennium Project</b> is seeking futurists to participate in a Real-Time Delphi rating the <a href="http://www.millennium-project.org/future-work-technology-2050-global-scenarios/" target="_&quot;blank&quot;">three scenarios</a> produced in its series of international workshops on work and technology in 2050. The goal of the workshops and scenarios is to understand the changing dynamics of work and technology as we approach 2050 and to ensure an outcome that is “as beneficial for all as possible.” To participate, go to <a href="https://themp.org/rtd/educationlearning_worktech_2050/">https://themp.org/rtd/educationlearning_worktech_2050/</a>. Sign in or create a password, answer the four demographic questions, then rate the Delphi’s 20 items. You can return as many times as you like before the cut-off date, <b>August 15.</b></p>
+<p><b>Fast Future Publishing</b> invites chapter proposals for its new book, <i>The Many Futures of Education and Learning.</i> The publishers seek proposals about how learning and education might play out in the future, covering “ a diverse set of trends, new ideas, and radical perspectives on the future of learning and education at every level.” Contributors may submit either a 500-word thought piece or a 200-word synopsis for a larger book chapter of 2,000 words. The deadline for submissions is <b>August 31.</b> Learn more at <a href="http://fastfuturepublishing.com/main/contact-us-2/call-for-contributors-the-many-futures-of-education-and-learning/" target="_&quot;blank&quot;">Fast Future Publishing</a>. </p>
+<h2>Honors and Milestones: Imperial Consulting at 50</h2>
+<p><b>Edward E. Gordon</b> founded the <a href="http://www.imperialcorp.com" target="_&quot;blank&quot;">Imperial Consulting Corporation</a> in 1968 as an educational services consultancy, which evolved into business training and talent development. </p>
+<p>Gordon now publishes a newsletter, <i>The Gordon Report,</i> in addition to providing consulting services to more than 300 businesses, government agencies, educational institutions, and nonprofit organizations across and delivering more than 2,000 conference presentations. Gordon’s book <i>Future Jobs: Solving the Employment and Skills Crisis</i> (Praeger, 2013) won an Independent Publishers award and is now available in an updated 2018 paperback edition. Learn more at <a href="http://www.imperialcorp.com/" target="_&quot;blank&quot;">Imperial Consulting Corporation</a>.  </p>
+<h2>Foresight Signals Poll: Military Space Force</h2>
+<p>In the July 2018 issue of <a href="http://www.aaiforesight.com/newsletter/military-space-force-work-2050-shakespeare%E2%80%99s-foresight-and-more" target="_&quot;blank&quot;"><i>Foresight Signals</i></a> we asked, “Should Congress authorize the creation and funding of a U.S. Space Force?” We received the following feedback:</p>
+<p>“Absolutely NOT! The last thing our country ... or the world ... needs is another general or military organization! What we should have is a Secretary of the Future. A person independent of the political structure. Someone committed to the common good. Someone who can gather persons around rather than polarize them. Terrestrial and extra terrestrial alike!” —<b>Peter F. Eder</b></p>
+<p>“I VOTE YES ON SPACE FORCE” —<b>David McKinley</b></p>
+<p>“Dangerous idea. And against international treaties. Can only lead to near-space full of junk and useless to everyone.” —<b>Stephen Troutman</b></p>
+<p>To continue the conversation, feel free to submit comments to the editor at <a href="mailto:CynthiaGWagner@gmail.com">CynthiaGWagner@gmail.com</a>.</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

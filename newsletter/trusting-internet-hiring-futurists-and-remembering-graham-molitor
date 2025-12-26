@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="trusting-internet-hiring-futurists-and-remembering-graham-molitor" />
+<link rel="shortlink" href="../node/95" />
+  <title>Trusting the Internet, Hiring Futurists, and Remembering Graham Molitor | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/trusting-internet-hiring-futurists-and-remembering-graham-molitor":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-95 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="trusting-internet-hiring-futurists-and-remembering-graham-molitor#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="trusting-internet-hiring-futurists-and-remembering-graham-molitor" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-uk1vxEpPOkKM1obSnBfIf2MQusqCfYUyKhCuBmB9t9Y" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Trusting the Internet, Hiring Futurists, and Remembering Graham Molitor</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Trusting the Internet, Hiring Futurists, and Remembering Graham Molitor</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-95 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/trusting-internet-hiring-futurists-and-remembering-graham-molitor" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Trusting the Internet, Hiring Futurists, and Remembering Graham Molitor" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 3,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 11</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-09-08T00:00:00-04:00">September 8, 2017</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Hot Topic: Online Trust</h2>
+<p>In its latest report on the Internet and Technology, the <a href="http://www.pewresearch.org/" target="_blank">Pew Research Center</a> examined trends in the public’s trust of the Internet. According to the experts participating in the research, the public will continue to rely on the Internet despite skepticism about its reliability and concerns for privacy and security.</p>
+<p>“Strengthened trust is my hope, not a prediction,” wrote Dutch futurist <strong>Marcel Bullinga.</strong> But MIT computer science professor <strong>David Karger</strong> urged a “healthy distrust” of the Internet and encouraged “the public be more vigilant in working to understand the risks and limitations of emerging technologies,” Pew reports.</p>
+<p>Futurist <strong>Amy Webb,</strong> CEO of the Future Today Institute, observed a strikingly presentist attitude among the public: “Our trust in our devices tends to stay constant until a catastrophic event—like our accounts being hacked. … And even then, our concern lasts only as long as we’re dealing with the immediate consequences, such as having to change our passwords or canceling our credit cards.”</p>
+<p>Focusing on how Internet trust issues affect economies differently around the world, <strong>Timothy C. Mack,</strong> managing principal at AAI Foresight, wrote, “Africa and, in some lesser part, South America, will see a great deal of growth in the economic arena, especially where previous economic structures were rudimentary. We have already seen the growth of political and civic life (especially in South Korea) through smartphones, etc., and health care is now ramping up as well, especially in Africa. Cultural life, not so much. And of course the growth of language-training apps is just the first step to regional or even global digital-education systems. The trust issue will have to be resolved in the arena of ‘hard knocks’ and is likely to be quite brutal before viable solutions are established.”</p>
+<p>Read <a href="http://www.pewinternet.org/2017/08/10/the-fate-of-online-trust-in-the-next-decade/" target="_blank">“The Fate of Online Trust in the Next Decade”</a> by Lee Rainie and Janna Anderson, Pew Research Center, Internet and Technology (posted August 10, 2017).</p>
+
+<h2>Call for Papers: Africa Futures</h2>
+<p>The <a href="http://jfsdigital.org/" target="_blank"><em>Journal of Futures Studies</em></a> has issued a call for papers for a special issue “to provide critical thinking about the futures of Africa that can support a range of new development strategies.” The editors are seeking both refereed articles (7,000-word limit) to provide in-depth treatment and research and essays (3,500-word limit) to provide reflection and new ideas. The deadline for abstracts is October 15. Send abstracts and/or inquiries to Dr. <a href="mailto:gatune@gmail.com"><strong>Julius Gatune,</strong></a> cc Dr. <a href="mailto:jose@actionforesight.net"><strong>José Ramos.</strong></a></p>
+
+<h2>Mark Your Calendar for Idea Festival</h2>
+<p><strong>September 26-28: <a href="http://www.ideafestival.com/" target="_blank">Idea Festival 2017,</a></strong> a “celebration for creative thinkers and the intellectually curious,” takes over the Kentucky Center for the Performing Arts in downtown Louisville. Led by <strong>Nat Irvin II,</strong> professor at the University of Louisville College of Business, the festival will include presentations by CNN’s <strong>John King,</strong> play expert <strong>Peter Gray,</strong> social entrepreneur <strong>Anshu Gupta,</strong> musician psychiatrist <strong>Richard Kogan,</strong> and <em>Wired</em>’s <strong>Emily Dreyfuss.</strong> Visit <a href="http://www.ideafestival.com/" target="_blank">Idea Festival.</a></p>
+
+<h2>Honors, Moves, and Milestones</h2>
+<p><strong>2017 Most Significant Futures Works</strong> awards were presented at the <a href="http://apf.org" target="_blank">Association of Professional Futurists’</a> annual meeting in July:</p>
+<ul>
+<li>In Category 1, for advancing the methodology and practice of foresight and futures studies, awards went to <strong>Stuart Candy</strong> and <strong>Jake Dunagan</strong> for their article “Designing an Experiential Scenario: The People Who Vanished” in <em>Futures</em> (February 2017) and <strong>Andy Hines</strong> for his article “Let’s Talk about Success: A Proposed Foresight Outcomes Framework for Organizational Futurists” in <em>Journal of Futures Studies</em> (June 2016).</li>
+<li>In Category 2, for analyzing a significant future issue, APF awarded the principals of Disruptive Futures: Nuclear Weapons Summit, held December 4–7, 2016, in Santa Fe, New Mexico: <strong>Cyndi Conn,</strong> executive director of Creative Santa Fe; <strong>Erika Gregory,</strong> Managing Director of N Square Collaborative; and <strong>Deborah G. Rosenblum,</strong> executive vice president of Nuclear Threat Initiative. <a href="https://apf.org/msfw/" target="_blank">Learn more about APF’s Most Significant Futures Works.</a></li>
+</ul>
+<p><a href="https://www.linkedin.com/in/jaygary/" target="_blank"><strong>Jay Gary,</strong></a> associate professor of leadership and assistant dean of online programs at Oral Roberts University, has accepted an invitation to join the editorial board of the <a href="http://jfsdigital.org/" target="_blank"><em>Journal of Futures Studies.</em></a> </p>
+<p><strong>Peter F. Eder,</strong> longtime contributing editor to <em>The Futurist</em> magazine, has been selected to receive the 2017 Andrus Award for Community Service from AARP Connecticut “for his outstanding volunteerism and commitment to the community.” Eder’s volunteer work has focused on developing  home- and community-based elder programs. The award will be presented at a local ceremony in October. Read <a href="http://www.darientimes.com/89418/peter-eder-of-darien-to-receive-highest-volunteer-honor-from-aarp-connecticut/" target="_blank">“Peter Eder of Darien to receive highest volunteer honor from AARP Connecticut,”</a> <em>Darien Times</em> (August 16, 2017).</p>
+<p>Finally, a very Happy Birthday to World Future Society founder <strong>Edward Cornish,</strong> who turned 90 on August 31.</p>
+
+<h2>Help Wanted: Futurists for Hasbro, Coca-Cola, and New York City</h2>
+<p><strong>Designer, Futuring—Games:</strong> Hasbro (Providence, Rhode Island) has created a small task force at the Global Design &amp; Development Organization to inspire future thinking and concept work throughout the company, identifying and acting on trends and insights. The position calls for a Games Imbedded Innovator “responsible for inventing viable, strategic, and game-changing play concepts.” <a href="https://jobs.hasbro.com/job/Providence-Designer%2C-Futuring-Games-Job-RI-02901/426451700/" target="_blank">Learn more or apply</a> </p>
+<p><strong>VEB Marketing Strategist:</strong> Coca-Cola North America’s (Atlanta) Venturing and Emerging Brands unit seeks a futurist who will serve “both as a marketing expert and a voice of the future. Candidates should be highly strategic and analytic, with a proven experience of building brands and businesses.” <a href="http://careers.peopleclick.com/careerscp/client_cocacola/external/jobDetails.do?functionName=getJobDetail&amp;jobPostId=105067&amp;localeCode=en-us" target="_blank">Learn more or apply</a> </p>
+<p><strong>Senior Futurist:</strong> Office of the Chief Technology Officer, City of New York, seeks a senior futurist “to create visions of plausible futures and articulate their applicability and actionability for New York City,” working with the Industry Engagement Lab and with external partners in industry, technology, start-ups, governmental, and academia, collecting insights, identifying patterns, and helping develop strategies for key projects and initiatives. <a href="https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=299084&amp;PostingSeq=1" target="_blank">Learn more or apply</a> </p>
+
+<h2>In Memoriam: Graham T.T. Molitor</h2>
+<p>We were saddened to learn recently of the death on June 22 of pioneering futures analyst <strong>Graham T.T. (Thomas Tate) Molitor.</strong> He was 83. His long association with the World Future Society included serving as its vice president and legal counsel, as well as a frequent conference speaker and contributor to the association’s publications and research projects.</p>
+<p>Molitor was a lawyer, political scientist, and consultant by profession, serving the public, private, and nonprofit sectors. Considered an encyclopedic source—and deft analyst—of data relating to trends, he drew upon his data knowledge and many futurist connections as chair of the editorial board of the <em>Encyclopedia of the Future</em>—a monumental five-year project that was published in two volumes by Macmillan Library Reference in 1996 (co-edited by Molitor with George Thomas Kurian).</p>
+<p>Molitor’s work in politics included conducting opposition research for Nelson Rockefeller’s two presidential campaigns in 1963–64 and 1968. He then worked with the White House in the 1970s, first serving as research director for the White House Conference on the Industrial World Ahead and then joining the White House Committee on Social Indicators. He also worked as a legal counsel in the U.S. Congress and served with the assistant chief of staff at the Pentagon.</p>
+<p>This work in the public sector led Molitor to perceive how different jurisdictions arrive at their decision making, which begins with individuals’ ideas about what should be done, and to note that change comes to different places at different times. “This observation led him to the idea of <em>forerunner jurisdictions</em>—nations or areas [such as Sweden and California] that tend to be on the leading edge of change—as well as <em>laggard jurisdictions,</em> which typically cling to old ways,” wrote <em>Futurist</em> editor Edward Cornish (July-August 2011).</p>
+<p>Among Molitor’s most notable contributions to <em>The Futurist</em> was the groundbreaking article “The Next 1,000 Years: The ‘Big Five’ Engines of Economic Growth” (December 1999), in which he outlined the dominant forces on our horizon, including the Life Sciences Age beginning in 2100, the Megamaterials Age (2200–2300), the New Atomic Age (2100–2500), and a New Space Age (2500–3000). His very-long-term perspective led him to conclude that “the human condition has steadily, incrementally improved.”</p>
+<p>“He was one of the larger than life first-generation futurists, who built his craft on forecasting from the rigor of trend analysis, from bio-tech, to consumer goods, to food and nutrition, to government services,” says <strong>Jay Gary,</strong> adding that Molitor “donated his library to the Regent [University] foresight graduate program.”</p>
+<p>Molitor is survived by his wife, Carlotta. Friends, colleagues, and others feeling Graham Molitor’s influence have offered tributes on the <a href="https://www.facebook.com/sohail.inayatullah" target="_blank">Facebook page of <strong>Sohail Inayatullah,</strong></a> who first reported the news of Molitor’s death. Read more at <a href="https://www.facebook.com/sohail.inayatullah/posts/10155047497428195?pnref=story" target="_blank">Inayatullah’s post for August 16, 2017.</a></p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

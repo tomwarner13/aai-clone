@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="signals-living-smart-glass-houses-and-more" />
+<link rel="shortlink" href="https://www.aaiforesight.com/node/33" />
+  <title> Signals: Living in (Smart) Glass Houses... and more | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/signals-living-smart-glass-houses-and-more":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-33 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="signals-living-smart-glass-houses-and-more#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="signals-living-smart-glass-houses-and-more" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-KXP7XZ4RaugUVujmAHsEkhWFGGZClJAm8ylfdGWJCpo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li> Signals: Living in (Smart) Glass Houses... and more</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title"> Signals: Living in (Smart) Glass Houses... and more</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/signals-living-smart-glass-houses-and-more" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-33 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/signals-living-smart-glass-houses-and-more" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content=" Signals: Living in (Smart) Glass Houses... and more" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 1,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 12</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-04-16T00:00:00-04:00">April 16, 2015</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="teaser-hide">
+<h2>Inside Foresight Signals</h2>
+<ul>
+<li><a href="signals-living-smart-glass-houses-and-more#glasshouse">Living in a (Smart) Glass House</a></li>
+<li><a href="signals-living-smart-glass-houses-and-more#natural">Food Regulators Urged to Define “Natural”</a></li>
+<li><a href="signals-living-smart-glass-houses-and-more#marketing">Marketing for a Better World: Report from Timothy C. Mack</a></li>
+<li><a href="signals-living-smart-glass-houses-and-more#memoriam">In Memoriam: Kenneth W. Harris</a></li>
+</ul>
+</div>
+<h2 id="glasshouse">Living in a (Smart) Glass House</h2>
+<p>Colder winters and hotter summers are why living and working in glass-fronted buildings is not smart. These beautiful but energy-inefficient designs are costly for owners and waste tremendous amounts of energy.</p>
+<!--break--><p>
+<img class="img-right" src="http://aaiforesight.com/sites/default/files/users/1/vol1_12/glasshouse.jpg" />Buildings account for a huge portion of overall energy consumption—some 40 percent in Germany, for instance. Fraunhofer Institute researchers in Dresden are now working with students and professors at Weissensee School of Art in Berlin to develop better materials for use in glass façades.</p>
+<p>The team is constructing a demonstration model of thermally reactive fabric blinds based on a concept by design student <strong>Bára Finnsdóttir.</strong> The design consists of a matrix of 72 flowerlike fabric components with shape-memory actuators integrated into them. As sunlight hits the façade, the pieces move noiselessly to shield the building from heat.</p>
+<p>The researchers hope to have a commercially available system by mid-2017. Looking beyond smarter façades, they envision even better energy capabilities for the concept.</p>
+<p>“It might be possible to store solar thermal energy and then release it when needed to heat the interior, for instance at night,” says <strong>André Bucht,</strong> department head at Fraunhofer IWU. “Another idea is to coat the flower fabric components with malleable, organic solar cells in order to generate electricity that can be used within the building.”</p>
+<p><i>Source:</i> <a href="http://www.fraunhofer.de/en/press/research-news/2015/april/saving-energy-with-smart-facades.html">Fraunhofer IWU</a>. <i>Image:</i> © Bára Finnsdóttir, Weissensee School of Art Berlin.</p>
+<p><i>Signals:</i> architecture, design, energy</p>
+<h2 id="natural">Food Regulators Urged to Define “Natural”</h2>
+<p>Food producers, consumers, and regulators all want to know what’s natural, and no one seems to agree. “Artificial” ingredients are a little easier to understand, such as added colors and flavors, but these additives cast suspicions on many food products that may actually be harmless.</p>
+<p>With more genetically modified organisms creeping into the food supply, marketers have been put on the defensive to reassure consumers and regulators. Consumers have resorted to lawsuits to demand complete and accurate information on the stuff they stuff into their mouths.</p>
+<p>“Though natural food lawsuits to date have disappointed, they encourage marketers to drop the claim of being natural or reformulate their products to avoid future lawsuits,” writes <strong>Ross D. Petty</strong> of Babson College in the <i>Journal of Public Policy &amp; Marketing.</i> “Perhaps this will persuade the [Food and Drug Administration] or [Federal Trade Commission] to consider creating, finally, a definition for the meaning of natural.”</p>
+<p><i>Source:</i> <a href="https://www.ama.org/">American Marketing Association</a></p>
+<p><i>Reference:</i> Ross D. Petty, “‘Natural’ Claims in Food Advertising: Policy Implications of Filling the Regulatory Void with Consumer Class Action Lawsuits,” <i>Journal of Public Policy &amp; Marketing</i> (In Press). <a href="http://dx.doi.org/10.1509/jppm.14.147">DOI:10.1509/jppm.14.147</a> </p>
+<p><i>Signals:</i> consumers, food, GMO, marketing, regulation</p>
+<h2 id="marketing">Marketing for a Better World: Report from Timothy C. Mack</h2>
+<p><img class="img-right" src="http://aaiforesight.com/sites/default/files/users/1/vol1_12/brain.jpg" width="300px" />Psychology, behavioral economics, and even neuroscience are coming together with digital technology to change the mechanics of human decision making. The goal is to use feedback on consumers’ emotional reactions and to apply conditioning techniques (rewards) to promote the habits of pleasurable actions. Behavior engineering is flowering in such developments as <a href="http://www.nirandfar.com/about"><strong>Nir Eyal</strong></a>’s Habit Hook, driven by rapid advances in neuroscience and the emergence of <i>continuous shopping.</i></p>
+<p>But this approach isn’t just about reinforcing habitual consumption; it could also build habits that are actually good for you, such as encouraging more physical activity, getting more rest each night, or being more frugal. Nonprofit organizations could also use such benign behavior building techniques, benefiting from greater sharing of personal information and higher, more reactive transmissions speeds worldwide. <i><a href="../blog/marketing-better-world">Read more</a>.</i></p>
+<p><strong>Timothy C. Mack</strong> is managing principal of AAI Foresight Inc. This report is adapted from the Foresight Signals <a href="../blog/marketing-better-world">blog</a>. <i>Download</i> his Foresight Report “<a href="http://www.aaiforesight.com/sites/default/files/reports/Future_of_Marketing.pdf">The Future of Retail Marketing</a>” (Spring 2015).</p>
+<p><i>Signals:</i> addiction, AI, marketing, neuroscience, psychology</p>
+<h2 id="memoriam">In Memoriam: Kenneth W. Harris</h2>
+<p>The foresight community was saddened to learn of the death earlier this year of <strong>Ken Harris</strong>, who served the World Future Society and its National Capital chapter for many years. He was also a field editor on transportation for TechCast Global and a member of the Association for Professional Futurists and the Lifeboat Foundation, in addition to his work as a consultant for the Consilience Group.</p>
+<p><img class="img-right" src="http://aaiforesight.com/sites/default/files/users/1/vol1_12/kenharris.jpg" />Ken was an avid sports and fitness fan, enjoying golf, biking, weight training, and numerous other activities, about which he wrote eloquently for <i>The Futurist</i>.</p>
+<p>“His interests and expertise ranged from transportation to the sports industry to health, and worked on fundraising and outreach programs,” said AAI Foresight managing consultant <strong>Tim Mack.</strong> “He was diligent, reliable and indefatigable in his support of the interests of the World Future Society, and he will be greatly missed.”</p>
+<p>Ken devoted more than 30 years to federal civil service, working principally at the Federal Aviation Administration. His work in helping the FAA navigate the future of aviation and the economy segued to his post-federal consulting and volunteer work, including leading book discussion groups.</p>
+<p>“Ken Harris was among the most dedicated World Future Society volunteers relentlessly advocating for and actively supporting the activities of the futures community,” said former board chair <strong>Ken Hunter</strong>. “He worked tirelessly to support the WFS chapters and people around the world developing local groups. He also served on many special project teams always contributing time, talent and professionalism to enterprise. It was a pleasure serving with Ken over the decades.”</p>
+<p>Ken lived in Bethesda, Maryland, with his wife, <strong>Carolyn.</strong> At the time of this writing, a date for memorial services had not been set. Condolences may be posted in the comments here or emailed to AAI Foresight and will be forwarded to Carolyn Harris.</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="global-think-tank-ratings-plus-special-report-robots-work" />
+<link rel="shortlink" href="../node/88" />
+  <title>Global Think Tank Ratings, plus Special Report on Robots at Work | AAI Foresight</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
+<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
+<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/newsletter\/global-think-tank-ratings-plus-special-report-robots-work":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-88 node-type-newsletter section-newsletter sidebar" >
+      <p id="skip-link">
+      <a href="global-think-tank-ratings-plus-special-report-robots-work#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="headerbox">
+  <header class="header" id="header" role="banner">
+
+    <div id="search-form-container">
+    <div class="block">
+    <form action="global-think-tank-ratings-plus-special-report-robots-work" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-oCqHuKxlU78Aa5CWTUuLpDW9uDbRPKRdgfucWmV6vMA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+    
+        <div id="identity">
+      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+        </div>
+
+          <div class="header__name-and-slogan" id="name-and-slogan">
+        
+                  <div class="header__site-slogan" id="site-slogan">ROADMAPS TO STRATEGIC FORESIGHT</div>
+              </div>
+    
+  </header>
+</div>
+
+<div id="page">
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="../publications">Publications</a> › </li><li><a href="../newsletter">Foresight Signals Newsletter</a> › </li><li>Global Think Tank Ratings, plus Special Report on Robots at Work</li></ol></nav>        <div class="region region-highlighted">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p><img src="../sites/default/files/users/1/newsletterlogo.jpg" style="width: 65%;" /></p>
+
+</div>
+  </div>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Global Think Tank Ratings, plus Special Report on Robots at Work</h1>
+                                          
+<div id="block-sharebar-sharebar" class="block block-sharebar first odd">
+
+      
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/newsletter/global-think-tank-ratings-plus-special-report-robots-work" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+</div>
+
+
+<article class="node-88 node node-newsletter node-promoted view-mode-full clearfix" about="/newsletter/global-think-tank-ratings-plus-special-report-robots-work" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Global Think Tank Ratings, plus Special Report on Robots at Work" class="rdf-meta element-hidden"></span>
+          </header>
+  
+  <div class="field field-name-field-volume field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Volume 3,</div></div></div><div class="field field-name-field-number field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Number 4</div></div></div><div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-02-17T00:00:00-05:00">February 17, 2017</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>New No. 1 Think Tank</h1>
+<p>The U.K.’s <a href="https://www.chathamhouse.org/" target="_blank"><strong>Chatham House</strong></a> has been crowned the 2016 Think Tank of the Year, displacing the Washington, D.C., based <a href="https://www.brookings.edu/" target="_blank"><strong>Brookings Institution</strong></a> as the world’s top-ranked think tank on the <a href="http://repository.upenn.edu/think_tanks/" target="_blank"><strong>Global Go To Think Tank Index.</strong></a> Chatham House also ranked second for the best new idea or paradigm from a think tank, second in foreign policy and international affairs, second in international development, fifth in defense and national security research, eighth in environment policy, eighth in global health policy, ninth in international economics, and 77th in domestic economic policy.</p>
+<p>The annual index, produced by University of Pennsylvania’s Think Tanks and Civil Societies Program, has come to be known as an “insider’s guide to the global marketplace of ideas,” says program director <strong>James G. McGann,</strong> senior lecturer in international studies at the University of Pennsylvania. The index also ranks institutions by region, by subject area, and by type of affiliation, as well as noting special achievements such as most innovative policy proposal and best use of media.</p>
+<p>Future-oriented organizations recognized in the 2016 Index include (in alphabetical order):</p>
+<p><a href="https://www.brookings.edu/" target="_blank"><strong>Brookings Institution</strong></a> remains the top-ranked think tank in the United States, as well as first in domestic economic policy, first in foreign policy and international affairs, second in social policy, second in education policy, third for best new idea or paradigm, third in international development, third in international economics, fourth in defense and national security research, fourth in transparency and good governance, fourth in global health policy, fourth in domestic health policy, seventh in environment policy, 18th in energy and resource policy, 44th in science and technology.</p>
+<p><a href="https://itif.org/" target="_blank"><strong>Information Technology &amp; Innovation Foundation</strong></a> is 58th in the top U.S. think tanks and second in science and technology.</p>
+<p><a href="https://hudson.org/" target="_blank"><strong>Hudson Institute</strong></a> is 107th top think tank worldwide and 23rd in the United States, 34th in defense and national security, 35th in foreign policy and international affairs, 58th in international development, and 96th in domestic economic policy.</p>
+<p><a href="http://millennium-project.org/" target="_blank"><strong>The Millennium Project</strong></a> ranks 21st for best new idea or paradigm developed by a think tank.</p>
+<p><a href="http://www.pewresearch.org/" target="_blank"><strong>Pew Research Center</strong></a> is 19th in the top U.S. think tanks, as well as ninth for best use of the Internet, 19th for best use of print or electronic media, and 82nd for best use of social media and networks.</p>
+<p><a href="http://www.rand.org/" target="_blank"><strong>RAND Corporation</strong></a> ranks sixth in the United States and seventh worldwide, second in defense and national security, third in domestic health policy, fourth in education policy, fifth in global health policy, fifth in social policy, sixth in science and technology, seventh in energy and resource, eighth in international economics, 11th in foreign policy and international affairs, 13th in domestic economic policy, 24th in international development, and 30th in environment policy. RAND also took the top spot among think tanks with outstanding policy-oriented research programs and for best quality assurance and integrity policies and procedures.</p>
+<p><a href="http://www.rff.org/" target="_blank"><strong>Resources for the Future</strong></a> is 27th in the United States, 15th in energy and resource policy, 16th in environment policy, and 18th for best new idea or paradigm.</p>
+<p><a href="https://www.wilsoncenter.org/" target="_blank"><strong>Woodrow Wilson International Center for Scholars</strong></a> is eighth worldwide and fifth in the United States, fifth in international development, eighth in foreign policy and international affairs, 30th in defense and national security, 30th in global health policy, 36th for best new idea or paradigm, and 81st in international economics. The Index also named the center No. 3 of think tanks to watch in 2017.</p>
+<p><a href="http://www.wri.org/" target="_blank"><strong>World Resources Institute</strong></a> ranks 154th worldwide and 16th in the United States, third in environment policy, fourth in energy and resource policy, and 54th for best new idea or paradigm.</p>
+<p><a href="http://www.worldwatch.org/" target="_blank"><strong>Worldwatch Institute</strong></a> is 40th in the United States and sixth in environment policy.</p>
+<p><em>Comment:</em> Notably for foresight work, three of the 10 think tanks AAI Foresight has tracked over the last three years are the top three on the Index’s list of best transdisciplinary think tanks: Wilson Center, RAND, and Brookings; WRI comes in at number nine. These 10 are by no means the only think tanks doing foresight work, but they are among those we have long applauded for applying futures methodologies in significantly useful ways. –<em>CGW</em></p>
+<p>Source: <a href="http://repository.upenn.edu/think_tanks/12/" target="_blank"><em>2016 Global Go To Think Tank Index Report</em></a> by James G. McGann, Think Tanks and Civil Societies Program (TTCSP).</p>
+<h1>Special Report: The Robots Are Coming—to Make You Creative</h1>
+<h2>By William Halal, Owen Davies, and Hassan Syed</h2>
+<p>Futurists have been forecasting the emergence and impacts of an artificial intelligence (AI) revolution for many years, so it is satisfying to see that AI is really starting to transform industries, entire economic systems, and society itself.</p>
+<p>But there is also a palpable fear of robots coming to take away jobs. Studies conclude that roughly half of present jobs, including professional work, could be lost to automation, possibly leading to mass unemployment and social upheavals.</p>
+<p>TechCast recently drew from the collective intelligence of more than 50 experts for a study on AI and work. The study suggests automation is likely to eliminate about 20 percent of routine jobs by 2030, but that the loss is likely to be compensated by about 10 percent of workers gaining a guaranteed minimum income and another 10 percent finding new jobs in creative work. We conclude that a combination of government support and innovative enterprise could absorb this AI threat and turn it into a new domain of creativity and understanding.</p>
+<h3>Results and Conclusions: Muddling Through</h3>
+<p>Our survey of experts shows that a majority believe a reasonable path can be found through this difficult transition. We call this the Muddling Through Scenario, a middle scenario in which adaptation to the new technologies occurs organically through a combination of market forces that produce new creative jobs and government support that offers guaranteed benefits. Unemployment is contained at tolerable levels.</p>
+<p>Participants in our survey (N=53) anticipate the following changes in the distribution of labor in OECD nations between 2012 and 2030:</p>
+<ul>
+<li>Complex manual labor: down from 19% (2012) to 18% (2030).</li>
+<li>Routine labor: down from 35% to 17%.</li>
+<li>Service and knowledge work: down from 34% to 31%.</li>
+<li>Creative work: up from 4% to 15%.</li>
+<li>Guaranteed minimum income: up from 0% to 8%.</li>
+<li>Unemployment: up from 8% to 11%.</li>
+</ul>
+<h3>The Possibility of a More Creative Society</h3>
+<p>This is a modest study, and many complex issues are involved, yet we think this forecast provides useful insights into how the AI issue can be resolved.</p>
+<p>TechCast experts collectively judge that humanity will find its way safely through the coming AI/robotics crisis as the world reaches a more fully automated stage of development by about 2030. The adoption of a guaranteed minimum income and the growth of new creative jobs are likely to keep unemployment contained at 10 percent or so, which would be bad but not a major crisis. Furthermore, the widespread use of AI should increase the level of knowledge and intelligence to unprecedented levels, fostering a society of creative change and understanding.</p>
+<p>The key is to recognize that AI can automate routine knowledge work, but there exists a huge, unexplored economic domain beyond knowledge: creativity, entrepreneurship, vision, collaboration, diplomacy, marketing, supervision, and other higher-order functions that are uniquely human. Advanced AI may be able to solve tough problems, but it cannot provide vision, purpose, imagination, values, wisdom, and other capabilities that are essential for sound leadership and tough choices.</p>
+<p>This study indicates a general belief that intelligent machines and virtual assistants are likely to take over routine service and knowledge tasks. The technology will remain limited, however, and people will always want a real person to provide them human contact and to handle tough issues. Staff is growing rapidly in universities, hospitals, research institutes, and other advanced settings for these reasons. The service and knowledge work sector could grow dramatically, to 50 or 60 percent of the economy by 2030.</p>
+<p>In the end, rather than diminishing people, the net effect of AI may be to enhance the value of these higher-order talents that are a unique gift to humanity. This conclusion may seem contrary to many who are convinced a disaster looms ahead. We respectfully suggest that, yes, the robots are coming to take your jobs, but more creative work and better support can also foster a more innovative, prosperous, and thoughtful civilization.</p>
+<p><strong>William Halal</strong> is professor emeritus at George Washington University and founder of TechCast Global. Reach him at <a href="mailto:halal@gwu.edu">halal@gwu.edu</a> or <a href="https://www.aaiforesight.com/newsletter/william.halal@techcastglobal.com">william.halal@techcastglobal.com</a>. <strong>Owen Davies</strong> is executive editor of TechCast Global. <strong>Hassan Syed</strong> is CEO of Bir Ventures and partner in TechCast Global. A longer version of this article will be published by <em>Foresight: The journal of future studies, strategic thinking and policy.</em></p>
+<p>TechCast Global (<a href="http://www.TechCastGlobal.com" target="_blank">www.TechCastGlobal.com</a>) forecasts emerging technologies, social trends, and wild cards to cover the entire strategic landscape for planners and decision makers. Its research method uses collective intelligence to pool background data and the knowledge and judgment of 150 experts worldwide. This work is validated for accuracy, showing an average error band of approximately +1/-3 years at 10 years out. For this study, we asked our thought-leader experts to forecast the future distribution of jobs across the occupational spectrum. The survey data can be accessed at <a href="https://www.techcastglobal.com/techcast-publication/ai-and-future-jobs/?p_id=11" target="_blank">TechCast Global</a>, and details of the complete study can be found in our forthcoming article in the journal <em>Foresight.</em></p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <p>Send us your signals! News about your work and other tips are welcome, as is feedback on <em>Foresight Signals.</em> Contact <a href="mailto:CynthiaGWagner@gmail.com">Cynthia G. Wagner,</a> consulting editor.  </p>
+<p>Feel free to share <em>Foresight Signals</em> with your networks and to submit any stories, tips, or “signals” of trends emerging on the horizon that we can share with other stakeholders and the foresight community.</p>
+
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+<div id="navigation" tabindex="-1">
+
+        <div id="nav-holder" tabindex="-1" class="region region-navigation">
+    <div id="block-menu-menu-log-in-menu" class="block block-menu first odd" role="navigation">
+
+        <h2 class="block__title block-title">Log In menu</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+</ul>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+</ul></div>
+
+</div>
+  </div>
+
+</div>
+
+</div>
+
+  <div class="region region-bottom">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
+<ul>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+</ul>
+<ul class="smaller-text" style="padding-bottom:1em !important;">
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+</ul>
+
+</div>
+  </div>
+  </body>
+</html>
