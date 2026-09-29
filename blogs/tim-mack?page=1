@@ -23,10 +23,10 @@
   <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
 <script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="/misc/jquery.once.js?v=1.2"></script>
+<script src="/misc/drupal.js?sc8yrh"></script>
 <script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
 <script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
 <script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
@@ -78,13 +78,13 @@
   <div id="main">
 
     <div id="content" class="column" role="main">
-      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
                     <h1 class="page__title title" id="page-title">Tim Mack's blog</h1>
                                           
 <div id="block-sharebar-sharebar" class="block block-sharebar first odd">
 
       
-  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
 </div>
 
 
@@ -125,7 +125,7 @@
 <article class="node-135 node node-blog node-promoted node-teaser clearfix" about="/blog/generalists-foresight" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/generalists-foresight">Generalists in Foresight</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/generalists-foresight">Generalists in Foresight</a></h2>
             <span property="dc:title" content="Generalists in Foresight" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -135,14 +135,14 @@
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 1984, political scientist <a href="https://www.sas.upenn.edu/tetlock/bio" target="_&quot;blank&quot;">Philip Tetlock</a> observed at a meeting of the U.S. National Research Council’s Committee on American Soviet Relationship how contradictory many authoritative predictions the participants held on the future of the Cold War. As well, he noted their dismissal of the opinions of equally qualified colleagues on the committee.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/generalists-foresight" rel="tag" title="Generalists in Foresight">Read more<span class="element-invisible"> about Generalists in Foresight</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/generalists-foresight" rel="tag" title="Generalists in Foresight">Read more<span class="element-invisible"> about Generalists in Foresight</span></a></li>
 </ul>
   
 </article>
 <article class="node-130 node node-blog node-promoted node-teaser clearfix" about="/blog/robotics-and-recovery" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/robotics-and-recovery">Robotics and Recovery</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/robotics-and-recovery">Robotics and Recovery</a></h2>
             <span property="dc:title" content="Robotics and Recovery" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -152,7 +152,7 @@
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Robotics has gotten a bad name in some circles from too many screen scenarios and “what if” thinking about manufacturing assembly lines that has often overreached actual development. However, robotics in medicine is seeing breakthroughs in post-stroke physical therapy and post-injury rehabilitation. </p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/robotics-and-recovery" rel="tag" title="Robotics and Recovery">Read more<span class="element-invisible"> about Robotics and Recovery</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/robotics-and-recovery" rel="tag" title="Robotics and Recovery">Read more<span class="element-invisible"> about Robotics and Recovery</span></a></li>
 </ul>
   
 </article>
@@ -176,7 +176,7 @@
 <article class="node-126 node node-blog node-promoted node-teaser clearfix" about="/blog/foresight-context-evolution-utopian-thought" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/foresight-context-evolution-utopian-thought">Foresight in the Context of Evolution: Utopian Thought</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/foresight-context-evolution-utopian-thought">Foresight in the Context of Evolution: Utopian Thought</a></h2>
             <span property="dc:title" content="Foresight in the Context of Evolution: Utopian Thought" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -186,14 +186,14 @@
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Evolution and foresight are not usually considered in the same sentence, except in the area of <i>conscious evolution,</i> but both disciplines consider how things change and what forces shape that change. Classical evolution has long been seen as glacial and thus not especially relevant to humanity’s social, economic, or political dynamics. Darwin believed that natural selection was a very slow, almost imperceptible process, proceeding in evolutionary time.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/foresight-context-evolution-utopian-thought" rel="tag" title="Foresight in the Context of Evolution: Utopian Thought">Read more<span class="element-invisible"> about Foresight in the Context of Evolution: Utopian Thought</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/foresight-context-evolution-utopian-thought" rel="tag" title="Foresight in the Context of Evolution: Utopian Thought">Read more<span class="element-invisible"> about Foresight in the Context of Evolution: Utopian Thought</span></a></li>
 </ul>
   
 </article>
 <article class="node-118 node node-blog node-promoted node-teaser clearfix" about="/blog/collaborative-visioning-science-fiction-2001-and-minority-report" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/collaborative-visioning-science-fiction-2001-and-minority-report">Collaborative Visioning in Science Fiction: 2001 and Minority Report</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/collaborative-visioning-science-fiction-2001-and-minority-report">Collaborative Visioning in Science Fiction: 2001 and Minority Report</a></h2>
             <span property="dc:title" content="Collaborative Visioning in Science Fiction: 2001 and Minority Report" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -204,14 +204,14 @@
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In contrast to science fiction novels and short stories, movies have increasingly been a team effort. Accordingly, various futurists have been able to work in partnership with production staff, providing content and design advice for landmarks of science fiction. <i>2001: A Space Odyssey</i> had Arthur C. Clarke on board from the beginning, which produced a vision which continues to be quite persuasive 50 years after its release in 1968.</p>
 </div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/collaborative-visioning-science-fiction-2001-and-minority-report" rel="tag" title="Collaborative Visioning in Science Fiction: 2001 and Minority Report">Read more<span class="element-invisible"> about Collaborative Visioning in Science Fiction: 2001 and Minority Report</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/collaborative-visioning-science-fiction-2001-and-minority-report" rel="tag" title="Collaborative Visioning in Science Fiction: 2001 and Minority Report">Read more<span class="element-invisible"> about Collaborative Visioning in Science Fiction: 2001 and Minority Report</span></a></li>
 </ul>
   
 </article>
 <article class="node-114 node node-blog node-promoted node-teaser clearfix" about="/blog/telling-stories-data" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/telling-stories-data">Telling Stories with Data</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/telling-stories-data">Telling Stories with Data</a></h2>
             <span property="dc:title" content="Telling Stories with Data" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -222,7 +222,7 @@
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Organizations use scenarios to help understand a wide range of trends, but the process of moving from data collection and analysis to communication via storytelling may result in the loss of consistency and information. A review by Timothy C. Mack</p>
 </div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/telling-stories-data" rel="tag" title="Telling Stories with Data">Read more<span class="element-invisible"> about Telling Stories with Data</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/telling-stories-data" rel="tag" title="Telling Stories with Data">Read more<span class="element-invisible"> about Telling Stories with Data</span></a></li>
 </ul>
   
 </article>
@@ -247,7 +247,7 @@
 <article class="node-106 node node-blog node-promoted node-teaser clearfix" about="/blog/challenges-participatory-futures" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/challenges-participatory-futures">The Challenges of Participatory Futures</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/challenges-participatory-futures">The Challenges of Participatory Futures</a></h2>
             <span property="dc:title" content="The Challenges of Participatory Futures" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -258,7 +258,7 @@
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A futurist and Washington state resident provides an insider's view of the state's work to integrate local stakeholders' input into its visioning and planning processes.</p>
 </div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/challenges-participatory-futures" rel="tag" title="The Challenges of Participatory Futures">Read more<span class="element-invisible"> about The Challenges of Participatory Futures</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/challenges-participatory-futures" rel="tag" title="The Challenges of Participatory Futures">Read more<span class="element-invisible"> about The Challenges of Participatory Futures</span></a></li>
 </ul>
   
 </article>
@@ -270,7 +270,7 @@
 <li class="pager-item"><a title="Go to page 4" href="tim-mack?page=3">4</a></li>
 <li class="pager-next"><a title="Go to next page" href="tim-mack?page=2">next ›</a></li>
 <li class="pager-last last"><a title="Go to last page" href="tim-mack?page=3">last »</a></li>
-</ul></div>      <a href="../blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
+</ul></div>      <a href="../blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
 
     
     

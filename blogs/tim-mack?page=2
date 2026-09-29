@@ -23,10 +23,10 @@
   <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
 <script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="/misc/jquery.once.js?v=1.2"></script>
+<script src="/misc/drupal.js?sc8yrh"></script>
 <script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
 <script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
 <script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
@@ -78,20 +78,20 @@
   <div id="main">
 
     <div id="content" class="column" role="main">
-      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="https://www.aaiforesight.com/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
                     <h1 class="page__title title" id="page-title">Tim Mack's blog</h1>
                                           
 <div id="block-sharebar-sharebar" class="block block-sharebar first odd">
 
       
-  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
 </div>
 
 
 <article class="node-105 node node-blog node-promoted node-teaser clearfix" about="/blog/book-review-future" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/book-review-future">Book Review: The Future</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/book-review-future">Book Review: The Future</a></h2>
             <span property="dc:title" content="Book Review: The Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -102,7 +102,7 @@
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Written by an outsider to the foresight community, an MIT Professor of Digital Media, <i>The Future</i> takes a very interesting approach to its subject. While author Nick Montfort considers the works of futurists, he also examines the works of artists, inventors, and designers and how they have imagined the future. Montfort takes a broad view of the future, but one skeptical of the forecasting mode as the only pathway to visioning. Instead, he examines an increasingly popular approach to social, economic, and political change—i.e., what he (and others) have called <i>future making.</i></p>
 </div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/book-review-future" rel="tag" title="Book Review: The Future">Read more<span class="element-invisible"> about Book Review: The Future</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/book-review-future" rel="tag" title="Book Review: The Future">Read more<span class="element-invisible"> about Book Review: The Future</span></a></li>
 </ul>
   
 </article>
@@ -127,7 +127,7 @@
 <article class="node-79 node node-blog node-promoted node-teaser clearfix" about="/blog/vr-and-ai-development" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/vr-and-ai-development">VR and AI Development</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/vr-and-ai-development">VR and AI Development</a></h2>
             <span property="dc:title" content="VR and AI Development" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -156,7 +156,7 @@
 /*--><!]]>*/
 </style><p>
 The trouble with virtual reality (VR) is that science fiction and other popular media have so raised expectations that people are always disappointed, because they all think that fully functional VR is already here. But what VR is really good at is storytelling, simulator games, and training of all sorts.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/vr-and-ai-development" rel="tag" title="VR and AI Development">Read more<span class="element-invisible"> about VR and AI Development</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/vr-and-ai-development" rel="tag" title="VR and AI Development">Read more<span class="element-invisible"> about VR and AI Development</span></a></li>
 </ul>
   
 </article>
@@ -180,7 +180,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
 <article class="node-59 node node-blog node-promoted node-teaser clearfix" about="/blog/coal-and-cascading-consequences-change" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/coal-and-cascading-consequences-change">Coal and the Cascading Consequences of Change </a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/coal-and-cascading-consequences-change">Coal and the Cascading Consequences of Change </a></h2>
             <span property="dc:title" content="Coal and the Cascading Consequences of Change " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -190,7 +190,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Much has been said about clean coal, and how it is a “wave of the future.” Clean coal refers to reducing or neutralizing greenhouse gas emissions at the burn point, but regardless of China’s continuing commitment to coal-powered electrical plants, the United States has a natural gas glut and increasingly cost-competitive wind and solar power. As well, mountaintop leveling, destructive chemical processing, and byproduct disposal challenges continue to complicate any solutions that billion-dollar U.S. projects such as the recently canceled FutureGen might have produced.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/coal-and-cascading-consequences-change" rel="tag" title="Coal and the Cascading Consequences of Change ">Read more<span class="element-invisible"> about Coal and the Cascading Consequences of Change </span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/coal-and-cascading-consequences-change" rel="tag" title="Coal and the Cascading Consequences of Change ">Read more<span class="element-invisible"> about Coal and the Cascading Consequences of Change </span></a></li>
 </ul>
   
 </article>
@@ -214,7 +214,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
 <article class="node-49 node node-blog node-promoted node-teaser clearfix" about="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/aging%E2%80%99s-social-and-economic-impacts-part-two">Aging’s Social and Economic Impacts (Part Two) </a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two">Aging’s Social and Economic Impacts (Part Two) </a></h2>
             <span property="dc:title" content="Aging’s Social and Economic Impacts (Part Two) " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -224,14 +224,14 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Older workers are a burden and a salvation for the economic future. We are all aware that the graying populations in developed countries now, followed by developing countries, are a demographic force whose impacts will be felt over the next 50 years.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/aging%E2%80%99s-social-and-economic-impacts-part-two" rel="tag" title="Aging’s Social and Economic Impacts (Part Two) ">Read more<span class="element-invisible"> about Aging’s Social and Economic Impacts (Part Two) </span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two" rel="tag" title="Aging’s Social and Economic Impacts (Part Two) ">Read more<span class="element-invisible"> about Aging’s Social and Economic Impacts (Part Two) </span></a></li>
 </ul>
   
 </article>
 <article class="node-47 node node-blog node-promoted node-teaser clearfix" about="/blog/harnessing-skills-senior-workers" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/harnessing-skills-senior-workers">Harnessing the Skills of Senior Workers</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/harnessing-skills-senior-workers">Harnessing the Skills of Senior Workers</a></h2>
             <span property="dc:title" content="Harnessing the Skills of Senior Workers" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -241,14 +241,14 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Problems such as poverty, global health, basic education, and environmental quality are systemic in nature, have both political and technical dimensions, and tend to require cross-sector and cross-profession collaboration. But there is a knowledge gap in developing and implementing viable solutions.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/harnessing-skills-senior-workers" rel="tag" title="Harnessing the Skills of Senior Workers">Read more<span class="element-invisible"> about Harnessing the Skills of Senior Workers</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/harnessing-skills-senior-workers" rel="tag" title="Harnessing the Skills of Senior Workers">Read more<span class="element-invisible"> about Harnessing the Skills of Senior Workers</span></a></li>
 </ul>
   
 </article>
 <article class="node-44 node node-blog node-promoted node-teaser clearfix" about="/blog/taking-personal-responsibility-larger-issues" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/taking-personal-responsibility-larger-issues">Taking Personal Responsibility for Larger Issues </a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/taking-personal-responsibility-larger-issues">Taking Personal Responsibility for Larger Issues </a></h2>
             <span property="dc:title" content="Taking Personal Responsibility for Larger Issues " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -258,14 +258,14 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>During my last year as president of the World Future Society, I had a very interesting experience concerning people’s feelings about the future. I had been asked to talk about the future of communications technology to a group of senior corporate vice presidents, largely U.S. based. After delivering what I thought was a rather effective (and well received) analysis on the growth of “white noise” in modern society and response strategies, we came to the Q&amp;A discussion, which turned out to be 20 minutes or more.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/taking-personal-responsibility-larger-issues" rel="tag" title="Taking Personal Responsibility for Larger Issues ">Read more<span class="element-invisible"> about Taking Personal Responsibility for Larger Issues </span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/taking-personal-responsibility-larger-issues" rel="tag" title="Taking Personal Responsibility for Larger Issues ">Read more<span class="element-invisible"> about Taking Personal Responsibility for Larger Issues </span></a></li>
 </ul>
   
 </article>
 <article class="node-39 node node-blog node-promoted node-teaser clearfix" about="/blog/chinas-savings-culture-turmoil" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="https://www.aaiforesight.com/blog/chinas-savings-culture-turmoil">China&#039;s Savings Culture in Turmoil</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/chinas-savings-culture-turmoil">China&#039;s Savings Culture in Turmoil</a></h2>
             <span property="dc:title" content="China&#039;s Savings Culture in Turmoil" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
     <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
@@ -275,7 +275,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It has long been a given that the Chinese commitment to saving 40 percent or even more of gross family income would be a continuing element of that nation’s economic profile. While consumer spending is skyrocketing in many developing countries, Chinese citizens have tended to tie their wealth up in savings and real estate, in part because of the lack of social safety nets that are offered by many developed countries. </p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="https://www.aaiforesight.com/blog/chinas-savings-culture-turmoil" rel="tag" title="China&#039;s Savings Culture in Turmoil">Read more<span class="element-invisible"> about China&#039;s Savings Culture in Turmoil</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/chinas-savings-culture-turmoil" rel="tag" title="China&#039;s Savings Culture in Turmoil">Read more<span class="element-invisible"> about China&#039;s Savings Culture in Turmoil</span></a></li>
 </ul>
   
 </article>
@@ -287,7 +287,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
 <li class="pager-item"><a title="Go to page 4" href="tim-mack?page=3">4</a></li>
 <li class="pager-next"><a title="Go to next page" href="tim-mack?page=3">next ›</a></li>
 <li class="pager-last last"><a title="Go to last page" href="tim-mack?page=3">last »</a></li>
-</ul></div>      <a href="../blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
+</ul></div>      <a href="../blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
 
     
     
