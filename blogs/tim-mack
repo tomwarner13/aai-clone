@@ -8,7 +8,7 @@
 <head>
   <meta charset="utf-8" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="alternate" type="application/rss+xml" title="RSS - Tim Mack&#039;s blog" href="../blog/2/feed" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Tim Mack&#039;s blog" href="https://www.aaiforesight.com/blog/2/feed" />
   <title>Tim Mack's blog | AAI Foresight</title>
 
       <meta name="MobileOptimized" content="width">
@@ -16,33 +16,33 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="cleartype" content="on">
 
-  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
-<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
-<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
-  <script src="../sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+  <link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="https://www.aaiforesight.com/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="../sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
-<script src="/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
-<script src="/misc/jquery.once.js?v=1.2"></script>
-<script src="/misc/drupal.js?sc8yrh"></script>
-<script src="../sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script src="https://www.aaiforesight.com/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
+<script src="https://www.aaiforesight.com/sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
 <script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
-<script src="../sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="https://www.aaiforesight.com/sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
 <script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
-<script src="../sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
-<script src="../sites/all/themes/foresight/js/script.js?sc8yrh"></script>
-<script src="../sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"BKa8vCzOtD-Xf_9oWeD1aNsWYsfxfJIkERwr0mq8j-E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blogs\/tim-mack":true}});</script>
+<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"7Hn_aBZ0DtdHndAPweaiinX8zckZeHLusVlpdXQRc8o","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blogs\/tim-mack":true}});</script>
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
     <![endif]-->
   </head>
 <body class="html not-front not-logged-in no-sidebars page-blog page-blog- page-blog-2 section-blogs" >
       <p id="skip-link">
-      <a href="tim-mack#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
+      <a href="#nav-holder" class="element-invisible element-focusable">Jump to navigation</a>
     </p>
       
 <div id="headerbox">
@@ -50,20 +50,20 @@
 
     <div id="search-form-container">
     <div class="block">
-    <form action="tim-mack" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <form action="/blogs/tim-mack" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Vvk7nBmyjMK-txUBFFHHSL7CUzvIlpFp5irM-xELaNU" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-tV1ix86Tz3s1L69tCWXVXqHrQzMKEZoVnaf02Pc3aPc" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>    </div>
     </div>
     
         <div id="identity">
-      <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+      <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.aaiforesight.com/sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
         </div>
 
           <div class="header__name-and-slogan" id="name-and-slogan">
@@ -78,74 +78,74 @@
   <div id="main">
 
     <div id="content" class="column" role="main">
-      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> › </li><li><a href="/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
+      <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a> › </li><li><a href="/blog">Blogs</a> › </li><li>Tim Mack's blog</li></ol></nav>            <a id="main-content"></a>
                     <h1 class="page__title title" id="page-title">Tim Mack's blog</h1>
                                           
 <div id="block-sharebar-sharebar" class="block block-sharebar first odd">
 
       
-  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
 </div>
 
 
 <article class="node-211 node node-blog node-promoted node-teaser clearfix" about="/blog/urban-heat-risks" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/urban-heat-risks">Urban Heat Risks</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/urban-heat-risks">Urban Heat Risks</a></h2>
             <span property="dc:title" content="Urban Heat Risks" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-07-18T09:02:18-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-07-18T09:02:18-04:00">Mon, 2022-07-18 09:02</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>While it has long been a given that global populations have been migrating to cities, and more recently that climate change is increasing average temperatures, weather scientists are now putting the two trends together to raise concerns about the increase in urban heat-related illnesses and deaths.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/urban-heat-risks" rel="tag" title="Urban Heat Risks">Read more<span class="element-invisible"> about Urban Heat Risks</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/urban-heat-risks" rel="tag" title="Urban Heat Risks">Read more<span class="element-invisible"> about Urban Heat Risks</span></a></li>
 </ul>
   
 </article>
 <article class="node-208 node node-blog node-promoted node-teaser clearfix" about="/blog/orbital-issues-space-junk" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/orbital-issues-space-junk">Orbital Issues: Space Junk</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/orbital-issues-space-junk">Orbital Issues: Space Junk</a></h2>
             <span property="dc:title" content="Orbital Issues: Space Junk" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-05-20T14:30:26-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-05-20T14:30:26-04:00">Fri, 2022-05-20 14:30</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>While space is too vast to imagine, and there are few who are actually capable of littering there, the orbital space surrounding our own planet is considerably smaller. In recent years, the number of launches and functional objects in low Earth orbit (LEO) have increased dramatically, and the amount of orbital trash from a variety of sources has grown at an even greater rate. Meanwhile, strategies to deal with potential problems in this arena are still problematic.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/orbital-issues-space-junk" rel="tag" title="Orbital Issues: Space Junk">Read more<span class="element-invisible"> about Orbital Issues: Space Junk</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/orbital-issues-space-junk" rel="tag" title="Orbital Issues: Space Junk">Read more<span class="element-invisible"> about Orbital Issues: Space Junk</span></a></li>
 </ul>
   
 </article>
 <article class="node-203 node node-blog node-promoted node-teaser clearfix" about="/blog/future-impacts-renewable-resources-industries" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/future-impacts-renewable-resources-industries">Future Impacts in Renewable Resources Industries</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/future-impacts-renewable-resources-industries">Future Impacts in Renewable Resources Industries</a></h2>
             <span property="dc:title" content="Future Impacts in Renewable Resources Industries" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-02-14T09:54:58-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-02-14T09:54:58-05:00">Mon, 2022-02-14 09:54</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is a measure of the times to see economic sectors that have historically been substantial producers of byproduct waste take a hard look at what they have been ignoring. One such sector is the forest products industry, which had normally burned its sawdust—much like natural gas was initially burned off by the petroleum industry until they began storing it back underground elsewhere, initially in salt mines.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/future-impacts-renewable-resources-industries" rel="tag" title="Future Impacts in Renewable Resources Industries">Read more<span class="element-invisible"> about Future Impacts in Renewable Resources Industries</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/future-impacts-renewable-resources-industries" rel="tag" title="Future Impacts in Renewable Resources Industries">Read more<span class="element-invisible"> about Future Impacts in Renewable Resources Industries</span></a></li>
 </ul>
   
 </article>
 <article class="node-195 node node-blog node-promoted node-teaser clearfix" about="/blog/solar-and-renewable-power-2021" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/solar-and-renewable-power-2021">Solar and Renewable Power in 2021</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/solar-and-renewable-power-2021">Solar and Renewable Power in 2021</a></h2>
             <span property="dc:title" content="Solar and Renewable Power in 2021" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-09-28T13:14:32-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-09-28T13:14:32-04:00">Tue, 2021-09-28 13:14</time></span>        </p>
       
@@ -154,119 +154,614 @@
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Once a year I try to check in on renewable power issues, and I believe that solar has the most potential but faces the most challenges. </p>
 <p>The Solar Energy Industries Association (SEIA) reports that 43% of new energy capacity added in the United States in 2020 came from solar—the greatest annual increase to date. This additional capacity added up to 19.2 gigawatts (GW), and new installations coming over the next decade will be close to 325 GW,  SEIA estimates.</p>
 <p>A related element in this expansion is the repurposing of brownfields:</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/solar-and-renewable-power-2021" rel="tag" title="Solar and Renewable Power in 2021">Read more<span class="element-invisible"> about Solar and Renewable Power in 2021</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/solar-and-renewable-power-2021" rel="tag" title="Solar and Renewable Power in 2021">Read more<span class="element-invisible"> about Solar and Renewable Power in 2021</span></a></li>
 </ul>
   
 </article>
 <article class="node-191 node node-blog node-promoted node-teaser clearfix" about="/blog/ai-tyrant" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/ai-tyrant">AI as Tyrant</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/ai-tyrant">AI as Tyrant</a></h2>
             <span property="dc:title" content="AI as Tyrant" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-07-20T10:22:37-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-07-20T10:22:37-04:00">Tue, 2021-07-20 10:22</time></span>        </p>
       
           </header>
   
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Not too long ago I wrote about <a href="../blog/management-ai" target="_&quot;blank&quot;">the growing use of AI as a management tool</a> to oversee online customer relations workers and human–robot relations in areas such as warehousing. Since that time, more information has come to light about moving AI decision making up the organizational ladder into human resources, including hiring and firing, and into other arenas, such as decision making in combat arenas.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/ai-tyrant" rel="tag" title="AI as Tyrant">Read more<span class="element-invisible"> about AI as Tyrant</span></a></li>
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Not too long ago I wrote about <a href="http://www.aaiforesight.com/blog/management-ai" target="_&quot;blank&quot;">the growing use of AI as a management tool</a> to oversee online customer relations workers and human–robot relations in areas such as warehousing. Since that time, more information has come to light about moving AI decision making up the organizational ladder into human resources, including hiring and firing, and into other arenas, such as decision making in combat arenas.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/ai-tyrant" rel="tag" title="AI as Tyrant">Read more<span class="element-invisible"> about AI as Tyrant</span></a></li>
 </ul>
   
 </article>
 <article class="node-185 node node-blog node-promoted node-teaser clearfix" about="/blog/management-ai" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/management-ai">Management by AI</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/management-ai">Management by AI</a></h2>
             <span property="dc:title" content="Management by AI" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-03-27T07:11:16-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-03-27T07:11:16-04:00">Sat, 2021-03-27 07:11</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The idea of an animated talking head on a screen giving your annual review may sound fanciful, but AIs (of a sort) have been making headway in the worker oversight arena for a number of years. MetLife customer service representatives have been getting an ongoing review in real time in their screen corner with icons prompting them to “slow down speech,” “increase empathy,” and “up energy levels” (with a coffee cup) developed by <a href="https://cogitocorp.com/" target="_&quot;blank&quot;">Cogito</a>.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/management-ai" rel="tag" title="Management by AI">Read more<span class="element-invisible"> about Management by AI</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/management-ai" rel="tag" title="Management by AI">Read more<span class="element-invisible"> about Management by AI</span></a></li>
 </ul>
   
 </article>
 <article class="node-179 node node-blog node-promoted node-teaser clearfix" about="/blog/book-review-motti%E2%80%99s-transformational-journey-future" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/book-review-motti’s-transformational-journey-future">Book Review: Motti’s Transformational Journey into the Future</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/book-review-motti%E2%80%99s-transformational-journey-future">Book Review: Motti’s Transformational Journey into the Future</a></h2>
             <span property="dc:title" content="Book Review: Motti’s Transformational Journey into the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-01-25T20:08:05-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-01-25T20:08:05-05:00">Mon, 2021-01-25 20:08</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Victor V. Motti “fell” into future studies from an initial intention to pursue a career in engineering, he tells readers at the opening of <i><a href="https://www.cambridgescholars.com/product/978-1-5275-3097-3" target="_&quot;blank&quot;">A Transformation Journey to Creative and Alternative Planetary Futures</a>.</i> Motti is now an international writer, speaker, foresight adviser and, since 2017, the director of the World Futures Studies Federation. </p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/book-review-motti’s-transformational-journey-future" rel="tag" title="Book Review: Motti’s Transformational Journey into the Future">Read more<span class="element-invisible"> about Book Review: Motti’s Transformational Journey into the Future</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/book-review-motti%E2%80%99s-transformational-journey-future" rel="tag" title="Book Review: Motti’s Transformational Journey into the Future">Read more<span class="element-invisible"> about Book Review: Motti’s Transformational Journey into the Future</span></a></li>
 </ul>
   
 </article>
 <article class="node-175 node node-blog node-promoted node-teaser clearfix" about="/blog/electric-power-future" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/electric-power-future">Electric Power in the Future</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/electric-power-future">Electric Power in the Future</a></h2>
             <span property="dc:title" content="Electric Power in the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-11-04T11:56:21-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-11-04T11:56:21-05:00">Wed, 2020-11-04 11:56</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It has been said that foresight as a field has occasionally been short on systems thinking. I do not mean <i>systems thinking</i> as a discrete discipline in itself, which has had its ups and downs over the years, but instead as a through understanding of logistic structures and cross-disciplinary dynamics. In this context, it is also the case that engineering (especially electrical engineering) has not always had a significant voice in setting policy on renewable energy systems development, especially in the United States.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/electric-power-future" rel="tag" title="Electric Power in the Future">Read more<span class="element-invisible"> about Electric Power in the Future</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/electric-power-future" rel="tag" title="Electric Power in the Future">Read more<span class="element-invisible"> about Electric Power in the Future</span></a></li>
 </ul>
   
 </article>
 <article class="node-173 node node-blog node-promoted node-teaser clearfix" about="/blog/searching-future" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/searching-future">Searching for the Future</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/searching-future">Searching for the Future</a></h2>
             <span property="dc:title" content="Searching for the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-10-12T10:31:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-10-12T10:31:47-04:00">Mon, 2020-10-12 10:31</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Martin Sorrell, CEO of <a href="https://www.wpp.com/about/our-history" target="_&quot;blank&quot;">WPP</a>, once said to me (when I worked for him) that studying the future was not so useful as the past, as that was where he found guidance for most of his business decisions. Unfortunately, this was less than a year before he overleveraged his massive merger and acquisitions campaign and the stock value of WPP on the London Stock Exchange fell almost 80% in under a week.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/searching-future" rel="tag" title="Searching for the Future">Read more<span class="element-invisible"> about Searching for the Future</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/searching-future" rel="tag" title="Searching for the Future">Read more<span class="element-invisible"> about Searching for the Future</span></a></li>
 </ul>
   
 </article>
 <article class="node-165 node node-blog node-promoted node-teaser clearfix" about="/blog/methodology-technology-foresight-event-report" typeof="sioc:Post sioct:BlogPost">
 
       <header>
-                    <h2 class="node__title node-title"><a href="../blog/methodology-technology-foresight-event-report">On Methodology: Technology Foresight (Event Report)</a></h2>
+                    <h2 class="node__title node-title"><a href="/blog/methodology-technology-foresight-event-report">On Methodology: Technology Foresight (Event Report)</a></h2>
             <span property="dc:title" content="On Methodology: Technology Foresight (Event Report)" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="../sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-07-01T07:47:55-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-07-01T07:47:55-04:00">Wed, 2020-07-01 07:47</time></span>        </p>
       
           </header>
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>As part of its executive education webinar series on workforce planning in the “next normal,” Vanderbilt University hosted a Zoom lecture June 23 on “Technology Foresight: Predicting and Planning for the Future” led by Professor <a href="https://peabody.vanderbilt.edu/bio/andrew-vanschaack" target="_&quot;blank&quot;">Andy Van Schaack</a> of the School of Engineering Management. The goal was to present futures techniques needed to redesign workforces for a new business landscape.</p></div></div></div>
-  <ul class="links inline"><li class="node-readmore first last"><a href="../blog/methodology-technology-foresight-event-report" rel="tag" title="On Methodology: Technology Foresight (Event Report)">Read more<span class="element-invisible"> about On Methodology: Technology Foresight (Event Report)</span></a></li>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/methodology-technology-foresight-event-report" rel="tag" title="On Methodology: Technology Foresight (Event Report)">Read more<span class="element-invisible"> about On Methodology: Technology Foresight (Event Report)</span></a></li>
 </ul>
   
 </article>
-<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
-<li class="pager-item"><a title="Go to page 2" href="tim-mack?page=1">2</a></li>
-<li class="pager-item"><a title="Go to page 3" href="tim-mack?page=2">3</a></li>
-<li class="pager-item"><a title="Go to page 4" href="tim-mack?page=3">4</a></li>
-<li class="pager-next"><a title="Go to next page" href="tim-mack?page=1">next ›</a></li>
-<li class="pager-last last"><a title="Go to last page" href="tim-mack?page=3">last »</a></li>
-</ul></div>      <a href="../blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
+<article class="node-156 node node-blog node-promoted node-teaser clearfix" about="/blog/growth-ai-partnership-medicine" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/growth-ai-partnership-medicine">Growth of AI Partnership in Medicine</a></h2>
+            <span property="dc:title" content="Growth of AI Partnership in Medicine" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2020-03-03T14:11:29-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-03-03T14:11:29-05:00">Tue, 2020-03-03 14:11</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Not all doctors view artificial intelligence (AI) with favor. However, instead of replacing medical personnel, using AI capabilities allows doctors and technicians to deliver medicine that is more personalized, proactive, and effective. This includes preventive medicine by proactively monitoring early warnings of illnesses, combining digital connectivity and AI analysis, and focusing on wellness in a cost-effective manner.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/growth-ai-partnership-medicine" rel="tag" title="Growth of AI Partnership in Medicine">Read more<span class="element-invisible"> about Growth of AI Partnership in Medicine</span></a></li>
+</ul>
+  
+</article>
+<article class="node-148 node node-blog node-promoted node-teaser clearfix" about="/blog/people-and-their-future" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/people-and-their-future">People and Their Future</a></h2>
+            <span property="dc:title" content="People and Their Future" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-10-27T11:22:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-10-27T11:22:47-04:00">Sun, 2019-10-27 11:22</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The future is a peculiar place, in that it often seen as uninhabited, like a chessboard, where if a series of strategic moves occur, the responses will predictability be this or that. In other words, if people are involved, we all already know how they will react. Perhaps that mindset arises by the enormous amounts of attitude/motivation-related data now being collected—as Edward Snowden reports in his memoir, <i>Permanent Record</i>—with that outcome in mind. But of course Snowden himself is an example of how the actions of a single person can lead to cultural sea changes.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/people-and-their-future" rel="tag" title="People and Their Future">Read more<span class="element-invisible"> about People and Their Future</span></a></li>
+</ul>
+  
+</article>
+<article class="node-135 node node-blog node-promoted node-teaser clearfix" about="/blog/generalists-foresight" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/generalists-foresight">Generalists in Foresight</a></h2>
+            <span property="dc:title" content="Generalists in Foresight" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-06-03T11:45:18-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-06-03T11:45:18-04:00">Mon, 2019-06-03 11:45</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 1984, political scientist <a href="https://www.sas.upenn.edu/tetlock/bio" target="_&quot;blank&quot;">Philip Tetlock</a> observed at a meeting of the U.S. National Research Council’s Committee on American Soviet Relationship how contradictory many authoritative predictions the participants held on the future of the Cold War. As well, he noted their dismissal of the opinions of equally qualified colleagues on the committee.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/generalists-foresight" rel="tag" title="Generalists in Foresight">Read more<span class="element-invisible"> about Generalists in Foresight</span></a></li>
+</ul>
+  
+</article>
+<article class="node-130 node node-blog node-promoted node-teaser clearfix" about="/blog/robotics-and-recovery" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/robotics-and-recovery">Robotics and Recovery</a></h2>
+            <span property="dc:title" content="Robotics and Recovery" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-03-02T15:39:19-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-03-02T15:39:19-05:00">Sat, 2019-03-02 15:39</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Robotics has gotten a bad name in some circles from too many screen scenarios and “what if” thinking about manufacturing assembly lines that has often overreached actual development. However, robotics in medicine is seeing breakthroughs in post-stroke physical therapy and post-injury rehabilitation. </p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/robotics-and-recovery" rel="tag" title="Robotics and Recovery">Read more<span class="element-invisible"> about Robotics and Recovery</span></a></li>
+</ul>
+  
+</article>
+<article class="node-128 node node-blog node-promoted node-teaser clearfix" about="/blog/plights-fancy-review-imaginary-cities" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/plights-fancy-review-imaginary-cities">Plights of Fancy: Review of Imaginary Cities</a></h2>
+            <span property="dc:title" content="Plights of Fancy: Review of Imaginary Cities" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2019-01-26T10:37:27-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-01-26T10:37:27-05:00">Sat, 2019-01-26 10:37</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Darran Anderson’s <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/I/bo26170205.html" target="_&quot;blank&quot;"><i>Imaginary Cities</i></a> (University of Chicago Press, 2015) has an unusual approach for a book on foresight. First, it is actually based in the discipline of architecture and spends a substantial amount of time looking at plans never built due to lack of funding, client change of heart, and catastrophes of all sorts.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/plights-fancy-review-imaginary-cities" rel="tag" title="Plights of Fancy: Review of Imaginary Cities">Read more<span class="element-invisible"> about Plights of Fancy: Review of Imaginary Cities</span></a></li>
+</ul>
+  
+</article>
+<article class="node-126 node node-blog node-promoted node-teaser clearfix" about="/blog/foresight-context-evolution-utopian-thought" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/foresight-context-evolution-utopian-thought">Foresight in the Context of Evolution: Utopian Thought</a></h2>
+            <span property="dc:title" content="Foresight in the Context of Evolution: Utopian Thought" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-12-29T10:06:35-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-12-29T10:06:35-05:00">Sat, 2018-12-29 10:06</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Evolution and foresight are not usually considered in the same sentence, except in the area of <i>conscious evolution,</i> but both disciplines consider how things change and what forces shape that change. Classical evolution has long been seen as glacial and thus not especially relevant to humanity’s social, economic, or political dynamics. Darwin believed that natural selection was a very slow, almost imperceptible process, proceeding in evolutionary time.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/foresight-context-evolution-utopian-thought" rel="tag" title="Foresight in the Context of Evolution: Utopian Thought">Read more<span class="element-invisible"> about Foresight in the Context of Evolution: Utopian Thought</span></a></li>
+</ul>
+  
+</article>
+<article class="node-118 node node-blog node-promoted node-teaser clearfix" about="/blog/collaborative-visioning-science-fiction-2001-and-minority-report" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/collaborative-visioning-science-fiction-2001-and-minority-report">Collaborative Visioning in Science Fiction: 2001 and Minority Report</a></h2>
+            <span property="dc:title" content="Collaborative Visioning in Science Fiction: 2001 and Minority Report" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-09-08T10:26:36-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-09-08T10:26:36-04:00">Sat, 2018-09-08 10:26</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In contrast to science fiction novels and short stories, movies have increasingly been a team effort. Accordingly, various futurists have been able to work in partnership with production staff, providing content and design advice for landmarks of science fiction. <i>2001: A Space Odyssey</i> had Arthur C. Clarke on board from the beginning, which produced a vision which continues to be quite persuasive 50 years after its release in 1968.</p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/collaborative-visioning-science-fiction-2001-and-minority-report" rel="tag" title="Collaborative Visioning in Science Fiction: 2001 and Minority Report">Read more<span class="element-invisible"> about Collaborative Visioning in Science Fiction: 2001 and Minority Report</span></a></li>
+</ul>
+  
+</article>
+<article class="node-114 node node-blog node-promoted node-teaser clearfix" about="/blog/telling-stories-data" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/telling-stories-data">Telling Stories with Data</a></h2>
+            <span property="dc:title" content="Telling Stories with Data" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-07-28T09:00:13-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-07-28T09:00:13-04:00">Sat, 2018-07-28 09:00</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Organizations use scenarios to help understand a wide range of trends, but the process of moving from data collection and analysis to communication via storytelling may result in the loss of consistency and information. A review by Timothy C. Mack</p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/telling-stories-data" rel="tag" title="Telling Stories with Data">Read more<span class="element-invisible"> about Telling Stories with Data</span></a></li>
+</ul>
+  
+</article>
+<article class="node-111 node node-blog node-promoted node-teaser clearfix" about="/blog/book-review-future-learning" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/book-review-future-learning">Book Review: The Future of Learning</a></h2>
+            <span property="dc:title" content="Book Review: The Future of Learning" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-06-24T13:59:54-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-06-24T13:59:54-04:00">Sun, 2018-06-24 13:59</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><i>The Future of Learning: Redefining Readiness from the Inside Out</i> by Katherine Prince, Andrea Saveri, and Jason Swanson (KnowledgeWorks, 2017), offers a forecast for work in 2040 and strategies for preparing learners. Reviewed by Timothy C. Mack.</p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/book-review-future-learning" rel="tag" title="Book Review: The Future of Learning">Read more<span class="element-invisible"> about Book Review: The Future of Learning</span></a></li>
+</ul>
+  
+</article>
+<article class="node-106 node node-blog node-promoted node-teaser clearfix" about="/blog/challenges-participatory-futures" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/challenges-participatory-futures">The Challenges of Participatory Futures</a></h2>
+            <span property="dc:title" content="The Challenges of Participatory Futures" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-05-12T07:59:22-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-05-12T07:59:22-04:00">Sat, 2018-05-12 07:59</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A futurist and Washington state resident provides an insider's view of the state's work to integrate local stakeholders' input into its visioning and planning processes.</p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/challenges-participatory-futures" rel="tag" title="The Challenges of Participatory Futures">Read more<span class="element-invisible"> about The Challenges of Participatory Futures</span></a></li>
+</ul>
+  
+</article>
+<article class="node-105 node node-blog node-promoted node-teaser clearfix" about="/blog/book-review-future" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/book-review-future">Book Review: The Future</a></h2>
+            <span property="dc:title" content="Book Review: The Future" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-04-21T11:23:08-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-04-21T11:23:08-04:00">Sat, 2018-04-21 11:23</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Written by an outsider to the foresight community, an MIT Professor of Digital Media, <i>The Future</i> takes a very interesting approach to its subject. While author Nick Montfort considers the works of futurists, he also examines the works of artists, inventors, and designers and how they have imagined the future. Montfort takes a broad view of the future, but one skeptical of the forecasting mode as the only pathway to visioning. Instead, he examines an increasingly popular approach to social, economic, and political change—i.e., what he (and others) have called <i>future making.</i></p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/book-review-future" rel="tag" title="Book Review: The Future">Read more<span class="element-invisible"> about Book Review: The Future</span></a></li>
+</ul>
+  
+</article>
+<article class="node-100 node node-blog node-promoted node-teaser clearfix" about="/blog/utopia-revisited" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/utopia-revisited">Utopia Revisited</a></h2>
+            <span property="dc:title" content="Utopia Revisited" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2018-01-15T10:34:24-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-01-15T10:34:24-05:00">Mon, 2018-01-15 10:34</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Book review by Timothy C. Mack. When Verso Books in London released a new edition of More’s <i>Utopia</i> nearly 500 years after its first publication, it produced a bit of cultural shock. For many, the term utopia has come into some disrepute as a reactionary or even a delusional social goal, while among others, especially the technocracy of Silicon Valley, it is viewed as just another easily achieved social building project—all it would take is their unlimited funds. </p>
+</div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/utopia-revisited" rel="tag" title="Utopia Revisited">Read more<span class="element-invisible"> about Utopia Revisited</span></a></li>
+</ul>
+  
+</article>
+<article class="node-79 node node-blog node-promoted node-teaser clearfix" about="/blog/vr-and-ai-development" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/vr-and-ai-development">VR and AI Development</a></h2>
+            <span property="dc:title" content="VR and AI Development" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2016-08-22T18:52:31-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2016-08-22T18:52:31-04:00">Mon, 2016-08-22 18:52</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+.img-tbl-right {
+  float: right;
+  text-align: right;
+  background: #fff none repeat scroll 0 0;
+  border-collapse: separate;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    padding: 8px;
+    max-width: 325px;
+}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><p>
+The trouble with virtual reality (VR) is that science fiction and other popular media have so raised expectations that people are always disappointed, because they all think that fully functional VR is already here. But what VR is really good at is storytelling, simulator games, and training of all sorts.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/vr-and-ai-development" rel="tag" title="VR and AI Development">Read more<span class="element-invisible"> about VR and AI Development</span></a></li>
+</ul>
+  
+</article>
+<article class="node-62 node node-blog node-promoted node-teaser clearfix" about="/blog/wool-old-wine-new-bottles" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/wool-old-wine-new-bottles">Wool: Old Wine in New Bottles</a></h2>
+            <span property="dc:title" content="Wool: Old Wine in New Bottles" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-11-24T08:07:46-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-11-24T08:07:46-05:00">Tue, 2015-11-24 08:07</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Wool is one of man’s oldest materials. It’s been in use for at least 3,400 years, but it was not effectively utilized until selective breeding reduced the hard outer layer (known as kemp) that protects the usable fleece. While the industrial uses for this material have grown over the years, the potential now is rapidly expanding. Wool is both water retentive and water repellant, fire resistant up to 1,382 degrees Fahrenheit (and does not melt, unlike synthetics).</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/wool-old-wine-new-bottles" rel="tag" title="Wool: Old Wine in New Bottles">Read more<span class="element-invisible"> about Wool: Old Wine in New Bottles</span></a></li>
+</ul>
+  
+</article>
+<article class="node-59 node node-blog node-promoted node-teaser clearfix" about="/blog/coal-and-cascading-consequences-change" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/coal-and-cascading-consequences-change">Coal and the Cascading Consequences of Change </a></h2>
+            <span property="dc:title" content="Coal and the Cascading Consequences of Change " class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-10-29T23:31:55-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-10-29T23:31:55-04:00">Thu, 2015-10-29 23:31</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Much has been said about clean coal, and how it is a “wave of the future.” Clean coal refers to reducing or neutralizing greenhouse gas emissions at the burn point, but regardless of China’s continuing commitment to coal-powered electrical plants, the United States has a natural gas glut and increasingly cost-competitive wind and solar power. As well, mountaintop leveling, destructive chemical processing, and byproduct disposal challenges continue to complicate any solutions that billion-dollar U.S. projects such as the recently canceled FutureGen might have produced.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/coal-and-cascading-consequences-change" rel="tag" title="Coal and the Cascading Consequences of Change ">Read more<span class="element-invisible"> about Coal and the Cascading Consequences of Change </span></a></li>
+</ul>
+  
+</article>
+<article class="node-54 node node-blog node-promoted node-teaser clearfix" about="/blog/africa-2030" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/africa-2030">Africa 2030</a></h2>
+            <span property="dc:title" content="Africa 2030" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-10-05T22:10:45-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-10-05T22:10:45-04:00">Mon, 2015-10-05 22:10</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is beyond the scope of this blog to discuss the globe in 2030 on a country-by-country basis, but one dramatic shift in employment opportunities is likely to center on the continent of Africa. Between now and 2030, population growth rates in Africa will be greater than for any other country, including China (which has in fact reversed its growth trends through its political one-child policies). Africa is expected to quadruple in population over the next 90 years, with its greatest economic and political growth likely in North Africa.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/africa-2030" rel="tag" title="Africa 2030">Read more<span class="element-invisible"> about Africa 2030</span></a></li>
+</ul>
+  
+</article>
+<article class="node-49 node node-blog node-promoted node-teaser clearfix" about="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two">Aging’s Social and Economic Impacts (Part Two) </a></h2>
+            <span property="dc:title" content="Aging’s Social and Economic Impacts (Part Two) " class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-08-17T21:37:09-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-08-17T21:37:09-04:00">Mon, 2015-08-17 21:37</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Older workers are a burden and a salvation for the economic future. We are all aware that the graying populations in developed countries now, followed by developing countries, are a demographic force whose impacts will be felt over the next 50 years.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two" rel="tag" title="Aging’s Social and Economic Impacts (Part Two) ">Read more<span class="element-invisible"> about Aging’s Social and Economic Impacts (Part Two) </span></a></li>
+</ul>
+  
+</article>
+<article class="node-47 node node-blog node-promoted node-teaser clearfix" about="/blog/harnessing-skills-senior-workers" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/harnessing-skills-senior-workers">Harnessing the Skills of Senior Workers</a></h2>
+            <span property="dc:title" content="Harnessing the Skills of Senior Workers" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-08-02T17:50:37-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-08-02T17:50:37-04:00">Sun, 2015-08-02 17:50</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Problems such as poverty, global health, basic education, and environmental quality are systemic in nature, have both political and technical dimensions, and tend to require cross-sector and cross-profession collaboration. But there is a knowledge gap in developing and implementing viable solutions.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/harnessing-skills-senior-workers" rel="tag" title="Harnessing the Skills of Senior Workers">Read more<span class="element-invisible"> about Harnessing the Skills of Senior Workers</span></a></li>
+</ul>
+  
+</article>
+<article class="node-44 node node-blog node-promoted node-teaser clearfix" about="/blog/taking-personal-responsibility-larger-issues" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/taking-personal-responsibility-larger-issues">Taking Personal Responsibility for Larger Issues </a></h2>
+            <span property="dc:title" content="Taking Personal Responsibility for Larger Issues " class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-07-19T09:22:33-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-07-19T09:22:33-04:00">Sun, 2015-07-19 09:22</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>During my last year as president of the World Future Society, I had a very interesting experience concerning people’s feelings about the future. I had been asked to talk about the future of communications technology to a group of senior corporate vice presidents, largely U.S. based. After delivering what I thought was a rather effective (and well received) analysis on the growth of “white noise” in modern society and response strategies, we came to the Q&amp;A discussion, which turned out to be 20 minutes or more.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/taking-personal-responsibility-larger-issues" rel="tag" title="Taking Personal Responsibility for Larger Issues ">Read more<span class="element-invisible"> about Taking Personal Responsibility for Larger Issues </span></a></li>
+</ul>
+  
+</article>
+<article class="node-39 node node-blog node-promoted node-teaser clearfix" about="/blog/chinas-savings-culture-turmoil" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/chinas-savings-culture-turmoil">China&#039;s Savings Culture in Turmoil</a></h2>
+            <span property="dc:title" content="China&#039;s Savings Culture in Turmoil" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-05-18T09:08:58-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-05-18T09:08:58-04:00">Mon, 2015-05-18 09:08</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It has long been a given that the Chinese commitment to saving 40 percent or even more of gross family income would be a continuing element of that nation’s economic profile. While consumer spending is skyrocketing in many developing countries, Chinese citizens have tended to tie their wealth up in savings and real estate, in part because of the lack of social safety nets that are offered by many developed countries. </p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/chinas-savings-culture-turmoil" rel="tag" title="China&#039;s Savings Culture in Turmoil">Read more<span class="element-invisible"> about China&#039;s Savings Culture in Turmoil</span></a></li>
+</ul>
+  
+</article>
+<article class="node-32 node node-blog node-promoted node-teaser clearfix" about="/blog/marketing-better-world" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/marketing-better-world">Marketing for a Better World</a></h2>
+            <span property="dc:title" content="Marketing for a Better World" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-04-13T21:56:43-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-04-13T21:56:43-04:00">Mon, 2015-04-13 21:56</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>While I have written in the past about the revolution that the world of retail is undergoing, one interesting thing about the future is that it keeps unfolding. Like any lively crossroads of converging technologies, the principles of retail choice (or should I say persuasion) brings psychology, behavioral economics, and even neuroscience together with digital technology to change the mechanics of human decision making.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/marketing-better-world" rel="tag" title="Marketing for a Better World">Read more<span class="element-invisible"> about Marketing for a Better World</span></a></li>
+</ul>
+  
+</article>
+<article class="node-30 node node-blog node-promoted node-teaser clearfix" about="/blog/nanotech-and-cancer" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/nanotech-and-cancer"> Nanotech and Cancer</a></h2>
+            <span property="dc:title" content=" Nanotech and Cancer" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-03-29T23:22:52-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-03-29T23:22:52-04:00">Sun, 2015-03-29 23:22</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>One of the most encouraging trends in medicine in recent years is the growth of systemic approaches to problem solving, much like approaches in foresight. In other words, a range of factors often affect an outcome, each requiring a solution that must work effectively in combination with other related solutions.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/nanotech-and-cancer" rel="tag" title=" Nanotech and Cancer">Read more<span class="element-invisible"> about  Nanotech and Cancer</span></a></li>
+</ul>
+  
+</article>
+<article class="node-28 node node-blog node-promoted node-teaser clearfix" about="/blog/jumping-technology-categories" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/jumping-technology-categories">Jumping Technology Categories</a></h2>
+            <span property="dc:title" content="Jumping Technology Categories" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-03-08T13:24:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-03-08T13:24:47-04:00">Sun, 2015-03-08 13:24</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Over the years, I have written concerning the unexpected consequences for companies of moving into technologies completely new to them, encouraged by their success in other, unrelated arenas. The illusion that success is a quality that travels with its recipient to new endeavors is a form of hubris that seems most endemic to areas like Silicon Valley in California.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/jumping-technology-categories" rel="tag" title="Jumping Technology Categories">Read more<span class="element-invisible"> about Jumping Technology Categories</span></a></li>
+</ul>
+  
+</article>
+<article class="node-26 node node-blog node-promoted node-teaser clearfix" about="/blog/battery-challenges-coming-years" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/battery-challenges-coming-years"> Battery Challenges in Coming Years</a></h2>
+            <span property="dc:title" content=" Battery Challenges in Coming Years" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-02-26T00:05:08-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-02-26T00:05:08-05:00">Thu, 2015-02-26 00:05</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Electric vehicles (EVs) continue to climb in attractiveness, with the Tesla Model S winning acceleration comparisons hands down. Their environmental advantages are clear, but the cost and recharge requirements of automobile batteries continue to stand in the path of broad market acceptance of EVs. Breakthroughs in this area are announced regularly; however, any celebrations might be followed by an “Oops!” announcement, or the “breakthrough” may gain no real momentum and just fade away quietly.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/battery-challenges-coming-years" rel="tag" title=" Battery Challenges in Coming Years">Read more<span class="element-invisible"> about  Battery Challenges in Coming Years</span></a></li>
+</ul>
+  
+</article>
+<article class="node-24 node node-blog node-promoted node-teaser clearfix" about="/blog/solar-power-industry-and-its-growing-pains" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/solar-power-industry-and-its-growing-pains"> The Solar Power Industry and Its Growing Pains</a></h2>
+            <span property="dc:title" content=" The Solar Power Industry and Its Growing Pains" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-02-08T12:04:38-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-02-08T12:04:38-05:00">Sun, 2015-02-08 12:04</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The <a href="http://www.kiuc.coop/">Kauai Island Utility Cooperative</a> in the Hawaiian Islands would seem to be the poster child for the increasing market penetration of solar power. KIUC has quintupled utility-scale solar capacity over the past year and soon may approach 80% of peak power generation for solar on the island, as <i>MIT Technology Review</i> contributing editor <strong>Peter Fairley</strong> recently <a href="http://www.technologyreview.com/news/534266/hawaiis-solar--push-strains-the-grad">reported</a>.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/solar-power-industry-and-its-growing-pains" rel="tag" title=" The Solar Power Industry and Its Growing Pains">Read more<span class="element-invisible"> about  The Solar Power Industry and Its Growing Pains</span></a></li>
+</ul>
+  
+</article>
+<article class="node-22 node node-blog node-promoted node-teaser clearfix" about="/blog/legal-nightmares-self-driving-cars" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/legal-nightmares-self-driving-cars"> The Legal Nightmares of Self-Driving Cars</a></h2>
+            <span property="dc:title" content=" The Legal Nightmares of Self-Driving Cars" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2015-01-24T16:51:16-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-01-24T16:51:16-05:00">Sat, 2015-01-24 16:51</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The auto industry is clearly convinced that the question of autonomous vehicles is “not if, but when,” <a href="http://blogs.motortrend.com/1501_lawyering_up_for_autonomy_technologue.html">writes <i>Motor Trend</i></a> technical director <a href="http://www.motortrend.com/staff/frank_markus/">Frank Markus</a>, reporting from a forum on Intelligent Transportation Systems in Detroit. Lux Research projects $87 billion in revenues by 2030. But the view is not so clear concerning how the longstanding legal guidelines around automotive liability will be affected.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/legal-nightmares-self-driving-cars" rel="tag" title=" The Legal Nightmares of Self-Driving Cars">Read more<span class="element-invisible"> about  The Legal Nightmares of Self-Driving Cars</span></a></li>
+</ul>
+  
+</article>
+<article class="node-18 node node-blog node-promoted node-teaser clearfix" about="/blog/building-sustainable-networks-rooftop-resources-project" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/building-sustainable-networks-rooftop-resources-project">Building Sustainable Networks: Rooftop Resources Project</a></h2>
+            <span property="dc:title" content="Building Sustainable Networks: Rooftop Resources Project" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2014-12-20T11:03:46-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2014-12-20T11:03:46-05:00">Sat, 2014-12-20 11:03</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The practical realities of building sustainable networks are coming to life in Oakland, California, under the stewardship of a nonprofit group called <a href="http://www.baylocalize.org/">Bay Localize</a> as part of its Rooftop Resources Project.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/building-sustainable-networks-rooftop-resources-project" rel="tag" title="Building Sustainable Networks: Rooftop Resources Project">Read more<span class="element-invisible"> about Building Sustainable Networks: Rooftop Resources Project</span></a></li>
+</ul>
+  
+</article>
+<article class="node-14 node node-blog node-promoted node-teaser clearfix" about="/blog/indian-ocean-growth-and-jobs-tomorrow" typeof="sioc:Post sioct:BlogPost">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/blog/indian-ocean-growth-and-jobs-tomorrow"> The Indian Ocean: Growth and the Jobs of Tomorrow</a></h2>
+            <span property="dc:title" content=" The Indian Ocean: Growth and the Jobs of Tomorrow" class="rdf-meta element-hidden"></span>
+                  <span class="user-picture">
+    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+        <p class="submitted">
+          <span property="dc:date dc:created" content="2014-11-23T13:22:06-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2014-11-23T13:22:06-05:00">Sun, 2014-11-23 13:22</time></span>        </p>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is often stated that productivity-enhancing technology may eliminate jobs, but innovation will create more. The experience of Réunion Island in the Indian Ocean offers an illustration and test case for this principle.</p></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/blog/indian-ocean-growth-and-jobs-tomorrow" rel="tag" title=" The Indian Ocean: Growth and the Jobs of Tomorrow">Read more<span class="element-invisible"> about  The Indian Ocean: Growth and the Jobs of Tomorrow</span></a></li>
+</ul>
+  
+</article>
+<a href="/blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
 
     
     
@@ -279,18 +774,18 @@
 
         <h2 class="block__title block-title">Log In menu</h2>
     
-  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="../user" title="" class="menu__link">Log in</a></li>
+  <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/user" title="" class="menu__link">Log in</a></li>
 </ul>
 </div>
 <div id="block-menu-block-1" class="block block-menu-block last even" role="navigation">
 
       
   <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
-  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="../inquiries" class="menu__link">Inquiries</a></li>
-<li class="menu__item is-expanded expanded menu-mlid-331"><a href="../about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="../content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
+  <ul class="menu sf-menu"><li class="menu__item is-leaf first leaf menu-mlid-330"><a href="/inquiries" class="menu__link">Inquiries</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-331"><a href="/about" class="menu__link">About</a><ul class="menu sf-menu"><li class="menu__item is-leaf first last leaf menu-mlid-729"><a href="/content/tim-mack-founder" class="menu__link">Tim Mack</a></li>
 </ul></li>
-<li class="menu__item is-leaf leaf menu-mlid-374"><a href="../content/project-overview" class="menu__link">Project Overview</a></li>
-<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="../newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-374"><a href="/content/project-overview" class="menu__link">Project Overview</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-424"><a href="/newsletter" class="menu__link">Foresight Signals Newsletter</a></li>
 </ul></div>
 
 </div>
@@ -306,14 +801,14 @@
       
   <p>Copyright 2025 AAI Foresight Inc. All rights reserved.</p>
 <ul>
-<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
-<li><strong>Telephone:</strong> 202-431-1652</li>
-<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
+<li><strong>Address:</strong> Timothy C. Mack, 1619 Main Street, #1172, Freeland, WA 98249 U.S.A.</li>
+<li><strong>Telephone:</strong> 202-431-1652</li>
+<li><a href="mailto:tcmack333@gmail.com">Email Tim Mack</a></li>
 </ul>
 <ul class="smaller-text" style="padding-bottom:1em !important;">
-<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
-<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
-<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
+<li><strong>Consulting Editor:</strong> Cynthia G. Wagner, <a href="mailto:CynthiaGWagner@gmail.com">Email</a> | Twitter: <a href="http://www.twitter.com/@CynWag1">@CynWag1</a></li>
+<li><strong>Webmaster and IT Consultant:</strong> <a href="mailto:tomwarner13@gmail.com">Tom Warner</a></li>
+<li><strong>Website Designer:</strong> <a href="http://www.lisamathiasdesign.net">Lisa Mathias</a></li>
 </ul>
 
 </div>
