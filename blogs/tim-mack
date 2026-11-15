@@ -8,7 +8,7 @@
 <head>
   <meta charset="utf-8" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="alternate" type="application/rss+xml" title="RSS - Tim Mack&#039;s blog" href="https://www.aaiforesight.com/blog/2/feed" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Tim Mack&#039;s blog" href="/blog/2/feed" />
   <title>Tim Mack's blog | AAI Foresight</title>
 
       <meta name="MobileOptimized" content="width">
@@ -16,25 +16,25 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="cleartype" content="on">
 
-  <link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.aaiforesight.com/sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
-  <script src="https://www.aaiforesight.com/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="https://www.aaiforesight.com/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
-<script src="https://www.aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.aaiforesight.com/misc/drupal.js?sc8yrh"></script>
-<script src="https://www.aaiforesight.com/sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script src="/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="/misc/jquery.once.js?v=1.2"></script>
+<script src="/misc/drupal.js?sc8yrh"></script>
+<script src="/sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
 <script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
-<script src="https://www.aaiforesight.com/sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="/sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
 <script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
-<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
-<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/script.js?sc8yrh"></script>
-<script src="https://www.aaiforesight.com/sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
 <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"7Hn_aBZ0DtdHndAPweaiinX8zckZeHLusVlpdXQRc8o","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"sharebar":{"cls":"#sharebar","hrcls":"#sharebarx"},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blogs\/tim-mack":true}});</script>
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
@@ -63,7 +63,7 @@
     </div>
     
         <div id="identity">
-      <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.aaiforesight.com/sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+      <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
         </div>
 
           <div class="header__name-and-slogan" id="name-and-slogan">
@@ -84,7 +84,7 @@
 <div id="block-sharebar-sharebar" class="block block-sharebar first odd">
 
       
-  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://www.aaiforesight.com/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="https://www.aaiforesight.com/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
+  <ul id="sharebar" style="background:#FFFFFF;border-style:solid;border-color:#CCCCCC;border-width:1px;margin-top:50px;"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="top"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="box_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggMedium"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button2.js"></script></li><li class="credit"><a href="http://www.socialseo.com/drupal-development/sharebar-module.html" target="_blank">Sharebar</a></li></ul><ul id="sharebarx"><li><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="/blogs/tim-mack" data-counter="right"></script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-url="/blogs/tim-mack" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <html xmlns:fb="http://ogp.me/ns/fb#"> <fb:like href="/blogs/tim-mack" send="true" layout="button_count" width="450" show_faces="true"></fb:like></li><li><script type="text/javascript">(function() { var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0]; s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/buttons.js'; s1.parentNode.insertBefore(s, s1); })(); </script><a class="DiggThisButton DiggCompact"></a></li><li><script language="javascript" src="http://widgets.dzone.com/links/widgets/zoneit.js"></script></li><li><script type="text/javascript" src="http://reddit.com/static/button/button1.js"></script></li></ul>
 </div>
 
 
@@ -94,7 +94,7 @@
                     <h2 class="node__title node-title"><a href="/blog/urban-heat-risks">Urban Heat Risks</a></h2>
             <span property="dc:title" content="Urban Heat Risks" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-07-18T09:02:18-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-07-18T09:02:18-04:00">Mon, 2022-07-18 09:02</time></span>        </p>
       
@@ -111,7 +111,7 @@
                     <h2 class="node__title node-title"><a href="/blog/orbital-issues-space-junk">Orbital Issues: Space Junk</a></h2>
             <span property="dc:title" content="Orbital Issues: Space Junk" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-05-20T14:30:26-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-05-20T14:30:26-04:00">Fri, 2022-05-20 14:30</time></span>        </p>
       
@@ -128,7 +128,7 @@
                     <h2 class="node__title node-title"><a href="/blog/future-impacts-renewable-resources-industries">Future Impacts in Renewable Resources Industries</a></h2>
             <span property="dc:title" content="Future Impacts in Renewable Resources Industries" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2022-02-14T09:54:58-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-02-14T09:54:58-05:00">Mon, 2022-02-14 09:54</time></span>        </p>
       
@@ -145,7 +145,7 @@
                     <h2 class="node__title node-title"><a href="/blog/solar-and-renewable-power-2021">Solar and Renewable Power in 2021</a></h2>
             <span property="dc:title" content="Solar and Renewable Power in 2021" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-09-28T13:14:32-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-09-28T13:14:32-04:00">Tue, 2021-09-28 13:14</time></span>        </p>
       
@@ -164,7 +164,7 @@
                     <h2 class="node__title node-title"><a href="/blog/ai-tyrant">AI as Tyrant</a></h2>
             <span property="dc:title" content="AI as Tyrant" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-07-20T10:22:37-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-07-20T10:22:37-04:00">Tue, 2021-07-20 10:22</time></span>        </p>
       
@@ -181,7 +181,7 @@
                     <h2 class="node__title node-title"><a href="/blog/management-ai">Management by AI</a></h2>
             <span property="dc:title" content="Management by AI" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-03-27T07:11:16-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-03-27T07:11:16-04:00">Sat, 2021-03-27 07:11</time></span>        </p>
       
@@ -198,7 +198,7 @@
                     <h2 class="node__title node-title"><a href="/blog/book-review-motti%E2%80%99s-transformational-journey-future">Book Review: Motti’s Transformational Journey into the Future</a></h2>
             <span property="dc:title" content="Book Review: Motti’s Transformational Journey into the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2021-01-25T20:08:05-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-01-25T20:08:05-05:00">Mon, 2021-01-25 20:08</time></span>        </p>
       
@@ -215,7 +215,7 @@
                     <h2 class="node__title node-title"><a href="/blog/electric-power-future">Electric Power in the Future</a></h2>
             <span property="dc:title" content="Electric Power in the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-11-04T11:56:21-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-11-04T11:56:21-05:00">Wed, 2020-11-04 11:56</time></span>        </p>
       
@@ -232,7 +232,7 @@
                     <h2 class="node__title node-title"><a href="/blog/searching-future">Searching for the Future</a></h2>
             <span property="dc:title" content="Searching for the Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-10-12T10:31:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-10-12T10:31:47-04:00">Mon, 2020-10-12 10:31</time></span>        </p>
       
@@ -249,7 +249,7 @@
                     <h2 class="node__title node-title"><a href="/blog/methodology-technology-foresight-event-report">On Methodology: Technology Foresight (Event Report)</a></h2>
             <span property="dc:title" content="On Methodology: Technology Foresight (Event Report)" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-07-01T07:47:55-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-07-01T07:47:55-04:00">Wed, 2020-07-01 07:47</time></span>        </p>
       
@@ -266,7 +266,7 @@
                     <h2 class="node__title node-title"><a href="/blog/growth-ai-partnership-medicine">Growth of AI Partnership in Medicine</a></h2>
             <span property="dc:title" content="Growth of AI Partnership in Medicine" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2020-03-03T14:11:29-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-03-03T14:11:29-05:00">Tue, 2020-03-03 14:11</time></span>        </p>
       
@@ -283,7 +283,7 @@
                     <h2 class="node__title node-title"><a href="/blog/people-and-their-future">People and Their Future</a></h2>
             <span property="dc:title" content="People and Their Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2019-10-27T11:22:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-10-27T11:22:47-04:00">Sun, 2019-10-27 11:22</time></span>        </p>
       
@@ -300,7 +300,7 @@
                     <h2 class="node__title node-title"><a href="/blog/generalists-foresight">Generalists in Foresight</a></h2>
             <span property="dc:title" content="Generalists in Foresight" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2019-06-03T11:45:18-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-06-03T11:45:18-04:00">Mon, 2019-06-03 11:45</time></span>        </p>
       
@@ -317,7 +317,7 @@
                     <h2 class="node__title node-title"><a href="/blog/robotics-and-recovery">Robotics and Recovery</a></h2>
             <span property="dc:title" content="Robotics and Recovery" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2019-03-02T15:39:19-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-03-02T15:39:19-05:00">Sat, 2019-03-02 15:39</time></span>        </p>
       
@@ -334,7 +334,7 @@
                     <h2 class="node__title node-title"><a href="/blog/plights-fancy-review-imaginary-cities">Plights of Fancy: Review of Imaginary Cities</a></h2>
             <span property="dc:title" content="Plights of Fancy: Review of Imaginary Cities" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2019-01-26T10:37:27-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2019-01-26T10:37:27-05:00">Sat, 2019-01-26 10:37</time></span>        </p>
       
@@ -351,7 +351,7 @@
                     <h2 class="node__title node-title"><a href="/blog/foresight-context-evolution-utopian-thought">Foresight in the Context of Evolution: Utopian Thought</a></h2>
             <span property="dc:title" content="Foresight in the Context of Evolution: Utopian Thought" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-12-29T10:06:35-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-12-29T10:06:35-05:00">Sat, 2018-12-29 10:06</time></span>        </p>
       
@@ -368,7 +368,7 @@
                     <h2 class="node__title node-title"><a href="/blog/collaborative-visioning-science-fiction-2001-and-minority-report">Collaborative Visioning in Science Fiction: 2001 and Minority Report</a></h2>
             <span property="dc:title" content="Collaborative Visioning in Science Fiction: 2001 and Minority Report" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-09-08T10:26:36-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-09-08T10:26:36-04:00">Sat, 2018-09-08 10:26</time></span>        </p>
       
@@ -386,7 +386,7 @@
                     <h2 class="node__title node-title"><a href="/blog/telling-stories-data">Telling Stories with Data</a></h2>
             <span property="dc:title" content="Telling Stories with Data" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-07-28T09:00:13-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-07-28T09:00:13-04:00">Sat, 2018-07-28 09:00</time></span>        </p>
       
@@ -404,7 +404,7 @@
                     <h2 class="node__title node-title"><a href="/blog/book-review-future-learning">Book Review: The Future of Learning</a></h2>
             <span property="dc:title" content="Book Review: The Future of Learning" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-06-24T13:59:54-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-06-24T13:59:54-04:00">Sun, 2018-06-24 13:59</time></span>        </p>
       
@@ -422,7 +422,7 @@
                     <h2 class="node__title node-title"><a href="/blog/challenges-participatory-futures">The Challenges of Participatory Futures</a></h2>
             <span property="dc:title" content="The Challenges of Participatory Futures" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-05-12T07:59:22-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-05-12T07:59:22-04:00">Sat, 2018-05-12 07:59</time></span>        </p>
       
@@ -440,7 +440,7 @@
                     <h2 class="node__title node-title"><a href="/blog/book-review-future">Book Review: The Future</a></h2>
             <span property="dc:title" content="Book Review: The Future" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-04-21T11:23:08-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-04-21T11:23:08-04:00">Sat, 2018-04-21 11:23</time></span>        </p>
       
@@ -458,7 +458,7 @@
                     <h2 class="node__title node-title"><a href="/blog/utopia-revisited">Utopia Revisited</a></h2>
             <span property="dc:title" content="Utopia Revisited" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2018-01-15T10:34:24-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2018-01-15T10:34:24-05:00">Mon, 2018-01-15 10:34</time></span>        </p>
       
@@ -476,7 +476,7 @@
                     <h2 class="node__title node-title"><a href="/blog/vr-and-ai-development">VR and AI Development</a></h2>
             <span property="dc:title" content="VR and AI Development" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2016-08-22T18:52:31-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2016-08-22T18:52:31-04:00">Mon, 2016-08-22 18:52</time></span>        </p>
       
@@ -512,7 +512,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/wool-old-wine-new-bottles">Wool: Old Wine in New Bottles</a></h2>
             <span property="dc:title" content="Wool: Old Wine in New Bottles" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-11-24T08:07:46-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-11-24T08:07:46-05:00">Tue, 2015-11-24 08:07</time></span>        </p>
       
@@ -529,7 +529,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/coal-and-cascading-consequences-change">Coal and the Cascading Consequences of Change </a></h2>
             <span property="dc:title" content="Coal and the Cascading Consequences of Change " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-10-29T23:31:55-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-10-29T23:31:55-04:00">Thu, 2015-10-29 23:31</time></span>        </p>
       
@@ -546,7 +546,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/africa-2030">Africa 2030</a></h2>
             <span property="dc:title" content="Africa 2030" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-10-05T22:10:45-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-10-05T22:10:45-04:00">Mon, 2015-10-05 22:10</time></span>        </p>
       
@@ -563,7 +563,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/aging%E2%80%99s-social-and-economic-impacts-part-two">Aging’s Social and Economic Impacts (Part Two) </a></h2>
             <span property="dc:title" content="Aging’s Social and Economic Impacts (Part Two) " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-08-17T21:37:09-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-08-17T21:37:09-04:00">Mon, 2015-08-17 21:37</time></span>        </p>
       
@@ -580,7 +580,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/harnessing-skills-senior-workers">Harnessing the Skills of Senior Workers</a></h2>
             <span property="dc:title" content="Harnessing the Skills of Senior Workers" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-08-02T17:50:37-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-08-02T17:50:37-04:00">Sun, 2015-08-02 17:50</time></span>        </p>
       
@@ -597,7 +597,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/taking-personal-responsibility-larger-issues">Taking Personal Responsibility for Larger Issues </a></h2>
             <span property="dc:title" content="Taking Personal Responsibility for Larger Issues " class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-07-19T09:22:33-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-07-19T09:22:33-04:00">Sun, 2015-07-19 09:22</time></span>        </p>
       
@@ -614,7 +614,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/chinas-savings-culture-turmoil">China&#039;s Savings Culture in Turmoil</a></h2>
             <span property="dc:title" content="China&#039;s Savings Culture in Turmoil" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-05-18T09:08:58-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-05-18T09:08:58-04:00">Mon, 2015-05-18 09:08</time></span>        </p>
       
@@ -631,7 +631,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/marketing-better-world">Marketing for a Better World</a></h2>
             <span property="dc:title" content="Marketing for a Better World" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-04-13T21:56:43-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-04-13T21:56:43-04:00">Mon, 2015-04-13 21:56</time></span>        </p>
       
@@ -648,7 +648,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/nanotech-and-cancer"> Nanotech and Cancer</a></h2>
             <span property="dc:title" content=" Nanotech and Cancer" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-03-29T23:22:52-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-03-29T23:22:52-04:00">Sun, 2015-03-29 23:22</time></span>        </p>
       
@@ -665,7 +665,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/jumping-technology-categories">Jumping Technology Categories</a></h2>
             <span property="dc:title" content="Jumping Technology Categories" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-03-08T13:24:47-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-03-08T13:24:47-04:00">Sun, 2015-03-08 13:24</time></span>        </p>
       
@@ -682,7 +682,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/battery-challenges-coming-years"> Battery Challenges in Coming Years</a></h2>
             <span property="dc:title" content=" Battery Challenges in Coming Years" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-02-26T00:05:08-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-02-26T00:05:08-05:00">Thu, 2015-02-26 00:05</time></span>        </p>
       
@@ -699,7 +699,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/solar-power-industry-and-its-growing-pains"> The Solar Power Industry and Its Growing Pains</a></h2>
             <span property="dc:title" content=" The Solar Power Industry and Its Growing Pains" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-02-08T12:04:38-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-02-08T12:04:38-05:00">Sun, 2015-02-08 12:04</time></span>        </p>
       
@@ -716,7 +716,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/legal-nightmares-self-driving-cars"> The Legal Nightmares of Self-Driving Cars</a></h2>
             <span property="dc:title" content=" The Legal Nightmares of Self-Driving Cars" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2015-01-24T16:51:16-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2015-01-24T16:51:16-05:00">Sat, 2015-01-24 16:51</time></span>        </p>
       
@@ -733,7 +733,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/building-sustainable-networks-rooftop-resources-project">Building Sustainable Networks: Rooftop Resources Project</a></h2>
             <span property="dc:title" content="Building Sustainable Networks: Rooftop Resources Project" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2014-12-20T11:03:46-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2014-12-20T11:03:46-05:00">Sat, 2014-12-20 11:03</time></span>        </p>
       
@@ -750,7 +750,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
                     <h2 class="node__title node-title"><a href="/blog/indian-ocean-growth-and-jobs-tomorrow"> The Indian Ocean: Growth and the Jobs of Tomorrow</a></h2>
             <span property="dc:title" content=" The Indian Ocean: Growth and the Jobs of Tomorrow" class="rdf-meta element-hidden"></span>
                   <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
         <p class="submitted">
           <span property="dc:date dc:created" content="2014-11-23T13:22:06-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2014-11-23T13:22:06-05:00">Sun, 2014-11-23 13:22</time></span>        </p>
       
@@ -761,7 +761,7 @@ The trouble with virtual reality (VR) is that science fiction and other popular 
 </ul>
   
 </article>
-<a href="/blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="https://www.aaiforesight.com/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
+<a href="/blog/2/feed" class="feed-icon" title="Subscribe to RSS - Tim Mack&#039;s blog"><div class="image-and-caption"><img typeof="foaf:Image" src="/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Tim Mack&#039;s blog" /><div class="caption-holder" style="width:16px; max-width:100% !important;"><p class="image-caption"></p></div></div></a>    </div>
 
     
     

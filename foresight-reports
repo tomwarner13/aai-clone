@@ -15,25 +15,25 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="cleartype" content="on">
 
-  <link type="text/css" rel="stylesheet" href="https://aaiforesight.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://aaiforesight.com/sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://aaiforesight.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://aaiforesight.com/sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
-  <script src="https://aaiforesight.com/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_uOcnmSEPANjCJCKsEchj-B6BXgSLMrHl8rsliHLJEHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_AF7isuQEDNEcgV48QmG8jB6QVCdwCMfiuk-nm38d1kc.css" media="all" />
+  <script src="/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="https://aaiforesight.com/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="https://aaiforesight.com/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
-<script src="https://aaiforesight.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
-<script src="https://aaiforesight.com/misc/jquery.once.js?v=1.2"></script>
-<script src="https://aaiforesight.com/misc/drupal.js?sc8yrh"></script>
-<script src="https://aaiforesight.com/sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
+<script src="/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script src="/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.1.4"></script>
+<script src="/misc/jquery.once.js?v=1.2"></script>
+<script src="/misc/drupal.js?sc8yrh"></script>
+<script src="/sites/all/modules/sharebar/js/sharebar.js?sc8yrh"></script>
 <script>jQuery(document).ready(function($) { $('sharebarx').sharebar({horizontal:'TRUE',swidth:'75',minwidth:2000,position:'none',leftOffset:10,rightOffset:10}); });</script>
-<script src="https://aaiforesight.com/sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
+<script src="/sites/all/modules/google_analytics/googleanalytics.js?sc8yrh"></script>
 <script src="https://www.googletagmanager.com/gtag/js?id=G-20R8FBHYJQ"></script>
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-20R8FBHYJQ", {"groups":"default","anonymize_ip":true});</script>
-<script src="https://aaiforesight.com/sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
-<script src="https://aaiforesight.com/sites/all/themes/foresight/js/script.js?sc8yrh"></script>
-<script src="https://aaiforesight.com/sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/superfish.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/script.js?sc8yrh"></script>
+<script src="/sites/all/themes/foresight/js/supersubs.js?sc8yrh"></script>
 <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"foresight","theme_token":"JmVaki3li3gNyUtkAH9PS9sUPxOVLPNmhxMpE0LTS-I","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sharebar\/js\/sharebar.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-20R8FBHYJQ":1,"2":1,"sites\/all\/themes\/foresight\/js\/superfish.js":1,"sites\/all\/themes\/foresight\/js\/script.js":1,"sites\/all\/themes\/foresight\/js\/supersubs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sharebar\/css\/sharebar.css":1,"sites\/all\/themes\/foresight\/system.menus.css":1,"sites\/all\/themes\/foresight\/system.messages.css":1,"sites\/all\/themes\/foresight\/system.theme.css":1,"sites\/all\/themes\/foresight\/css\/styles.css":1,"sites\/all\/themes\/foresight\/css\/jquery.bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider.css":1,"sites\/all\/themes\/foresight\/css\/bxslider_method2.css":1,"sites\/all\/themes\/foresight\/css\/field.css":1,"sites\/all\/themes\/foresight\/css\/sharebar.css":1}},"googleanalytics":{"account":["G-20R8FBHYJQ"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/foresight-reports":true}});</script>
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
@@ -62,7 +62,7 @@
     </div>
     
         <div id="identity">
-      <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://aaiforesight.com/sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
+      <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/default/files/aai_foresight_logo_with_mark.png" alt="Home" class="header__logo-image" /></a>
         </div>
 
           <div class="header__name-and-slogan" id="name-and-slogan">
@@ -95,13 +95,13 @@
             <span property="dc:title" content="Adventures in the Future" class="rdf-meta element-hidden"></span>
               <p class="submitted">
             <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
           <span property="dc:date dc:created" content="2022-10-17T16:56:17-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2022-10-17T16:56:17-04:00">Mon, 2022-10-17 16:56</time></span>        </p>
       
           </header>
   
     
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://aaiforesight.com/sites/default/files/styles/medium/public/Coates%20Mack%20Shostak%20wv02-cgw-C_22.jpg?itok=VBsDoDbd" width="220" height="147" alt="Joe Coates, Tim Mack, Arthur Shostak" title="Tim Mack (center) with Joe Coates and Arthur Shostak, at WF2002 conference." /><div class="caption-holder" style="width:220px; max-width:100% !important;"><p class="image-caption">Tim Mack (center) with Joe Coates and Arthur Shostak, at WF2002 conference.</p></div></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>AAI Foresight Managing Principal Tim Mack reflects on how he arrived at a career in futures studies, including his 10-year tenure as president of the World Future Society, and lessons he has learned.</p>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/medium/public/Coates%20Mack%20Shostak%20wv02-cgw-C_22.jpg?itok=VBsDoDbd" width="220" height="147" alt="Joe Coates, Tim Mack, Arthur Shostak" title="Tim Mack (center) with Joe Coates and Arthur Shostak, at WF2002 conference." /><div class="caption-holder" style="width:220px; max-width:100% !important;"><p class="image-caption">Tim Mack (center) with Joe Coates and Arthur Shostak, at WF2002 conference.</p></div></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>AAI Foresight Managing Principal Tim Mack reflects on how he arrived at a career in futures studies, including his 10-year tenure as president of the World Future Society, and lessons he has learned.</p>
 </div></div></div>
   <ul class="links inline"><li class="node-readmore first last"><a href="/content/adventures-future" rel="tag" title="Adventures in the Future">Read more<span class="element-invisible"> about Adventures in the Future</span></a></li>
 </ul>
@@ -116,7 +116,7 @@
             <span property="dc:title" content="Foresight as an Outsider Activity" class="rdf-meta element-hidden"></span>
               <p class="submitted">
             <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
           <span property="dc:date dc:created" content="2021-03-11T08:21:48-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2021-03-11T08:21:48-05:00">Thu, 2021-03-11 08:21</time></span>        </p>
       
           </header>
@@ -137,13 +137,13 @@
             <span property="dc:title" content="Fundamentals of Foresight: Preparing for a Changing World" class="rdf-meta element-hidden"></span>
               <p class="submitted">
             <span class="user-picture">
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://aaiforesight.com/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/portrait/public/pictures/picture-2-1449696235.jpg?itok=8SYkzVKE" width="100" height="128" alt="Tim Mack" title="Tim Mack" /><div class="caption-holder" style="width:100px; max-width:100% !important;"><p class="image-caption">Tim Mack</p></div></div>  </span>
           <span property="dc:date dc:created" content="2020-03-04T13:39:54-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/tim-mack" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Mack</span> on <time pubdate datetime="2020-03-04T13:39:54-05:00">Wed, 2020-03-04 13:39</time></span>        </p>
       
           </header>
   
     
-    <div class="image-and-caption"><img typeof="foaf:Image" src="https://aaiforesight.com/sites/default/files/styles/medium/public/logo-1356380_1920_geralt_Pixabay_slideshow.png?itok=fNS4tUVF" width="220" height="220" alt="" /><div class="caption-holder" style="width:220px; max-width:100% !important;"><p class="image-caption"></p></div></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><b>Abstract:</b> This report provides an overview of the 10 basic techniques of forecasting that can help individuals and organizations make better decisions and produce a positive impact on the future. <b>By Timothy C. Mack</b></p>
+    <div class="image-and-caption"><img typeof="foaf:Image" src="/sites/default/files/styles/medium/public/logo-1356380_1920_geralt_Pixabay_slideshow.png?itok=fNS4tUVF" width="220" height="220" alt="" /><div class="caption-holder" style="width:220px; max-width:100% !important;"><p class="image-caption"></p></div></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><b>Abstract:</b> This report provides an overview of the 10 basic techniques of forecasting that can help individuals and organizations make better decisions and produce a positive impact on the future. <b>By Timothy C. Mack</b></p>
 </div></div></div>
   <ul class="links inline"><li class="node-readmore first last"><a href="/content/fundamentals-foresight-preparing-changing-world" rel="tag" title="Fundamentals of Foresight: Preparing for a Changing World">Read more<span class="element-invisible"> about Fundamentals of Foresight: Preparing for a Changing World</span></a></li>
 </ul>
